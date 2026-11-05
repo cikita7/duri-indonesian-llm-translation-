@@ -1,0 +1,26 @@
+{
+  "created_at_utc": "2026-08-13T19:14:47.440363+00:00",
+  "scenario": "lora_locked",
+  "input_selected_sha256": "4762152738e9f6d590a63d9c4b91b43f038c70ddb643a4c20b83ec3edd73e305",
+  "test_csv_sha256": "81df8a774d254f67c942dd16515f8ae5824cc0b77bf00f73c8457c038c7efbb0",
+  "sacrebleu_version": "2.5.1",
+  "python": "3.12.13",
+  "metric_protocol": {
+    "bleu": {
+      "library": "sacrebleu",
+      "tokenize": "13a",
+      "level": "corpus"
+    },
+    "chrfpp": {
+      "library": "sacrebleu",
+      "word_order": 2,
+      "level": "corpus"
+    }
+  },
+  "reference_used": true,
+  "reference_stage": "final_evaluation_only",
+  "outputs": {
+    "details": "/workspace/10122233_CikitaMeydilvira_Skripsi/Hasil/final_evaluation/lora_locked/run_20260813T180837Z/final_metric_details.csv",
+    "summary": "/workspace/10122233_CikitaMeydilvira_Skripsi/Hasil/final_evaluation/lora_locked/run_20260813T180837Z/final_metric_summary.json"
+  }
+}

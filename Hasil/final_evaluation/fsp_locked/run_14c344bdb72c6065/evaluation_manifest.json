@@ -1,0 +1,26 @@
+{
+  "created_at_utc": "2026-08-13T19:14:20.554369+00:00",
+  "scenario": "fsp_locked",
+  "input_selected_sha256": "d2d44d8146b474ab63a63947388e7a0b27483518b59a722c44c04d637bda9fb7",
+  "test_csv_sha256": "81df8a774d254f67c942dd16515f8ae5824cc0b77bf00f73c8457c038c7efbb0",
+  "sacrebleu_version": "2.5.1",
+  "python": "3.12.13",
+  "metric_protocol": {
+    "bleu": {
+      "library": "sacrebleu",
+      "tokenize": "13a",
+      "level": "corpus"
+    },
+    "chrfpp": {
+      "library": "sacrebleu",
+      "word_order": 2,
+      "level": "corpus"
+    }
+  },
+  "reference_used": true,
+  "reference_stage": "final_evaluation_only",
+  "outputs": {
+    "details": "/workspace/10122233_CikitaMeydilvira_Skripsi/Hasil/final_evaluation/fsp_locked/run_14c344bdb72c6065/final_metric_details.csv",
+    "summary": "/workspace/10122233_CikitaMeydilvira_Skripsi/Hasil/final_evaluation/fsp_locked/run_14c344bdb72c6065/final_metric_summary.json"
+  }
+}

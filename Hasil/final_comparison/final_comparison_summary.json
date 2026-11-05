@@ -1,0 +1,30 @@
+{
+  "created_at_utc": "2026-08-13T19:39:29.245107+00:00",
+  "primary_metric": "chrF++",
+  "best_by_chrfpp": {
+    "scenario": "lora_locked",
+    "label": "Fine-Tuning LoRA",
+    "score": 33.06478903489144
+  },
+  "best_by_bleu": {
+    "scenario": "fsp_locked",
+    "label": "Fragment-Shot Prompting",
+    "score": 10.565660571285097
+  },
+  "most_stable_by_mean_s3e": {
+    "scenario": "lora_locked",
+    "label": "Fine-Tuning LoRA",
+    "mean_s3e": 0.540777466808944
+  },
+  "bootstrap": {
+    "method": "paired bootstrap resampling over 53 test items",
+    "n_bootstrap": 10000,
+    "seed": 42,
+    "ci": "percentile 95%",
+    "note": "chrF++ is primary; BLEU and S3E are supporting evidence."
+  },
+  "outputs": {
+    "comparison": "/workspace/10122233_CikitaMeydilvira_Skripsi/Hasil/final_comparison/final_comparison_metrics.csv",
+    "paired_bootstrap": "/workspace/10122233_CikitaMeydilvira_Skripsi/Hasil/final_comparison/paired_bootstrap_results.csv"
+  }
+}

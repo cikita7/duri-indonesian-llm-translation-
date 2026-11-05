@@ -1,0 +1,73 @@
+{
+  "created_at_utc": "2026-08-13T21:53:48.090206+00:00",
+  "run_id": "f23f6109bec1a27d",
+  "cases": 159,
+  "evaluator_agents": 3,
+  "valid_judgments": 477,
+  "benchmark_run_id": "372a575a9fa21f91",
+  "benchmark_prompt_hash": "d0e3d1938a7dcd05",
+  "prompt_exact_match_with_benchmark": true,
+  "reference_used": false,
+  "scenario_identity_used": false,
+  "automatic_metrics_used": false,
+  "temperature_sent": false,
+  "max_tokens": 2048,
+  "provider_pinned": true,
+  "provider_fallback": false,
+  "panel": [
+    {
+      "panel_position": 1,
+      "evaluator_key": "E3",
+      "display_name": "Gemini 3.1 Pro Preview",
+      "model_id": "google/gemini-3.1-pro-preview",
+      "developer": "Google",
+      "family": "Gemini",
+      "access_type": "Proprietary",
+      "provider_only": [
+        "google-ai-studio"
+      ],
+      "mean_macro_f1_error_type": 0.9121,
+      "std_macro_f1_error_type": 0.0231,
+      "error_pairwise_agreement": 0.9497,
+      "mean_joint_exact_match": 0.7107,
+      "mean_logical_valid_rate": 1.0
+    },
+    {
+      "panel_position": 2,
+      "evaluator_key": "E1",
+      "display_name": "GPT-5.2",
+      "model_id": "openai/gpt-5.2",
+      "developer": "OpenAI",
+      "family": "GPT",
+      "access_type": "Proprietary",
+      "provider_only": [
+        "openai"
+      ],
+      "mean_macro_f1_error_type": 0.6936,
+      "std_macro_f1_error_type": 0.0209,
+      "error_pairwise_agreement": 0.8742,
+      "mean_joint_exact_match": 0.6101,
+      "mean_logical_valid_rate": 1.0
+    },
+    {
+      "panel_position": 3,
+      "evaluator_key": "E2",
+      "display_name": "Claude Sonnet 4.6",
+      "model_id": "anthropic/claude-sonnet-4.6",
+      "developer": "Anthropic",
+      "family": "Claude",
+      "access_type": "Proprietary",
+      "provider_only": [
+        "anthropic"
+      ],
+      "mean_macro_f1_error_type": 0.6631,
+      "std_macro_f1_error_type": 0.0253,
+      "error_pairwise_agreement": 0.8931,
+      "mean_joint_exact_match": 0.5849,
+      "mean_logical_valid_rate": 0.9937
+    }
+  ],
+  "blind_input": "/workspace/10122233_CikitaMeydilvira_Skripsi/Hasil/llm_evaluator_main/prepared/main_evaluator_blind_159.csv",
+  "technical_attempts": "/workspace/10122233_CikitaMeydilvira_Skripsi/Hasil/llm_evaluator_main/panel_runs/run_f23f6109bec1a27d/main_evaluator_technical_attempts.csv",
+  "final_valid_judgments": "/workspace/10122233_CikitaMeydilvira_Skripsi/Hasil/llm_evaluator_main/panel_runs/run_f23f6109bec1a27d/main_evaluator_final_477.csv"
+}

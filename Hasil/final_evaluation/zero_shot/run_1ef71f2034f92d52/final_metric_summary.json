@@ -1,0 +1,20 @@
+{
+  "created_at_utc": "2026-08-13T19:13:00.530789+00:00",
+  "scenario": "zero_shot",
+  "scenario_label": "Zero-Shot",
+  "input_run_name": "run_1ef71f2034f92d52",
+  "test_rows": 53,
+  "primary_metric": "chrF++",
+  "corpus_chrfpp": 18.976475638395062,
+  "corpus_bleu_13a": 1.2959087741848392,
+  "mean_s3e": 0.7415644708885409,
+  "median_s3e": 0.716870412467738,
+  "s3e_available_rows": 53,
+  "bleu_tokenizer": "13a",
+  "chrf_word_order": 2,
+  "reference_used": true,
+  "reference_stage": "final_evaluation_only",
+  "reference_fingerprint": "f8b668d87795c26dff25017c1ead195394cff5bfc55f5b75522693bcc667c289",
+  "selected_output_path": "/workspace/10122233_CikitaMeydilvira_Skripsi/Hasil/final_selection/zero_shot/run_1ef71f2034f92d52/mbr_selected.csv",
+  "details_path": "/workspace/10122233_CikitaMeydilvira_Skripsi/Hasil/final_evaluation/zero_shot/run_1ef71f2034f92d52/final_metric_details.csv"
+}

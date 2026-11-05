@@ -1,0 +1,54 @@
+﻿scenario,row_id,conversation_no,turn_order,source_text,selected_candidate_index,selected_candidate,selected_output,selected_utility,s3e_value,valid_candidate_count,selection_status,coverage,fragment_count,example_count,max_fragment_len,k_per_fragment
+fsp_locked,C03_T01_A1,3,1,Denmoraka naden tamale tama Panyurak?,1,C1,Pernahkah ada seekor kambing yang berlari di kebun keluarga Panyurak?,0.5586158386877155,0.7408301642900179,5,mbr_selected,0.6,3,7,7,6
+fsp_locked,C03_T02_B1,3,2,"Ieq, penduanmoq.",2,C2,"Ya, sudah dipelajari.",0.8271845069363759,0.27353380202449473,5,mbr_selected,0.5,1,6,7,6
+fsp_locked,C03_T03_A2,3,3,Piranra tacappaq male tama Panyurak?,5,C5,Kapan baru pergi ke Panyurak?,0.6418833940857245,0.5086425494836418,5,mbr_selected,0.4,2,6,7,6
+fsp_locked,C03_T04_B2,3,4,Ia tonna bulan dua tanggalaq duangpulo annan.,1,C1,Bulan dua tanggal dua puluh.,0.9999999972823173,2.7176827492051064e-09,5,mbr_selected,1.0,5,12,7,6
+fsp_locked,C03_T05_A3,3,5,Mangngaparikiq male tama?,2,C2,Apa yang dikerjakan di rumah? Apa yang dikerjakan di rumah?,0.5585725249489437,0.8355222677317565,5,mbr_selected,0.6666666666666666,2,8,7,6
+fsp_locked,C03_T06_B3,3,6,Malenaq ngkita bola loqbang.,2,C2,Saya pergi ke pasar.,0.8508774367883997,0.31070052304109996,5,mbr_selected,0.5,2,9,7,6
+fsp_locked,C03_T07_A4,3,7,Ciapari naloqbang joq bola?,3,C3,Mengapa rumah itu runtuh?,0.8344812880526481,0.23658409446922576,5,mbr_selected,0.75,3,15,7,6
+fsp_locked,C03_T08_B4,3,8,"Taqdei puangna, sanga torro jiongri Pinrang.",3,C3,"Hari ini sore, karena kamu tinggal di Pinrang.",0.5313421085562772,0.9829432206506826,5,mbr_selected,0.3333333333333333,2,9,7,6
+fsp_locked,C03_T09_A5,3,9,Makassingraka joq bola?,5,C5,Siapakah orang-orang di rumah?,0.707454600190661,0.5661558006841818,5,mbr_selected,0.6666666666666666,2,10,7,6
+fsp_locked,C03_T10_B5,3,10,"Makassing na matonggo, pa masussa to wai.",3,C3,"Sudah tiba waktunya, mana yang lebih sulit?",0.3677582837646931,1.3287146127490197,5,mbr_selected,0.7142857142857143,4,10,7,6
+fsp_locked,C03_T11_A6,3,11,"Ia ke nnallikiq tangki wai, teqdamo na masussa to wai ke uranni.",5,C5,"Kalau dia pergi ke tempat penyimpanan air, saya tidak tahu berapa lama waktu yang dibutuhkan untuk mengisi air ke dalam waduk.",0.6069969057552318,0.626237915680419,4,mbr_selected,0.6666666666666666,7,30,7,6
+fsp_locked,C03_T12_B6,3,12,Umbora kuni nnalli?,2,C2,Duri: Umbora kuni nnalli? Indonesia: Di mana Anda bermain?,0.4222261242044316,1.0494067462159837,5,mbr_selected,0.3333333333333333,1,6,7,6
+fsp_locked,C03_T13_A7,3,13,"Teqda kitaq kuissenni, mbai den jao Juppandang.",1,C1,"Saya tidak tahu, mungkin ada di situ Juppandang.",0.8249163013688734,0.27946059733342293,5,mbr_selected,0.7142857142857143,5,18,7,6
+fsp_locked,C03_T14_B7,3,14,Masuliqraka joq tangki?,1,C1,Apakah tangki itu kosong?,0.7510002024845206,0.5837765342160832,5,mbr_selected,0.3333333333333333,1,6,7,6
+fsp_locked,C03_T15_A8,3,15,"Masuliq kitaqna, pa makaccaq dipake mangpulo taun.",4,C4,"Terlalu lama, pa yang digunakan dipakai selama puluhan tahun.",0.8539473874365886,0.2470496210425323,5,mbr_selected,0.2857142857142857,2,6,7,6
+fsp_locked,C09_T01_A1,9,1,Denmoraka balintaq?,5,C5,Pernahkah ada laut yang kering?,0.4413428234112553,0.9097337443322951,5,mbr_selected,0.5,1,1,7,6
+fsp_locked,C09_T02_B1,9,2,Denmo.,4,C4,Denmo.,0.6686784605500862,0.6538760639946158,5,mbr_selected,0.0,0,0,7,6
+fsp_locked,C09_T03_A2,9,3,To umbora joq balintaq?,2,C2,Orang dari mana penyanyi itu?,0.5386898710749722,0.8460670578411664,5,mbr_selected,0.75,2,7,7,6
+fsp_locked,C09_T04_B2,9,4,To jio mai Finlandia.,1,C1,Berapa jauhnya ke Finlandia.,0.8490440854477664,0.2412068448993067,5,mbr_selected,1.0,3,11,7,6
+fsp_locked,C09_T05_A3,9,5,Umborikiq sitammu?,2,C2,Mari duduklah.,0.5260989562298938,0.8238354703354676,5,mbr_selected,0.5,1,1,7,6
+fsp_locked,C09_T06_B3,9,6,Ia tonna kumassikola jio Inggiris na kisitammu.,4,C4,Ia sudah pernah pergi ke Inggris dan kembali.,0.4660475235689469,1.1701306332089207,5,mbr_selected,0.5714285714285714,3,14,7,6
+fsp_locked,C09_T07_A4,9,7,Sicandingrikiqka tamaneq siala?,4,C4,Apakah kamu baik-baik saja?,0.4271365482435793,0.9597453289174256,5,mbr_selected,0.0,0,0,7,6
+fsp_locked,C09_T08_B4,9,8,"Ieq, sicandingkan.",3,C3,"Ya, bersama-sama.",0.6113536823388112,0.7184265325035938,5,mbr_selected,0.5,1,6,7,6
+fsp_locked,C09_T09_A5,9,9,Piramira anakkataq?,2,C2,Apakah kamu baik-baik saja?,0.5603660896884248,0.6357472062847744,5,mbr_selected,0.0,0,0,7,6
+fsp_locked,C09_T10_B5,9,10,"Duami, mesaq baine mesaq muane.",5,C5,"Laki-laki, pekerjaan perempuan adalah pekerjaan perempuan.",0.4616453725720575,1.0354858411224828,5,mbr_selected,0.8,4,10,7,6
+fsp_locked,C09_T11_A6,9,11,Pirang taunmira to muane?,3,C3,Apakah kamu tinggal di sini lama waktu?,0.5043117572759784,1.014629815731236,5,mbr_selected,0.5,1,1,7,6
+fsp_locked,C09_T12_B6,9,12,Duang taunmi sitangnga.,4,C4,Dua tahun lalu.,0.27244725670393877,1.5766031502371205,5,mbr_selected,0.0,0,0,7,6
+fsp_locked,C09_T13_A7,9,13,Umbori joq too?,4,C4,"Saya tidak tahu, mungkin disekitar sini saja dia simpan.",0.6686897186189567,0.5129019359159303,5,mbr_selected,1.0,3,8,7,6
+fsp_locked,C09_T14_B7,9,14,Malei maningo-ningo sola sangpeana.,2,C2,Dia tidak berada di rumah.,0.6835038550253418,0.5177952519004316,5,mbr_selected,0.5,2,7,7,6
+fsp_locked,C09_T15_A8,9,15,Lumingkamiraka to biccuq?,3,C3,Lumingkamiraka to biccuq? Apakah kamu tidak tahu?,0.3751674398469766,1.2138563090968737,5,mbr_selected,0.3333333333333333,1,6,7,6
+fsp_locked,C09_T16_B8,9,16,Teqdapa nalumingka.,2,C2,Belum berlumut.,0.6880707864454461,0.48109343628697665,5,mbr_selected,0.5,1,1,7,6
+fsp_locked,C09_T17_A9,9,17,Piramira isinna?,1,C1,Kamu baik-baik saja?,0.5728263316564339,0.7526480830242092,5,mbr_selected,0.0,0,0,7,6
+fsp_locked,C09_T18_B9,9,18,Duami.,2,C2,Menikah.,0.6422645851906383,0.7398235622378978,5,mbr_selected,0.0,0,0,7,6
+fsp_locked,C09_T19_A10,9,19,Apara nakande tikianuq?,1,C1,Apa yang biasa dia makan?,0.9999998677807873,1.3221922143053801e-07,5,mbr_selected,1.0,1,1,7,6
+fsp_locked,C09_T20_B10,9,20,"Tolloq, camme sola abon-abon siciqdiq.",2,C2,"Talloq, kami dan keluarga kami.",0.4375770159811739,1.1694785196415416,5,mbr_selected,0.2,1,6,7,6
+fsp_locked,C09_T21_A11,9,21,Teqdamoraka nacumucu?,1,C1,Apakah tidak ada yang makan?,0.5284122083472214,0.8236502510519628,5,mbr_selected,0.5,1,1,7,6
+fsp_locked,C09_T22_B11,9,22,Cumucu unapa.,3,C3,Lima jeruk.,0.21197908170132343,1.7549394329176309,4,mbr_selected,0.0,0,0,7,6
+fsp_locked,C33_T01_A1,33,1,Budaraka tedong malillin indeq?,5,C5,Banyak kerbau di sini?,0.9468981400246038,0.08597316642731061,5,mbr_selected,0.75,3,14,7,6
+fsp_locked,C33_T02_B1,33,2,"Ieq, buda jio buntu Latimojong, apa malaira.",2,C2,"Ya, banyak di gunung Latimojong, apa yang tidak ada.",0.855509441667707,0.22183737575701876,5,mbr_selected,0.7142857142857143,4,15,7,6
+fsp_locked,C33_T03_A2,33,3,Matumbara ke dijokkoi?,2,C2,Bagaimana caranya kalau kita memasak?,0.4779207371082347,0.878374971142633,5,mbr_selected,0.6666666666666666,1,5,7,6
+fsp_locked,C33_T04_B2,33,4,Dipaulaqi asu.,2,C2,Dipaulaqi asu. Terjemahan: Ada anjing.,0.4463995326827156,1.1925955111061968,5,mbr_selected,0.0,0,0,7,6
+fsp_locked,C33_T05_A3,33,5,Matumbara ke dibunoi?,5,C5,Bagaimana caranya kalau dibunuh?,0.8426448185191586,0.32210546801126727,5,mbr_selected,0.6666666666666666,1,5,7,6
+fsp_locked,C33_T06_B3,33,6,"Iana dibuno, didokei iaqrika dibakaqi.",3,C3,"Kalau sudah selesai dibuat, lalu dibakar.",0.5131890303545874,0.9295635507677087,5,mbr_selected,0.4,2,11,7,6
+fsp_locked,C33_T07_A4,33,7,Apara dikabuaq doke?,2,C2,Apa yang akan dibuat itu?,0.5112666497678766,0.7950174038697848,5,mbr_selected,0.6666666666666666,2,12,7,6
+fsp_locked,C33_T08_B4,33,8,Ia to dikabuaq doke kajaoh iaqrika bassi. Dipetarannii cappaqna ke ngkabuaq doke.,5,C5,Yang dibuat tali adalah benang. Benang itu dipotong-potong dan digunakan sebagai tali.,0.8566302197359222,0.19727964451301228,5,mbr_selected,0.5,4,15,7,6
+fsp_locked,C33_T09_A5,33,9,Indara macca ngkabuaq doke?,4,C4,Untuk siapa dia membawa makanan?,0.5453924935306611,0.6533028811908927,5,mbr_selected,0.5,2,7,7,6
+fsp_locked,C33_T10_B5,33,10,Buda tau macca ngkabuaq doke nteq mai.,1,C1,Banyak orang yang lebih berpengetahuan di sini.,0.6643545694595876,0.5861976103959485,5,mbr_selected,0.7142857142857143,4,16,7,6
+fsp_locked,C33_T11_A6,33,11,Matumbara joq tedong malillin?,4,C4,Bagaimana cara memasak kerbau?,0.6162114488663992,0.6196885402658451,5,mbr_selected,0.75,3,15,7,6
+fsp_locked,C33_T12_B6,33,12,Susi to beke apa malotong ngasan bulunna pada bang to bai.,1,C1,Seperti apa yang ada di rumah masing-masing.,0.5563981858183562,0.7353690031107893,5,mbr_selected,0.6363636363636364,6,20,7,6
+fsp_locked,C33_T13_A7,33,13,Susiraka to tanduk tedong to tandukkuna?,1,C1,Samakah bentuk tanduk kerbau dengan tanduk sapi?,0.9061983333393406,0.15195517483488646,5,mbr_selected,0.8333333333333334,5,17,7,6
+fsp_locked,C33_T14_B7,33,14,"Teqda. Ia to tanduk tedong malillin tuo lako bokoqna na gaja taran, apa ia to tanduk tedong tuo lako saqdena na teqda namataran gaja.",5,C5,"Tidak. Daging kerbau itu lembut tetapi sangat lezat dimasak kalau pagi, karena menjadi obat penyakit maag kalau belum makan pagi.",0.4617487892153972,0.8937875005256846,5,mbr_selected,0.7916666666666666,13,26,7,6
+fsp_locked,C33_T15_A8,33,15,Ciapari namataran tandukkuna to tedong malillin?,2,C2,Mengapa tanduk kerbau itu tidak berdaging?,0.6850035202894766,0.4253245735876776,5,mbr_selected,0.5,2,7,7,6
+fsp_locked,C33_T16_B8,33,16,"Ia adeqna namataran to tanduk tedong malillin, sanga tuli nasangehhi jio batang kaju.",4,C4,"Orang yang mencari tanduk kerbau malillin, karena tidak mendengar suara kambing di pohon kelapa.",0.5679195983757608,0.8262534943970657,4,mbr_selected,0.6153846153846154,8,30,7,6

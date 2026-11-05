@@ -1,0 +1,18 @@
+{
+  "scenario": "fsp_locked_exact",
+  "run_id": "14c344bdb72c6065",
+  "locked_method": "fsp_exact_fragment",
+  "max_fragment_len": 7,
+  "k_per_fragment": 6,
+  "test_rows": 53,
+  "candidates_per_row": 5,
+  "candidate_rows": 265,
+  "retrieval_rows": 53,
+  "complete": true,
+  "reference_read": false,
+  "retrieval_corpus": "train.csv only",
+  "test_input_hash": "4d3e338a3effb23b17c0dca790808cd031072969484af3ffcb4f1bb9698242d2",
+  "candidates_path": "/workspace/10122233_CikitaMeydilvira_Skripsi/Hasil/final_generation/fsp_locked/run_14c344bdb72c6065/candidates_long.csv",
+  "retrieval_audit_path": "/workspace/10122233_CikitaMeydilvira_Skripsi/Hasil/final_generation/fsp_locked/run_14c344bdb72c6065/retrieval_audit.csv",
+  "wide_path": "/workspace/10122233_CikitaMeydilvira_Skripsi/Hasil/final_generation/fsp_locked/run_14c344bdb72c6065/candidates_wide.csv"
+}

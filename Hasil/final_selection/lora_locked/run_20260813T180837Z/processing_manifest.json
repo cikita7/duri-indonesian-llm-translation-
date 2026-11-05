@@ -1,0 +1,74 @@
+{
+  "created_at_utc": "2026-08-13T19:04:02.220787+00:00",
+  "scenario": "lora_locked",
+  "input_path": "/workspace/10122233_CikitaMeydilvira_Skripsi/Hasil/final_generation/lora_locked/run_20260813T180837Z/candidates_long.csv",
+  "input_sha256": "5a72771853aa3ff50fed1cd426a4f0138a38aa119195a5fe364c26868efe93a3",
+  "generation_manifest": {
+    "created_at_utc": "2026-08-13T18:14:19.691659+00:00",
+    "run_id": "run_20260813T180837Z",
+    "scenario": "lora_locked",
+    "model_id": "meta-llama/Llama-3.1-8B-Instruct",
+    "adapter_dir": "/workspace/10122233_CikitaMeydilvira_Skripsi/Artifacts/lora_locked_adapter",
+    "locked_config_path": "/workspace/10122233_CikitaMeydilvira_Skripsi/Config/lora_locked_config.json",
+    "locked_checkpoint": "checkpoint-159",
+    "locked_checkpoint_epoch": 3.0,
+    "locked_validation_chrfpp": 34.78665232664383,
+    "locked_validation_bleu": 11.057929303516635,
+    "test_rows": 53,
+    "test_source_fingerprint": "5c8cef6129918556b9d28b651d345bf5111e2dcc0dc11ce94605b2a2656b2b1f",
+    "test_reference_read": false,
+    "candidate_count_per_input": 5,
+    "total_candidates": 265,
+    "seeds": [
+      42,
+      43,
+      44,
+      45,
+      46
+    ],
+    "generation": {
+      "temperature": 0.7,
+      "top_p": 0.95,
+      "top_k": 0,
+      "num_beams": 1,
+      "max_new_tokens": 128
+    },
+    "prompt_protocol": "llama_chat_system_plus_user_translation_v6",
+    "prompt_signature": "9e36da98076b91c2a9941d93efebb3da94cdadafd3236608f42092547e73c7ea",
+    "precision": "bfloat16",
+    "quantization": false,
+    "local_files_only": true,
+    "hf_hub_cache": "/workspace/.hf_home/hub",
+    "python": "3.12.13",
+    "torch": "2.12.0+cu130",
+    "gpu": "NVIDIA GeForce RTX 4090",
+    "outputs": {
+      "candidates_long": "/workspace/10122233_CikitaMeydilvira_Skripsi/Hasil/final_generation/lora_locked/run_20260813T180837Z/candidates_long.csv",
+      "candidates_wide": "/workspace/10122233_CikitaMeydilvira_Skripsi/Hasil/final_generation/lora_locked/run_20260813T180837Z/candidates_wide.csv"
+    }
+  },
+  "reference_columns_forbidden": [
+    "gold",
+    "gold_reference",
+    "indonesia_text",
+    "reference",
+    "reference_text"
+  ],
+  "reference_used": false,
+  "embedding_model": "sentence-transformers/paraphrase-multilingual-mpnet-base-v2",
+  "embedding_device": "cuda",
+  "embedding_cache": "/workspace/.hf_home/sentence_transformers",
+  "python": "3.12.13",
+  "torch": "2.12.0+cu130",
+  "sentence_transformers": "3.4.1",
+  "numpy": "2.5.2",
+  "pandas": "2.3.3",
+  "outputs": {
+    "candidate_details": "/workspace/10122233_CikitaMeydilvira_Skripsi/Hasil/final_selection/lora_locked/run_20260813T180837Z/candidate_s3e_mbr_details.csv",
+    "mbr_selected": "/workspace/10122233_CikitaMeydilvira_Skripsi/Hasil/final_selection/lora_locked/run_20260813T180837Z/mbr_selected.csv",
+    "similarity_pairs": "/workspace/10122233_CikitaMeydilvira_Skripsi/Hasil/final_selection/lora_locked/run_20260813T180837Z/similarity_pairs.csv",
+    "similarity_matrices": "/workspace/10122233_CikitaMeydilvira_Skripsi/Hasil/final_selection/lora_locked/run_20260813T180837Z/similarity_matrices.jsonl",
+    "invalid_candidates": "/workspace/10122233_CikitaMeydilvira_Skripsi/Hasil/final_selection/lora_locked/run_20260813T180837Z/invalid_candidates.csv",
+    "summary": "/workspace/10122233_CikitaMeydilvira_Skripsi/Hasil/final_selection/lora_locked/run_20260813T180837Z/s3e_mbr_summary.json"
+  }
+}

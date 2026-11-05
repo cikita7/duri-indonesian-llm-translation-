@@ -1,0 +1,33 @@
+{
+  "created_at_utc": "2026-08-13T20:34:28.920727+00:00",
+  "cases": 159,
+  "scenarios": 3,
+  "rows_per_scenario": 53,
+  "shuffle_seed": 42,
+  "reference_read": false,
+  "scenario_identity_in_blind_input": false,
+  "automatic_metrics_in_blind_input": false,
+  "benchmark_run_id": "372a575a9fa21f91",
+  "benchmark_prompt_hash": "d0e3d1938a7dcd05",
+  "panel_lock_path": "/workspace/10122233_CikitaMeydilvira_Skripsi/Config/evaluator_panel_locked.json",
+  "shared_evidence": {
+    "source": "train_only",
+    "train_rows": 417,
+    "top_k": 3,
+    "embedding_model": "sentence-transformers/paraphrase-multilingual-mpnet-base-v2",
+    "same_evidence_for_same_source": true,
+    "exact_source_match_excluded": true,
+    "test_reference_used_for_retrieval": false
+  },
+  "input_paths": {
+    "zero_shot": "/workspace/10122233_CikitaMeydilvira_Skripsi/Hasil/final_evaluation/zero_shot/run_1ef71f2034f92d52/final_metric_details.csv",
+    "fsp_locked": "/workspace/10122233_CikitaMeydilvira_Skripsi/Hasil/final_evaluation/fsp_locked/run_14c344bdb72c6065/final_metric_details.csv",
+    "lora_locked": "/workspace/10122233_CikitaMeydilvira_Skripsi/Hasil/final_evaluation/lora_locked/run_20260813T180837Z/final_metric_details.csv"
+  },
+  "train_path": "/workspace/10122233_CikitaMeydilvira_Skripsi/Dataset/train.csv",
+  "outputs": {
+    "blind_input": "/workspace/10122233_CikitaMeydilvira_Skripsi/Hasil/llm_evaluator_main/prepared/main_evaluator_blind_159.csv",
+    "private_mapping": "/workspace/10122233_CikitaMeydilvira_Skripsi/Hasil/llm_evaluator_main/prepared/main_evaluator_private_mapping.csv",
+    "evidence_detail": "/workspace/10122233_CikitaMeydilvira_Skripsi/Hasil/llm_evaluator_main/prepared/main_evaluator_shared_evidence_detail.csv"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "scenario": "zero_shot",
+  "run_id": "1ef71f2034f92d52",
+  "test_rows": 53,
+  "candidates_per_row": 5,
+  "candidate_rows": 265,
+  "complete": true,
+  "reference_read": false,
+  "test_input_hash": "4d3e338a3effb23b17c0dca790808cd031072969484af3ffcb4f1bb9698242d2",
+  "candidates_path": "/workspace/10122233_CikitaMeydilvira_Skripsi/Hasil/final_generation/zero_shot/run_1ef71f2034f92d52/candidates_long.csv",
+  "wide_path": "/workspace/10122233_CikitaMeydilvira_Skripsi/Hasil/final_generation/zero_shot/run_1ef71f2034f92d52/candidates_wide.csv"
+}

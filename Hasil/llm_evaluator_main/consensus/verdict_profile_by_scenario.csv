@@ -1,0 +1,7 @@
+﻿scenario_slug,scenario_label,consensus_verdict,count,proportion
+fsp_locked,Fragment-Shot Prompting,layak,7,0.1320754716981132
+fsp_locked,Fragment-Shot Prompting,perlu_ditinjau,46,0.8679245283018868
+lora_locked,Fine-Tuning LoRA,layak,7,0.1320754716981132
+lora_locked,Fine-Tuning LoRA,perlu_ditinjau,46,0.8679245283018868
+zero_shot,Zero-Shot,layak,1,0.018867924528301886
+zero_shot,Zero-Shot,perlu_ditinjau,52,0.9811320754716981

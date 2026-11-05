@@ -1,0 +1,54 @@
+﻿scenario,row_id,conversation_no,turn_order,source_text,selected_candidate_index,selected_candidate,selected_output,selected_utility,s3e_value,valid_candidate_count,selection_status
+zero_shot,C03_T01_A1,3,1,Denmoraka naden tamale tama Panyurak?,4,C4,Apakah Panyurak ada di atas air?,0.4293430288393245,0.9347227273172953,5,mbr_selected
+zero_shot,C03_T02_B1,3,2,"Ieq, penduanmoq.",2,C2,"Ieq, penduanmoq.",0.3978344330294789,1.2897164675676822,5,mbr_selected
+zero_shot,C03_T03_A2,3,3,Piranra tacappaq male tama Panyurak?,3,C3,"Piranha, apa kau sedang mencari Panyurak?",0.6490352189075934,0.6068579978170388,5,mbr_selected
+zero_shot,C03_T04_B2,3,4,Ia tonna bulan dua tanggalaq duangpulo annan.,2,C2,Ia tonna bulan dua tanggalaq duangpulo annan.,0.9086973916265263,0.14823639091522806,5,mbr_selected
+zero_shot,C03_T05_A3,3,5,Mangngaparikiq male tama?,5,C5,Mengapa kamu datang terlambat?,0.412923677357556,1.056581051416854,5,mbr_selected
+zero_shot,C03_T06_B3,3,6,Malenaq ngkita bola loqbang.,2,C2,Malenaq ngkita bola loqbang.,0.6904302312966325,0.6410223526039298,5,mbr_selected
+zero_shot,C03_T07_A4,3,7,Ciapari naloqbang joq bola?,2,C2,Ciapalah naloqbang joq bola?,0.6352929967348313,0.7526756651560677,5,mbr_selected
+zero_shot,C03_T08_B4,3,8,"Taqdei puangna, sanga torro jiongri Pinrang.",1,C1,"Taqdei puangna, sanga torro jiongri Pinrang.",1.0,-0.0,5,mbr_selected
+zero_shot,C03_T09_A5,3,9,Makassingraka joq bola?,1,C1,Makassingraka joq bola?,0.6217774462174792,0.6335290153724329,5,mbr_selected
+zero_shot,C03_T10_B5,3,10,"Makassing na matonggo, pa masussa to wai.",1,C1,"Makassing na matonggo, pa masussa to wai.",0.9999999618018361,3.819816458374716e-08,5,mbr_selected
+zero_shot,C03_T11_A6,3,11,"Ia ke nnallikiq tangki wai, teqdamo na masussa to wai ke uranni.",4,C4,"Ia kemudian pergi ke sebuah tangki air, lalu menyiram air ke dalam wadahnya.",0.6487716567648338,0.5698062282791015,5,mbr_selected
+zero_shot,C03_T12_B6,3,12,Umbora kuni nnalli?,2,C2,Umbora kuni nnalli?,0.5807852818611343,0.716870412467738,5,mbr_selected
+zero_shot,C03_T13_A7,3,13,"Teqda kitaq kuissenni, mbai den jao Juppandang.",3,C3,"Kami tidak akan menyerah, kami akan melihat Juppandang.",0.5364832972022491,0.9479718588928596,5,mbr_selected
+zero_shot,C03_T14_B7,3,14,Masuliqraka joq tangki?,4,C4,Apakah kamu lapar?,0.45050983156958035,0.854743035299564,5,mbr_selected
+zero_shot,C03_T15_A8,3,15,"Masuliq kitaqna, pa makaccaq dipake mangpulo taun.",1,C1,"Kitaqna, pa makaccaq dipake mangpulo taun.",0.5890839211351498,0.7088795691887555,5,mbr_selected
+zero_shot,C09_T01_A1,9,1,Denmoraka balintaq?,2,C2,Apakah kamu baik-baik saja?,0.8226768779028257,0.4035189561317429,5,mbr_selected
+zero_shot,C09_T02_B1,9,2,Denmo.,1,C1,Denmo.,0.9999999764170139,2.358298639756446e-08,5,mbr_selected
+zero_shot,C09_T03_A2,9,3,To umbora joq balintaq?,4,C4,To umbora joq balintaq?,0.5361059221738461,0.7980711191318374,5,mbr_selected
+zero_shot,C09_T04_B2,9,4,To jio mai Finlandia.,4,C4,"Saya tidak tahu apakah Anda ingin saya menerjemahkan kata ""Duri"" atau ""To jio mai Finlandia"". Jika Anda ingin menerjemahkan ""Duri"", maka jawabannya adalah: Tidak ada informasi tentang apa itu ""Duri"" dalam konteks ini.",0.47383891726274047,0.9076729430299711,4,mbr_selected
+zero_shot,C09_T05_A3,9,5,Umborikiq sitammu?,3,C3,Umborikiq sitammu?,0.6612012834211962,0.7009962302763508,5,mbr_selected
+zero_shot,C09_T06_B3,9,6,Ia tonna kumassikola jio Inggiris na kisitammu.,4,C4,Ia sudah mencari jodoh di Inggris dan tidak menemukan.,0.2237342517347562,2.025512289062991,5,mbr_selected
+zero_shot,C09_T07_A4,9,7,Sicandingrikiqka tamaneq siala?,3,C3,Sudah pergi kemanakah kamu?,0.3990206596392879,1.0352421375289063,5,mbr_selected
+zero_shot,C09_T08_B4,9,8,"Ieq, sicandingkan.",3,C3,"Ieq, sicandingkan.",0.8112799219248867,0.2819084250277585,5,mbr_selected
+zero_shot,C09_T09_A5,9,9,Piramira anakkataq?,3,C3,"""Piramira anakkataq?"" dapat diterjemahkan menjadi ""Kamu siapa?""",0.5452364616634365,0.6628419866015933,5,mbr_selected
+zero_shot,C09_T10_B5,9,10,"Duami, mesaq baine mesaq muane.",4,C4,"Jangan lupa, jangan berlupa.",0.42589923170204014,0.9944181031963483,5,mbr_selected
+zero_shot,C09_T11_A6,9,11,Pirang taunmira to muane?,1,C1,Pirang taunmira to muane?,0.9999999221244437,7.787555936917178e-08,5,mbr_selected
+zero_shot,C09_T12_B6,9,12,Duang taunmi sitangnga.,2,C2,Dua tahun tidak lama.,0.5332464305973486,0.8573576017320164,5,mbr_selected
+zero_shot,C09_T13_A7,9,13,Umbori joq too?,3,C3,Udah makan belum?,0.6130797006259867,0.6268965050434578,5,mbr_selected
+zero_shot,C09_T14_B7,9,14,Malei maningo-ningo sola sangpeana.,2,C2,Malei maningo-ningo sola sangpeana.,0.630581410257083,0.7862052819217984,5,mbr_selected
+zero_shot,C09_T15_A8,9,15,Lumingkamiraka to biccuq?,3,C3,Lumingkamiraka to biccuq?,0.5770568430685057,0.8486703714749927,5,mbr_selected
+zero_shot,C09_T16_B8,9,16,Teqdapa nalumingka.,4,C4,Jangan bergurau.,0.5215279283454456,0.8896444356197841,4,mbr_selected
+zero_shot,C09_T17_A9,9,17,Piramira isinna?,1,C1,Piramira isinna?,0.7838874482404017,0.5944748258950691,5,mbr_selected
+zero_shot,C09_T18_B9,9,18,Duami.,3,C3,Lakukan.,0.3954357719247138,1.1557536577983902,5,mbr_selected
+zero_shot,C09_T19_A10,9,19,Apara nakande tikianuq?,1,C1,Kamu sedang mencari tikung?,0.6104506404449538,0.7053491334980146,5,mbr_selected
+zero_shot,C09_T20_B10,9,20,"Tolloq, camme sola abon-abon siciqdiq.",3,C3,"Tolloq, camme sola abon-abon siciqdiq. Terjemahan: Tidak, aku tidak makan abon.",0.6130176514983131,0.5630834490238354,5,mbr_selected
+zero_shot,C09_T21_A11,9,21,Teqdamoraka nacumucu?,2,C2,Apakah kamu baik-baik saja?,0.6409021997347689,0.8011183985275692,5,mbr_selected
+zero_shot,C09_T22_B11,9,22,Cumucu unapa.,2,C2,Cumucu unapa.,0.8334968549106085,0.3030639612421948,5,mbr_selected
+zero_shot,C33_T01_A1,33,1,Budaraka tedong malillin indeq?,3,C3,Budaraka tedong malillin indeq?,0.483214163522164,1.2818572755493864,5,mbr_selected
+zero_shot,C33_T02_B1,33,2,"Ieq, buda jio buntu Latimojong, apa malaira.",2,C2,"Ieq, buda jio buntu Latimojong, apa malaira.",0.5144039102042868,1.0424911893012667,5,mbr_selected
+zero_shot,C33_T03_A2,33,3,Matumbara ke dijokkoi?,2,C2,Apakah kamu lapar?,0.5161160751262297,0.9014997553861386,5,mbr_selected
+zero_shot,C33_T04_B2,33,4,Dipaulaqi asu.,2,C2,Dipaulaqi asu. Terjemahan: Ada buaya.,0.5751822385963753,0.933848246473565,5,mbr_selected
+zero_shot,C33_T05_A3,33,5,Matumbara ke dibunoi?,2,C2,Apakah kamu lapar?,0.49083579675590505,0.9478206127020515,5,mbr_selected
+zero_shot,C33_T06_B3,33,6,"Iana dibuno, didokei iaqrika dibakaqi.",3,C3,"Aku akan membaca, aku akan menulis.",0.19388657322614078,2.1635560742577096,4,mbr_selected
+zero_shot,C33_T07_A4,33,7,Apara dikabuaq doke?,1,C1,Kamu apa kabar?,0.6821405205276644,0.4904258460468499,5,mbr_selected
+zero_shot,C33_T08_B4,33,8,Ia to dikabuaq doke kajaoh iaqrika bassi. Dipetarannii cappaqna ke ngkabuaq doke.,1,C1,Ia itu dibawa ke kajaoh iaqrika bawah. Dibawa ke tempat yang gelap.,0.5487097666043487,0.7159440628608327,5,mbr_selected
+zero_shot,C33_T09_A5,33,9,Indara macca ngkabuaq doke?,1,C1,Indara macam apa yang kamu cari?,0.6583890667110641,0.7336475132592315,5,mbr_selected
+zero_shot,C33_T10_B5,33,10,Buda tau macca ngkabuaq doke nteq mai.,2,C2,Budaya tau makna ngakubuat adik sendiri.,0.43025668116265436,0.9995044938870958,5,mbr_selected
+zero_shot,C33_T11_A6,33,11,Matumbara joq tedong malillin?,2,C2,Matumbara joq tedong malillin?,0.7770559801542865,0.5447161253003032,5,mbr_selected
+zero_shot,C33_T12_B6,33,12,Susi to beke apa malotong ngasan bulunna pada bang to bai.,3,C3,Susi bagaimana tidak bisa menemukan anaknya di tempat itu.,0.579839962752774,0.608994411123492,5,mbr_selected
+zero_shot,C33_T13_A7,33,13,Susiraka to tanduk tedong to tandukkuna?,2,C2,Susiraka to tanduk tedong to tandukkuna?,0.677590908424287,0.46405517550819264,5,mbr_selected
+zero_shot,C33_T14_B7,33,14,"Teqda. Ia to tanduk tedong malillin tuo lako bokoqna na gaja taran, apa ia to tanduk tedong tuo lako saqdena na teqda namataran gaja.",5,C5,"""Kau, aku dengar kamu memiliki tanduk tanduk rusa yang besar di hutan, tetapi saya tidak percaya kamu memiliki tanduk tanduk rusa yang besar di hutan jika kamu tidak menunjukkannya kepada saya.""",0.46030547913634307,0.9255757589435063,4,mbr_selected
+zero_shot,C33_T15_A8,33,15,Ciapari namataran tandukkuna to tedong malillin?,1,C1,Ciapari namataran tandukkuna to tedong malillin?,0.8517115728765847,0.30826983656724,5,mbr_selected
+zero_shot,C33_T16_B8,33,16,"Ia adeqna namataran to tanduk tedong malillin, sanga tuli nasangehhi jio batang kaju.",3,C3,"Ia adeqna namataran tanduk tedong malillin, sanga tuli nasangehhi jio batang kaju.",0.7609839735161057,0.4372978562099215,5,mbr_selected

@@ -1,0 +1,55 @@
+{
+  "created_at_utc": "2026-08-13T18:49:57.717218+00:00",
+  "scenario": "zero_shot",
+  "input_path": "/workspace/10122233_CikitaMeydilvira_Skripsi/Hasil/final_generation/zero_shot/run_1ef71f2034f92d52/candidates_long.csv",
+  "input_sha256": "46640dd0a34d50e5cd6eeea8928b637f422d760f1f3723b506db5f9a6d3ead59",
+  "generation_manifest": {
+    "scenario": "zero_shot",
+    "model_id": "meta-llama/Llama-3.1-8B-Instruct",
+    "test_input_hash": "4d3e338a3effb23b17c0dca790808cd031072969484af3ffcb4f1bb9698242d2",
+    "reference_read": false,
+    "candidate_seeds": [
+      42,
+      43,
+      44,
+      45,
+      46
+    ],
+    "generation": {
+      "do_sample": true,
+      "temperature": 0.7,
+      "top_p": 0.95,
+      "top_k": 0,
+      "num_beams": 1,
+      "max_new_tokens": 128,
+      "repetition_penalty": 1.0
+    },
+    "prompt_version": "zero_shot_duri_indonesia_final_v1",
+    "run_id": "1ef71f2034f92d52",
+    "created_at_utc": "2026-08-13T15:39:41.926451+00:00"
+  },
+  "reference_columns_forbidden": [
+    "gold",
+    "gold_reference",
+    "indonesia_text",
+    "reference",
+    "reference_text"
+  ],
+  "reference_used": false,
+  "embedding_model": "sentence-transformers/paraphrase-multilingual-mpnet-base-v2",
+  "embedding_device": "cuda",
+  "embedding_cache": "/workspace/.hf_home/sentence_transformers",
+  "python": "3.12.13",
+  "torch": "2.12.0+cu130",
+  "sentence_transformers": "3.4.1",
+  "numpy": "2.5.2",
+  "pandas": "2.3.3",
+  "outputs": {
+    "candidate_details": "/workspace/10122233_CikitaMeydilvira_Skripsi/Hasil/final_selection/zero_shot/run_1ef71f2034f92d52/candidate_s3e_mbr_details.csv",
+    "mbr_selected": "/workspace/10122233_CikitaMeydilvira_Skripsi/Hasil/final_selection/zero_shot/run_1ef71f2034f92d52/mbr_selected.csv",
+    "similarity_pairs": "/workspace/10122233_CikitaMeydilvira_Skripsi/Hasil/final_selection/zero_shot/run_1ef71f2034f92d52/similarity_pairs.csv",
+    "similarity_matrices": "/workspace/10122233_CikitaMeydilvira_Skripsi/Hasil/final_selection/zero_shot/run_1ef71f2034f92d52/similarity_matrices.jsonl",
+    "invalid_candidates": "/workspace/10122233_CikitaMeydilvira_Skripsi/Hasil/final_selection/zero_shot/run_1ef71f2034f92d52/invalid_candidates.csv",
+    "summary": "/workspace/10122233_CikitaMeydilvira_Skripsi/Hasil/final_selection/zero_shot/run_1ef71f2034f92d52/s3e_mbr_summary.json"
+  }
+}

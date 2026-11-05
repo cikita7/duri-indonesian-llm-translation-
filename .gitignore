@@ -1,0 +1,23 @@
+# API keys and credentials
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Python cache
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+venv/
+*.py[cod]
+
+# Model weights and checkpoints
+*.safetensors
+pytorch_model*.bin
+adapter_model*.bin
+checkpoint-*/
+checkpoints/
+
+# Cache
+.cache/

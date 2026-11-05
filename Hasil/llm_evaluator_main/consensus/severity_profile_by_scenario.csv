@@ -1,0 +1,14 @@
+﻿scenario_slug,scenario_label,consensus_severity,count,proportion
+fsp_locked,Fragment-Shot Prompting,__no_majority__,3,0.05660377358490566
+fsp_locked,Fragment-Shot Prompting,critical,8,0.1509433962264151
+fsp_locked,Fragment-Shot Prompting,major,35,0.660377358490566
+fsp_locked,Fragment-Shot Prompting,minor,1,0.018867924528301886
+fsp_locked,Fragment-Shot Prompting,none,6,0.11320754716981132
+lora_locked,Fine-Tuning LoRA,__no_majority__,5,0.09433962264150944
+lora_locked,Fine-Tuning LoRA,critical,13,0.24528301886792453
+lora_locked,Fine-Tuning LoRA,major,28,0.5283018867924528
+lora_locked,Fine-Tuning LoRA,none,7,0.1320754716981132
+zero_shot,Zero-Shot,__no_majority__,2,0.03773584905660377
+zero_shot,Zero-Shot,critical,32,0.6037735849056604
+zero_shot,Zero-Shot,major,18,0.33962264150943394
+zero_shot,Zero-Shot,none,1,0.018867924528301886

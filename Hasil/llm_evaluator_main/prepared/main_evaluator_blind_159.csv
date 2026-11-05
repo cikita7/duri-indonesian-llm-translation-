@@ -1,0 +1,1750 @@
+﻿eval_case_id,source_text,candidate_text,shared_evidence
+EVAL001,Matumbara joq tedong malillin?,Bagaimana cara memasak kerbau?,"Contoh 1:
+- Duri: Ia paleq ke susii tuq waqding melohhi ia, pirara doiq la kipasirempun?
+- Indonesia: Kalau begitu mungkin dia sudah mau, berapa uang yang akan kami kumpulkan?
+
+Contoh 2:
+- Duri: Ieq, pirankiq mpamulaqi?
+- Indonesia: Baiklah, kapan kita mulai?
+
+Contoh 3:
+- Duri: Matumbara ke mangkarruk pondankiq?
+- Indonesia: Bagaimana caranya kalau kita mengeruk daun nenas?"
+EVAL002,"Teqda. Ia to tanduk tedong malillin tuo lako bokoqna na gaja taran, apa ia to tanduk tedong tuo lako saqdena na teqda namataran gaja.","Tidak. Tanduk kerbau yang sudah besar akan keluar dari lobang dan banyak berkebun, sedangkan tanduk kerbau yang masih kecil akan keluar dari lobang dan tidak berkebun banyak.","Contoh 1:
+- Duri: Ia paleq ke susii tuq waqding melohhi ia, pirara doiq la kipasirempun?
+- Indonesia: Kalau begitu mungkin dia sudah mau, berapa uang yang akan kami kumpulkan?
+
+Contoh 2:
+- Duri: Iana teqda namangjama kemuanei ke denni ngkadoangngii. Iana muane kebainei.
+- Indonesia: Kalau perempuan dan tidak bekerja, dia bersuami kalau ada yang menyenanginya. Kalau laki-laki beristeri.
+
+Contoh 3:
+- Duri: Denmo messun, apa den unapa lan. Den kusaqding pea napollohhii laqboh. Apannara nakanna?
+- Indonesia: Sudah ada yang keluar, tetapi masih ada di dalam. Saya dengar ada anak-anak terkena parang jatuh, apanya yang kena?"
+EVAL003,Pirang taunmira to muane?,Pirang taunmira to muane?,"Contoh 1:
+- Duri: Apara disanga mangpaendek?
+- Indonesia: Apakah yang dimaksud dengan menaikkan barang?
+
+Contoh 2:
+- Duri: Pirara hetto joq baraqbah ntuq joq?
+- Indonesia: Berapa hektar kebun di sana?
+
+Contoh 3:
+- Duri: Ieq, pirankiq mpamulaqi?
+- Indonesia: Baiklah, kapan kita mulai?"
+EVAL004,"Teqda kitaq kuissenni, mbai den jao Juppandang.","Saya tidak tahu, mungkin ada di situ Juppandang.","Contoh 1:
+- Duri: La kulianaq ke denni dipuongkosoq, iarake teqdai dipuongkosoq menjanggoliq bangraq joloq.
+- Indonesia: Saya akan kuliah kalau ada ongkos, kalau tidak ada ongkos saya akan menganggur dahulu.
+
+Contoh 2:
+- Duri: Iana den doiq, nnalli beke na digereq, ditambai to tau na dikande sola. Iamo disanga mangpadaliq, ke teqdapi naliwaq sangminggu umuruqna.
+- Indonesia: Kalau ada uang, dibelikan kambing, kemudian disembelih, kita panggil orang dan dimakan bersama. Itulah yang dinamakan Haqeqah, kalau belum lewat satu minggu umurnya.
+
+Contoh 3:
+- Duri: Iana meloh una ia, teqdamo namangpasisala to dipaendek. Kukutanaipi joloq naden maneq ratu poleq jio mai.
+- Indonesia: Kalau dia mau, barang yang antaran itu tidak dipersoalkan lagi. Saya tanyai dahulu, nanti bapak datang lagi."
+EVAL005,Umbori joq too?,"Saya tidak tahu, mungkin disekitar sini saja dia simpan.","Contoh 1:
+- Duri: Apara joq noni nenaq?
+- Indonesia: Apakah yang bunyi tadi?
+
+Contoh 2:
+- Duri: Mangngapari to tau ntuq joq?
+- Indonesia: Apa yang sedang dikerjakan orang di sana?
+
+Contoh 3:
+- Duri: Apara disanga 'pariu'?
+- Indonesia: Apakah yang dimaksud dengan 'bersawah'?"
+EVAL006,Piramira isinna?,Piramira isinna?,"Contoh 1:
+- Duri: Piramirikiq sainna melajah bicara Duri?
+- Indonesia: Sudah berapa lama Anda belajar bahasa Duri?
+
+Contoh 2:
+- Duri: La taapara tuq totosik?
+- Indonesia: Mau Anda apakan burung hantu itu?
+
+Contoh 3:
+- Duri: Apa nabawa ke ratui nnollongngii to pea'?
+- Indonesia: Apa biasanya dibawa kalau pergi menjenguk anak-anak?"
+EVAL007,Apara dikabuaq doke?,Kamu apa kabar?,"Contoh 1:
+- Duri: Umbora tapangngujui?
+- Indonesia: Mau ke mana pak?
+
+Contoh 2:
+- Duri: Apara tabawa ke parundunkiq?
+- Indonesia: Apa yang Ibu bawa kalau Ibu mengantarkan makanan?
+
+Contoh 3:
+- Duri: Umbora tani torro?
+- Indonesia: Di mana Anda tinggal?"
+EVAL008,Denmo.,Ada.,"Contoh 1:
+- Duri: Denmo tonna teq namanyumpun to tau na ngkande bola annan.
+- Indonesia: Pernah dahulu orang membakar rumput, akhirnya membakar enam buah rumah.
+
+Contoh 2:
+- Duri: Den, nteq joq sambaliqna saqdan.
+- Indonesia: Ada, di sana, di seberang sungai.
+
+Contoh 3:
+- Duri: Tumoraknaq.
+- Indonesia: Saya menajak rumput."
+EVAL009,Piranra tacappaq male tama Panyurak?,Kapan baru pergi ke Panyurak?,"Contoh 1:
+- Duri: Tatteq pirara namamula ollong to bulan ke pessangpulo aqpaqi?
+- Indonesia: Jam berapakah bulan mulai terbit hari yang keempat belas?
+
+Contoh 2:
+- Duri: Pira kakantaq, pira too adintaq?
+- Indonesia: Berapa orang kakak Anda dan berapa orang adik Anda?
+
+Contoh 3:
+- Duri: Iake melohhi anakkataq, pirara doiq kipaendek?
+- Indonesia: Kalau anak Bapak mau, berapa uang yang akan kami naikkan?"
+EVAL010,Ia tonna bulan dua tanggalaq duangpulo annan.,Ia tonna bulan dua tanggalaq duangpulo annan.,"Contoh 1:
+- Duri: Bulan aqpaq tanggalaq duangpulo kasera.
+- Indonesia: Bulan empat tanggal dua puluh sembilan.
+
+Contoh 2:
+- Duri: Puramirikiqka mantanan pare?
+- Indonesia: Apakah Anda sudah menanam padi?
+
+Contoh 3:
+- Duri: Pessangpulo aqpaqmi to bulan.
+- Indonesia: Sudah hari keempat belas."
+EVAL011,Teqdamoraka nacumucu?,Apakah mereka tidak bisa berbicara?,"Contoh 1:
+- Duri: Teqdamo.
+- Indonesia: Tidak ada lagi.
+
+Contoh 2:
+- Duri: Apara disanga mangpaendek?
+- Indonesia: Apakah yang dimaksud dengan menaikkan barang?
+
+Contoh 3:
+- Duri: Ciapari naden to teqda namangpuasa?
+- Indonesia: Mengapa ada orang yang tidak berpuasa?"
+EVAL012,Dipaulaqi asu.,Dipaulaqi asu. Terjemahan: Ada buaya.,"Contoh 1:
+- Duri: Masuliq gajai. Sisaratuhmo.
+- Indonesia: Terlalu mahal. Rp. 100 saja.
+
+Contoh 2:
+- Duri: La dicerakki to bola sanga mangkami dikabuaq.
+- Indonesia: Rumah kami yang akan dipestakan karena sudah selesai dibuat.
+
+Contoh 3:
+- Duri: Diballakki joloq baqtangna, na dialai to tambukkuna maneq disontiq pormalin.
+- Indonesia: Dibelah dahulu perutnya, kemudian dikeluarkan ususnya, baru disuntik dengan formalin."
+EVAL013,Budaraka tedong malillin indeq?,Banyak kerbau di sini?,"Contoh 1:
+- Duri: Budaraka pondan indeq?
+- Indonesia: Banyakkah nenas di sini?
+
+Contoh 2:
+- Duri: Budaraka bua-bua nteq mai?
+- Indonesia: Apakah banyak buah-buahan di sini?
+
+Contoh 3:
+- Duri: Mangkamiraka napasangngi palapong bolana ambeqna Juhani?
+- Indonesia: Sudahkah selesai dipasangi plapon rumah bapaknya Juhani?"
+EVAL014,Indara macca ngkabuaq doke?,Indara macam apa yang kamu cari?,"Contoh 1:
+- Duri: Indara nnampai pea indeq?
+- Indonesia: Siapakah yang menjaga anak di sini?
+
+Contoh 2:
+- Duri: Digeretan toqraka manuk?
+- Indonesia: Apakah juga disembelihkan ayam?
+
+Contoh 3:
+- Duri: La mangcerak aparikiq?
+- Indonesia: Anda akan pesta apa?"
+EVAL015,To jio mai Finlandia.,"Saya tidak tahu apakah Anda ingin saya menerjemahkan kata ""Duri"" atau ""To jio mai Finlandia"". Jika Anda ingin menerjemahkan ""Duri"", maka jawabannya adalah: Tidak ada informasi tentang apa itu ""Duri"" dalam konteks ini.","Contoh 1:
+- Duri: Macakkeqpikiq jio Finlandia.
+- Indonesia: Lebih dingin di Finlandia.
+
+Contoh 2:
+- Duri: Umbonnari macakkeq jio Finlandia na indeq Baraka?
+- Indonesia: Yang mana lebih dingin di Finlandia atau di Baraka?
+
+Contoh 3:
+- Duri: Jio saqdan Malua disanga liku Roto
+- Indonesia: Di sungai Malua namanya Liku Roto."
+EVAL016,"Iana dibuno, didokei iaqrika dibakaqi.","Kalau sudah selesai, dinaiki kalau sudah selesai dibuat.","Contoh 1:
+- Duri: Ia to disanga sallegalli, ia to tau, denna apa ciqdiq nakabaqci, magalli omi.
+- Indonesia: Orang yang kalau ada sesuatu yang tidak dia sukai, dia marah lagi.
+
+Contoh 2:
+- Duri: Ia sabaq teqda too nawaqding ditaqdean to pangngadaran, iana den una situju, doiq mesaq juta, tedong dua, rido limang pekuluq.
+- Indonesia: Oleh karena tidak bisa juga kita hilangkan adat dan kalau Anda setuju, uang satu juta, kerbau dua ekor, beras lima pikul.
+
+Contoh 3:
+- Duri: Matumbamira anakkataq, meloh unarka?
+- Indonesia: Bagaimana dengan anak Bapak, apakah ia mau?"
+EVAL017,Indara macca ngkabuaq doke?,Siapakah yang membuat jendela itu?,"Contoh 1:
+- Duri: Indara nnampai pea indeq?
+- Indonesia: Siapakah yang menjaga anak di sini?
+
+Contoh 2:
+- Duri: Digeretan toqraka manuk?
+- Indonesia: Apakah juga disembelihkan ayam?
+
+Contoh 3:
+- Duri: La mangcerak aparikiq?
+- Indonesia: Anda akan pesta apa?"
+EVAL018,"Teqda kitaq kuissenni, mbai den jao Juppandang.","Kami tidak menggigit, tapi di Juppandang ada.","Contoh 1:
+- Duri: La kulianaq ke denni dipuongkosoq, iarake teqdai dipuongkosoq menjanggoliq bangraq joloq.
+- Indonesia: Saya akan kuliah kalau ada ongkos, kalau tidak ada ongkos saya akan menganggur dahulu.
+
+Contoh 2:
+- Duri: Iana den doiq, nnalli beke na digereq, ditambai to tau na dikande sola. Iamo disanga mangpadaliq, ke teqdapi naliwaq sangminggu umuruqna.
+- Indonesia: Kalau ada uang, dibelikan kambing, kemudian disembelih, kita panggil orang dan dimakan bersama. Itulah yang dinamakan Haqeqah, kalau belum lewat satu minggu umurnya.
+
+Contoh 3:
+- Duri: Iana meloh una ia, teqdamo namangpasisala to dipaendek. Kukutanaipi joloq naden maneq ratu poleq jio mai.
+- Indonesia: Kalau dia mau, barang yang antaran itu tidak dipersoalkan lagi. Saya tanyai dahulu, nanti bapak datang lagi."
+EVAL019,Piranra tacappaq male tama Panyurak?,Kapan baru akan selesai jalan Panyurak?,"Contoh 1:
+- Duri: Tatteq pirara namamula ollong to bulan ke pessangpulo aqpaqi?
+- Indonesia: Jam berapakah bulan mulai terbit hari yang keempat belas?
+
+Contoh 2:
+- Duri: Pira kakantaq, pira too adintaq?
+- Indonesia: Berapa orang kakak Anda dan berapa orang adik Anda?
+
+Contoh 3:
+- Duri: Iake melohhi anakkataq, pirara doiq kipaendek?
+- Indonesia: Kalau anak Bapak mau, berapa uang yang akan kami naikkan?"
+EVAL020,Piramira isinna?,Kamu baik-baik saja?,"Contoh 1:
+- Duri: Piramirikiq sainna melajah bicara Duri?
+- Indonesia: Sudah berapa lama Anda belajar bahasa Duri?
+
+Contoh 2:
+- Duri: La taapara tuq totosik?
+- Indonesia: Mau Anda apakan burung hantu itu?
+
+Contoh 3:
+- Duri: Apa nabawa ke ratui nnollongngii to pea'?
+- Indonesia: Apa biasanya dibawa kalau pergi menjenguk anak-anak?"
+EVAL021,To jio mai Finlandia.,Orang yang berasal dari Finlandia.,"Contoh 1:
+- Duri: Macakkeqpikiq jio Finlandia.
+- Indonesia: Lebih dingin di Finlandia.
+
+Contoh 2:
+- Duri: Umbonnari macakkeq jio Finlandia na indeq Baraka?
+- Indonesia: Yang mana lebih dingin di Finlandia atau di Baraka?
+
+Contoh 3:
+- Duri: Jio saqdan Malua disanga liku Roto
+- Indonesia: Di sungai Malua namanya Liku Roto."
+EVAL022,Ciapari naloqbang joq bola?,Mengapakah ada guntur?,"Contoh 1:
+- Duri: Sipira luahna baraqbahna tomesaq bola?
+- Indonesia: Berapa luasnya kebun untuk satu keluarga?
+
+Contoh 2:
+- Duri: Mangkami. Macarakkaqmi lan bola.
+- Indonesia: Sudah, sudah sejuk dalam rumah.
+
+Contoh 3:
+- Duri: Bale apara biasa taatta ke mangjalakiq?
+- Indonesia: Ikan apa yang biasa Bapak tangkap kalau menjala?"
+EVAL023,To umbora joq balintaq?,To umbora joq balintaq?,"Contoh 1:
+- Duri: La mangcerak aparikiq?
+- Indonesia: Anda akan pesta apa?
+
+Contoh 2:
+- Duri: Digeretan toqraka manuk?
+- Indonesia: Apakah juga disembelihkan ayam?
+
+Contoh 3:
+- Duri: Apara tuq tatanan?
+- Indonesia: Apa yang Anda tanam itu?"
+EVAL024,Umbora kuni nnalli?,Umbora kuni nnalli?,"Contoh 1:
+- Duri: Apara taalli?
+- Indonesia: Apa yang Anda beli?
+
+Contoh 2:
+- Duri: Tapatumbari tonna tajokkoi?
+- Indonesia: Bagaimana caranya waktu Anda tangkap?
+
+Contoh 3:
+- Duri: Apara tabawa ke parundunkiq?
+- Indonesia: Apa yang Ibu bawa kalau Ibu mengantarkan makanan?"
+EVAL025,Piramira anakkataq?,Apakah kamu baik-baik saja?,"Contoh 1:
+- Duri: Piramirikiq sainna melajah bicara Duri?
+- Indonesia: Sudah berapa lama Anda belajar bahasa Duri?
+
+Contoh 2:
+- Duri: Iake melohhi anakkataq, pirara doiq kipaendek?
+- Indonesia: Kalau anak Bapak mau, berapa uang yang akan kami naikkan?
+
+Contoh 3:
+- Duri: La nnallinaq bandikiq. Sipirara allinna?
+- Indonesia: Saya mau beli pepaya. Berapa harganya?"
+EVAL026,Matumbara ke dibunoi?,Apakah kamu lapar?,"Contoh 1:
+- Duri: Matumbara ke dikabuaqi?
+- Indonesia: Bagaimana caranya kalau dibuat?
+
+Contoh 2:
+- Duri: Matumbara ke dikabuaqi ulang?
+- Indonesia: Bagaimana caranya kalau dibuat tali?
+
+Contoh 3:
+- Duri: Matumbara ke mangkarruk pondankiq?
+- Indonesia: Bagaimana caranya kalau kita mengeruk daun nenas?"
+EVAL027,"Ieq, sicandingkan.","Ieq, sicandingkan.","Contoh 1:
+- Duri: Teqda kubaluk.
+- Indonesia: Saya tidak menjualnya.
+
+Contoh 2:
+- Duri: Teqda ia napakengke.
+- Indonesia: Dia tidak menggigit.
+
+Contoh 3:
+- Duri: Jio baraqbahkuq.
+- Indonesia: Di kebun saya."
+EVAL028,Makassingraka joq bola?,Makassingraka joq bola?,"Contoh 1:
+- Duri: Sipira luahna baraqbahna tomesaq bola?
+- Indonesia: Berapa luasnya kebun untuk satu keluarga?
+
+Contoh 2:
+- Duri: Apara nagaraga to tau jiong bala bola?
+- Indonesia: Apa yang dikerjakan orang di kolong rumah?
+
+Contoh 3:
+- Duri: Inda unamora mpunnai joq baraqbah?
+- Indonesia: Siapa saja yang punya kebun itu?"
+EVAL029,Denmoraka balintaq?,Pernahkah ada laut yang kering?,"Contoh 1:
+- Duri: Denmo tonna teq namanyumpun to tau na ngkande bola annan.
+- Indonesia: Pernah dahulu orang membakar rumput, akhirnya membakar enam buah rumah.
+
+Contoh 2:
+- Duri: Mangngaparikiq?
+- Indonesia: Apa yang Anda kerjakan?
+
+Contoh 3:
+- Duri: La diapora ia. Madoangrikiqka nnalai?
+- Indonesia: Tidak juga untuk apa-apa, maukah Anda mengambilnya?"
+EVAL030,Makassingraka joq bola?,Siapakah orang-orang di rumah?,"Contoh 1:
+- Duri: Sipira luahna baraqbahna tomesaq bola?
+- Indonesia: Berapa luasnya kebun untuk satu keluarga?
+
+Contoh 2:
+- Duri: Apara nagaraga to tau jiong bala bola?
+- Indonesia: Apa yang dikerjakan orang di kolong rumah?
+
+Contoh 3:
+- Duri: Inda unamora mpunnai joq baraqbah?
+- Indonesia: Siapa saja yang punya kebun itu?"
+EVAL031,"Ieq, penduanmoq.","Ieq, penduanmoq.","Contoh 1:
+- Duri: Manyumpunni.
+- Indonesia: Dia membakar hutan.
+
+Contoh 2:
+- Duri: Ieq, jajimi.
+- Indonesia: Ya! Jadilah.
+
+Contoh 3:
+- Duri: Ajena.
+- Indonesia: Kakinya."
+EVAL032,Apara dikabuaq doke?,Apa yang akan dibuat itu?,"Contoh 1:
+- Duri: Umbora tapangngujui?
+- Indonesia: Mau ke mana pak?
+
+Contoh 2:
+- Duri: Apara tabawa ke parundunkiq?
+- Indonesia: Apa yang Ibu bawa kalau Ibu mengantarkan makanan?
+
+Contoh 3:
+- Duri: Umbora tani torro?
+- Indonesia: Di mana Anda tinggal?"
+EVAL033,"Iana dibuno, didokei iaqrika dibakaqi.","Kalau sudah selesai dibuat, lalu dibakar.","Contoh 1:
+- Duri: Ia to disanga sallegalli, ia to tau, denna apa ciqdiq nakabaqci, magalli omi.
+- Indonesia: Orang yang kalau ada sesuatu yang tidak dia sukai, dia marah lagi.
+
+Contoh 2:
+- Duri: Ia sabaq teqda too nawaqding ditaqdean to pangngadaran, iana den una situju, doiq mesaq juta, tedong dua, rido limang pekuluq.
+- Indonesia: Oleh karena tidak bisa juga kita hilangkan adat dan kalau Anda setuju, uang satu juta, kerbau dua ekor, beras lima pikul.
+
+Contoh 3:
+- Duri: Matumbamira anakkataq, meloh unarka?
+- Indonesia: Bagaimana dengan anak Bapak, apakah ia mau?"
+EVAL034,Dipaulaqi asu.,Dipotongkan kambing.,"Contoh 1:
+- Duri: Masuliq gajai. Sisaratuhmo.
+- Indonesia: Terlalu mahal. Rp. 100 saja.
+
+Contoh 2:
+- Duri: La dicerakki to bola sanga mangkami dikabuaq.
+- Indonesia: Rumah kami yang akan dipestakan karena sudah selesai dibuat.
+
+Contoh 3:
+- Duri: Diballakki joloq baqtangna, na dialai to tambukkuna maneq disontiq pormalin.
+- Indonesia: Dibelah dahulu perutnya, kemudian dikeluarkan ususnya, baru disuntik dengan formalin."
+EVAL035,"Ieq, penduanmoq.","Ya, sudah dipelajari.","Contoh 1:
+- Duri: Manyumpunni.
+- Indonesia: Dia membakar hutan.
+
+Contoh 2:
+- Duri: Ieq, jajimi.
+- Indonesia: Ya! Jadilah.
+
+Contoh 3:
+- Duri: Ajena.
+- Indonesia: Kakinya."
+EVAL036,"Teqda. Ia to tanduk tedong malillin tuo lako bokoqna na gaja taran, apa ia to tanduk tedong tuo lako saqdena na teqda namataran gaja.","Tidak. Daging kerbau itu lembut tetapi sangat lezat dimasak kalau pagi, karena menjadi obat penyakit maag kalau belum makan pagi.","Contoh 1:
+- Duri: Ia paleq ke susii tuq waqding melohhi ia, pirara doiq la kipasirempun?
+- Indonesia: Kalau begitu mungkin dia sudah mau, berapa uang yang akan kami kumpulkan?
+
+Contoh 2:
+- Duri: Iana teqda namangjama kemuanei ke denni ngkadoangngii. Iana muane kebainei.
+- Indonesia: Kalau perempuan dan tidak bekerja, dia bersuami kalau ada yang menyenanginya. Kalau laki-laki beristeri.
+
+Contoh 3:
+- Duri: Denmo messun, apa den unapa lan. Den kusaqding pea napollohhii laqboh. Apannara nakanna?
+- Indonesia: Sudah ada yang keluar, tetapi masih ada di dalam. Saya dengar ada anak-anak terkena parang jatuh, apanya yang kena?"
+EVAL037,Denmoraka naden tamale tama Panyurak?,Kapan baru ada pesta tamale di Panyurak?,"Contoh 1:
+- Duri: La diapora ia. Madoangrikiqka nnalai?
+- Indonesia: Tidak juga untuk apa-apa, maukah Anda mengambilnya?
+
+Contoh 2:
+- Duri: Ciapari nateqda sikupang?
+- Indonesia: Mengapakah tidak ada sekop?
+
+Contoh 3:
+- Duri: Denmoraka bola nakengke api jio randan alah?
+- Indonesia: Pernahkah ada rumah yang dekat dengan hutan rumput dijilat api?"
+EVAL038,"Teqda. Ia to tanduk tedong malillin tuo lako bokoqna na gaja taran, apa ia to tanduk tedong tuo lako saqdena na teqda namataran gaja.","""Kau, aku dengar kamu memiliki tanduk tanduk rusa yang besar di hutan, tetapi saya tidak percaya kamu memiliki tanduk tanduk rusa yang besar di hutan jika kamu tidak menunjukkannya kepada saya.""","Contoh 1:
+- Duri: Ia paleq ke susii tuq waqding melohhi ia, pirara doiq la kipasirempun?
+- Indonesia: Kalau begitu mungkin dia sudah mau, berapa uang yang akan kami kumpulkan?
+
+Contoh 2:
+- Duri: Iana teqda namangjama kemuanei ke denni ngkadoangngii. Iana muane kebainei.
+- Indonesia: Kalau perempuan dan tidak bekerja, dia bersuami kalau ada yang menyenanginya. Kalau laki-laki beristeri.
+
+Contoh 3:
+- Duri: Denmo messun, apa den unapa lan. Den kusaqding pea napollohhii laqboh. Apannara nakanna?
+- Indonesia: Sudah ada yang keluar, tetapi masih ada di dalam. Saya dengar ada anak-anak terkena parang jatuh, apanya yang kena?"
+EVAL039,"Ieq, sicandingkan.","Ya, silahkan.","Contoh 1:
+- Duri: Teqda kubaluk.
+- Indonesia: Saya tidak menjualnya.
+
+Contoh 2:
+- Duri: Teqda ia napakengke.
+- Indonesia: Dia tidak menggigit.
+
+Contoh 3:
+- Duri: Jio baraqbahkuq.
+- Indonesia: Di kebun saya."
+EVAL040,Teqdapa nalumingka.,Belum berlumut.,"Contoh 1:
+- Duri: Tallung bulanpi.
+- Indonesia: Masih tiga bulan lagi.
+
+Contoh 2:
+- Duri: Kaserakan sileqto.
+- Indonesia: Kami sembilan bersaudara.
+
+Contoh 3:
+- Duri: Ia to sallegalli.
+- Indonesia: Orang yang suka marah."
+EVAL041,"Ieq, buda jio buntu Latimojong, apa malaira.","Ya, banyak di Gunung Latimojong, tapi sulit.","Contoh 1:
+- Duri: Iana meloh una ia, teqdamo namangpasisala to dipaendek. Kukutanaipi joloq naden maneq ratu poleq jio mai.
+- Indonesia: Kalau dia mau, barang yang antaran itu tidak dipersoalkan lagi. Saya tanyai dahulu, nanti bapak datang lagi.
+
+Contoh 2:
+- Duri: Jio bokoq bolana, nani mangtaqbang punti.
+- Indonesia: Dia menebang pisang di belakang rumahnya.
+
+Contoh 3:
+- Duri: Ia to buda gajai cuccuq bungin ngkabuaqi.
+- Indonesia: Sebab banyak sekali anjing tanah yang membuatnya."
+EVAL042,Apara nakande tikianuq?,Apa yang biasa dia makan?,"Contoh 1:
+- Duri: Ieq, pirankiq mpamulaqi?
+- Indonesia: Baiklah, kapan kita mulai?
+
+Contoh 2:
+- Duri: Digeretan toqraka manuk?
+- Indonesia: Apakah juga disembelihkan ayam?
+
+Contoh 3:
+- Duri: Tuo unaparaka tuq totosik?
+- Indonesia: Masih hidupkah burung hantu itu?"
+EVAL043,Mangngaparikiq male tama?,Mengapa kamu datang terlambat?,"Contoh 1:
+- Duri: La mangcerak aparikiq?
+- Indonesia: Anda akan pesta apa?
+
+Contoh 2:
+- Duri: Digeretan toqraka manuk?
+- Indonesia: Apakah juga disembelihkan ayam?
+
+Contoh 3:
+- Duri: Ciapari naden parundun?
+- Indonesia: Mengapa Ibu mengantar makanan di kebun?"
+EVAL044,"Tolloq, camme sola abon-abon siciqdiq.","Ada, sudah sampai dengan abon-abon sekitar.","Contoh 1:
+- Duri: Ia sabaq teqda too nawaqding ditaqdean to pangngadaran, iana den una situju, doiq mesaq juta, tedong dua, rido limang pekuluq.
+- Indonesia: Oleh karena tidak bisa juga kita hilangkan adat dan kalau Anda setuju, uang satu juta, kerbau dua ekor, beras lima pikul.
+
+Contoh 2:
+- Duri: Disanga keak sola doraq.
+- Indonesia: Namanya kakatua dan nuri.
+
+Contoh 3:
+- Duri: Masuliq gajai. Sisaratuhmo.
+- Indonesia: Terlalu mahal. Rp. 100 saja."
+EVAL045,Ia tonna kumassikola jio Inggiris na kisitammu.,"Kalau di Inggris sudah dibuat jadi mainan, saya ingin juga membelinya.","Contoh 1:
+- Duri: Dibawami lako bola nadigaragaan nginan.
+- Indonesia: Dibawa ke rumah dan dibuatkan tempat.
+
+Contoh 2:
+- Duri: Silaenan kandena. Sanga ia to punti manurun macukka-cukka iake matasak gajai. Ia to punti tanduk macanning ia, na makiqding too.
+- Indonesia: Berlainan rasanya. Pisang kepok agak masam kalau sudah terlalu masak, sedang pisang tanduk manis dan agak keras juga.
+
+Contoh 3:
+- Duri: Limang pulo karung mesaq hetto.
+- Indonesia: Lima puluh karung dalam satu hektar."
+EVAL046,Lumingkamiraka to biccuq?,Lumingkamiraka to biccuq?,"Contoh 1:
+- Duri: Ieq, pirankiq mpamulaqi?
+- Indonesia: Baiklah, kapan kita mulai?
+
+Contoh 2:
+- Duri: Digeretan toqraka manuk?
+- Indonesia: Apakah juga disembelihkan ayam?
+
+Contoh 3:
+- Duri: Mangngapari to tau ntuq joq?
+- Indonesia: Apa yang sedang dikerjakan orang di sana?"
+EVAL047,Denmoraka naden tamale tama Panyurak?,Apakah Panyurak ada di atas air?,"Contoh 1:
+- Duri: La diapora ia. Madoangrikiqka nnalai?
+- Indonesia: Tidak juga untuk apa-apa, maukah Anda mengambilnya?
+
+Contoh 2:
+- Duri: Ciapari nateqda sikupang?
+- Indonesia: Mengapakah tidak ada sekop?
+
+Contoh 3:
+- Duri: Denmoraka bola nakengke api jio randan alah?
+- Indonesia: Pernahkah ada rumah yang dekat dengan hutan rumput dijilat api?"
+EVAL048,Matumbara joq tedong malillin?,Bagaimana dengan kerbau yang dijilat?,"Contoh 1:
+- Duri: Ia paleq ke susii tuq waqding melohhi ia, pirara doiq la kipasirempun?
+- Indonesia: Kalau begitu mungkin dia sudah mau, berapa uang yang akan kami kumpulkan?
+
+Contoh 2:
+- Duri: Ieq, pirankiq mpamulaqi?
+- Indonesia: Baiklah, kapan kita mulai?
+
+Contoh 3:
+- Duri: Matumbara ke mangkarruk pondankiq?
+- Indonesia: Bagaimana caranya kalau kita mengeruk daun nenas?"
+EVAL049,Teqdapa nalumingka.,Tidak adakah uang.,"Contoh 1:
+- Duri: Tallung bulanpi.
+- Indonesia: Masih tiga bulan lagi.
+
+Contoh 2:
+- Duri: Kaserakan sileqto.
+- Indonesia: Kami sembilan bersaudara.
+
+Contoh 3:
+- Duri: Ia to sallegalli.
+- Indonesia: Orang yang suka marah."
+EVAL050,"Makassing na matonggo, pa masussa to wai.","Makassing na matonggo, pa masussa to wai.","Contoh 1:
+- Duri: Silaenan kandena. Sanga ia to punti manurun macukka-cukka iake matasak gajai. Ia to punti tanduk macanning ia, na makiqding too.
+- Indonesia: Berlainan rasanya. Pisang kepok agak masam kalau sudah terlalu masak, sedang pisang tanduk manis dan agak keras juga.
+
+Contoh 2:
+- Duri: Matumbara to sipaq kaminang makassing nasanga to tojolo?
+- Indonesia: Bagaimana sifat yang paling baik menurut orang-orang tua?
+
+Contoh 3:
+- Duri: Ieq matonggomo, teqdamo namasai namelomo dialai.
+- Indonesia: Ya sudah besar, tidak lama lagi sudah bisa dipanen."
+EVAL051,Ciapari namataran tandukkuna to tedong malillin?,Ciapari namataran tandukkuna to tedong malillin?,"Contoh 1:
+- Duri: Ciapari naden to teqda namangpuasa?
+- Indonesia: Mengapa ada orang yang tidak berpuasa?
+
+Contoh 2:
+- Duri: Apara disanga mangpaendek?
+- Indonesia: Apakah yang dimaksud dengan menaikkan barang?
+
+Contoh 3:
+- Duri: Denmo messun, apa den unapa lan. Den kusaqding pea napollohhii laqboh. Apannara nakanna?
+- Indonesia: Sudah ada yang keluar, tetapi masih ada di dalam. Saya dengar ada anak-anak terkena parang jatuh, apanya yang kena?"
+EVAL052,To umbora joq balintaq?,Orang dari mana penyanyi itu?,"Contoh 1:
+- Duri: La mangcerak aparikiq?
+- Indonesia: Anda akan pesta apa?
+
+Contoh 2:
+- Duri: Digeretan toqraka manuk?
+- Indonesia: Apakah juga disembelihkan ayam?
+
+Contoh 3:
+- Duri: Apara tuq tatanan?
+- Indonesia: Apa yang Anda tanam itu?"
+EVAL053,Apara nakande tikianuq?,Apa yang dikerjakan di kebun?,"Contoh 1:
+- Duri: Ieq, pirankiq mpamulaqi?
+- Indonesia: Baiklah, kapan kita mulai?
+
+Contoh 2:
+- Duri: Digeretan toqraka manuk?
+- Indonesia: Apakah juga disembelihkan ayam?
+
+Contoh 3:
+- Duri: Tuo unaparaka tuq totosik?
+- Indonesia: Masih hidupkah burung hantu itu?"
+EVAL054,"Ia adeqna namataran to tanduk tedong malillin, sanga tuli nasangehhi jio batang kaju.","Orang yang mencari tanduk kerbau malillin, karena tidak mendengar suara kambing di pohon kelapa.","Contoh 1:
+- Duri: Teqda. Ia to punti manurun bondiq ia, apa gaja kassing disanggaraq ke makaleqi, sanga pejampi mah teqdapi apa dikande.
+- Indonesia: Tidak. Pisang kepok itu pendek tetapi sangat bagus digoreng kalau pagi, karena menjadi obat penyakit maag kalau belum makan pagi.
+
+Contoh 2:
+- Duri: Teqda, sanga teqdapa nakembua.
+- Indonesia: Belum, karena belum berbuah.
+
+Contoh 3:
+- Duri: Pekalira napake sanga teqda sikupang.
+- Indonesia: Hanya linggis yang dia pakai karena tidak ada sekop."
+EVAL055,"Ieq, buda jio buntu Latimojong, apa malaira.","Ya, banyak di gunung Latimojong, apa yang tidak ada.","Contoh 1:
+- Duri: Iana meloh una ia, teqdamo namangpasisala to dipaendek. Kukutanaipi joloq naden maneq ratu poleq jio mai.
+- Indonesia: Kalau dia mau, barang yang antaran itu tidak dipersoalkan lagi. Saya tanyai dahulu, nanti bapak datang lagi.
+
+Contoh 2:
+- Duri: Jio bokoq bolana, nani mangtaqbang punti.
+- Indonesia: Dia menebang pisang di belakang rumahnya.
+
+Contoh 3:
+- Duri: Ia to buda gajai cuccuq bungin ngkabuaqi.
+- Indonesia: Sebab banyak sekali anjing tanah yang membuatnya."
+EVAL056,Susiraka to tanduk tedong to tandukkuna?,Bagaimana bentuk tanduk kerbau yang baik?,"Contoh 1:
+- Duri: Digeretan toqraka manuk?
+- Indonesia: Apakah juga disembelihkan ayam?
+
+Contoh 2:
+- Duri: Tuo unapi, indeq unai torro.
+- Indonesia: Ya masih hidup, mereka juga tinggal di sini.
+
+Contoh 3:
+- Duri: Ieq, pirankiq mpamulaqi?
+- Indonesia: Baiklah, kapan kita mulai?"
+EVAL057,Mangngaparikiq male tama?,Apa yang dikerjakan di rumah? Apa yang dikerjakan di rumah?,"Contoh 1:
+- Duri: La mangcerak aparikiq?
+- Indonesia: Anda akan pesta apa?
+
+Contoh 2:
+- Duri: Digeretan toqraka manuk?
+- Indonesia: Apakah juga disembelihkan ayam?
+
+Contoh 3:
+- Duri: Ciapari naden parundun?
+- Indonesia: Mengapa Ibu mengantar makanan di kebun?"
+EVAL058,Malei maningo-ningo sola sangpeana.,Hanya makanan ringan dan buah-buahan.,"Contoh 1:
+- Duri: Mbai sangbulanpi nakembua omo to pao.
+- Indonesia: Mungkin satu bulan lagi mangga itu berbuah.
+
+Contoh 2:
+- Duri: Malenaq njokko bale.
+- Indonesia: Saya pergi menangkap ikan.
+
+Contoh 3:
+- Duri: Mangtaunanpaq Ia torro.
+- Indonesia: Masih lama saya di sini."
+EVAL059,Duang taunmi sitangnga.,Dua tahun tidak lama.,"Contoh 1:
+- Duri: Mangngaparikiq jio baraqbahtaq?
+- Indonesia: Apa yang dikerjakan di kebun bapak?
+
+Contoh 2:
+- Duri: Jio baraqbah.
+- Indonesia: Di kebun.
+
+Contoh 3:
+- Duri: Sipatang daqpa.
+- Indonesia: Empat depa."
+EVAL060,"Makassing na matonggo, pa masussa to wai.","Sudah tiba waktunya, mana yang lebih sulit?","Contoh 1:
+- Duri: Silaenan kandena. Sanga ia to punti manurun macukka-cukka iake matasak gajai. Ia to punti tanduk macanning ia, na makiqding too.
+- Indonesia: Berlainan rasanya. Pisang kepok agak masam kalau sudah terlalu masak, sedang pisang tanduk manis dan agak keras juga.
+
+Contoh 2:
+- Duri: Matumbara to sipaq kaminang makassing nasanga to tojolo?
+- Indonesia: Bagaimana sifat yang paling baik menurut orang-orang tua?
+
+Contoh 3:
+- Duri: Ieq matonggomo, teqdamo namasai namelomo dialai.
+- Indonesia: Ya sudah besar, tidak lama lagi sudah bisa dipanen."
+EVAL061,Susi to beke apa malotong ngasan bulunna pada bang to bai.,Susi bagaimana tidak bisa menemukan anaknya di tempat itu.,"Contoh 1:
+- Duri: Bua-bua apa unamora ia?
+- Indonesia: Buah-buahan apa saja?
+
+Contoh 2:
+- Duri: Ia to disanga mangpaendek, ia to muane mbawa apa apa to dikande ke bottingngi.
+- Indonesia: Yang dimaksud dengan 'menaikkan barang', adalah pihak laki-laki membawa barang yang akan dimakan pada saat mengadakan pesta.
+
+Contoh 3:
+- Duri: Malekan teq too, apa doppari.
+- Indonesia: Kami akan pergi, tetapi sebentar lagi."
+EVAL062,"Ieq, penduanmoq.","Ya, silahkan naik.","Contoh 1:
+- Duri: Manyumpunni.
+- Indonesia: Dia membakar hutan.
+
+Contoh 2:
+- Duri: Ieq, jajimi.
+- Indonesia: Ya! Jadilah.
+
+Contoh 3:
+- Duri: Ajena.
+- Indonesia: Kakinya."
+EVAL063,Duang taunmi sitangnga.,Dua tahun lalu.,"Contoh 1:
+- Duri: Mangngaparikiq jio baraqbahtaq?
+- Indonesia: Apa yang dikerjakan di kebun bapak?
+
+Contoh 2:
+- Duri: Jio baraqbah.
+- Indonesia: Di kebun.
+
+Contoh 3:
+- Duri: Sipatang daqpa.
+- Indonesia: Empat depa."
+EVAL064,Umbori joq too?,Udah makan belum?,"Contoh 1:
+- Duri: Apara joq noni nenaq?
+- Indonesia: Apakah yang bunyi tadi?
+
+Contoh 2:
+- Duri: Mangngapari to tau ntuq joq?
+- Indonesia: Apa yang sedang dikerjakan orang di sana?
+
+Contoh 3:
+- Duri: Apara disanga 'pariu'?
+- Indonesia: Apakah yang dimaksud dengan 'bersawah'?"
+EVAL065,Denmo.,Denmo.,"Contoh 1:
+- Duri: Denmo tonna teq namanyumpun to tau na ngkande bola annan.
+- Indonesia: Pernah dahulu orang membakar rumput, akhirnya membakar enam buah rumah.
+
+Contoh 2:
+- Duri: Den, nteq joq sambaliqna saqdan.
+- Indonesia: Ada, di sana, di seberang sungai.
+
+Contoh 3:
+- Duri: Tumoraknaq.
+- Indonesia: Saya menajak rumput."
+EVAL066,Buda tau macca ngkabuaq doke nteq mai.,Budaya tau makna ngakubuat adik sendiri.,"Contoh 1:
+- Duri: Tuo unapi, indeq unai torro.
+- Indonesia: Ya masih hidup, mereka juga tinggal di sini.
+
+Contoh 2:
+- Duri: Jio baraqbahkuq.
+- Indonesia: Di kebun saya.
+
+Contoh 3:
+- Duri: Ieq, piran-piranpa kiratu poleq ke teqdai sabaq.
+- Indonesia: Ya! kalau tidak ada halangan nanti kami datang lagi."
+EVAL067,Matumbara ke dijokkoi?,Bagaimana caranya kalau dijilat?,"Contoh 1:
+- Duri: Matumbara ke dikabuaqi?
+- Indonesia: Bagaimana caranya kalau dibuat?
+
+Contoh 2:
+- Duri: Matumbara ke mantanansikolaqkiq?
+- Indonesia: Bagaimana cara menanam coklat?
+
+Contoh 3:
+- Duri: Matumbara ke mangkarruk pondankiq?
+- Indonesia: Bagaimana caranya kalau kita mengeruk daun nenas?"
+EVAL068,Duami.,Sudah.,"Contoh 1:
+- Duri: Manyumpunni.
+- Indonesia: Dia membakar hutan.
+
+Contoh 2:
+- Duri: Ajena.
+- Indonesia: Kakinya.
+
+Contoh 3:
+- Duri: Teqda naciapa.
+- Indonesia: Tidak apa-apa."
+EVAL069,Teqdapa nalumingka.,Jangan bergurau.,"Contoh 1:
+- Duri: Tallung bulanpi.
+- Indonesia: Masih tiga bulan lagi.
+
+Contoh 2:
+- Duri: Kaserakan sileqto.
+- Indonesia: Kami sembilan bersaudara.
+
+Contoh 3:
+- Duri: Ia to sallegalli.
+- Indonesia: Orang yang suka marah."
+EVAL070,Ia to dikabuaq doke kajaoh iaqrika bassi. Dipetarannii cappaqna ke ngkabuaq doke.,Yang dibuat tali tenun adalah serat bambu atau serat rami. Dibuat tadi waktu membuat tali.,"Contoh 1:
+- Duri: Manglaqbuk gollakan.
+- Indonesia: Kami sedang menumbuk gula.
+
+Contoh 2:
+- Duri: Iake mangtaqbang puntikiq, laqboh dipake.
+- Indonesia: Kalau kita menebang pisang, kita menggunakan parang.
+
+Contoh 3:
+- Duri: Laqbi patangpulo hetto.
+- Indonesia: Empat puluh hektar lebih."
+EVAL071,Apara nakande tikianuq?,Kamu sedang mencari tikung?,"Contoh 1:
+- Duri: Ieq, pirankiq mpamulaqi?
+- Indonesia: Baiklah, kapan kita mulai?
+
+Contoh 2:
+- Duri: Digeretan toqraka manuk?
+- Indonesia: Apakah juga disembelihkan ayam?
+
+Contoh 3:
+- Duri: Tuo unaparaka tuq totosik?
+- Indonesia: Masih hidupkah burung hantu itu?"
+EVAL072,Denmoraka balintaq?,Apakah kamu baik-baik saja?,"Contoh 1:
+- Duri: Denmo tonna teq namanyumpun to tau na ngkande bola annan.
+- Indonesia: Pernah dahulu orang membakar rumput, akhirnya membakar enam buah rumah.
+
+Contoh 2:
+- Duri: Mangngaparikiq?
+- Indonesia: Apa yang Anda kerjakan?
+
+Contoh 3:
+- Duri: La diapora ia. Madoangrikiqka nnalai?
+- Indonesia: Tidak juga untuk apa-apa, maukah Anda mengambilnya?"
+EVAL073,Matumbara ke dijokkoi?,Bagaimana caranya kalau kita memasak?,"Contoh 1:
+- Duri: Matumbara ke dikabuaqi?
+- Indonesia: Bagaimana caranya kalau dibuat?
+
+Contoh 2:
+- Duri: Matumbara ke mantanansikolaqkiq?
+- Indonesia: Bagaimana cara menanam coklat?
+
+Contoh 3:
+- Duri: Matumbara ke mangkarruk pondankiq?
+- Indonesia: Bagaimana caranya kalau kita mengeruk daun nenas?"
+EVAL074,Ciapari naloqbang joq bola?,Ciapalah naloqbang joq bola?,"Contoh 1:
+- Duri: Sipira luahna baraqbahna tomesaq bola?
+- Indonesia: Berapa luasnya kebun untuk satu keluarga?
+
+Contoh 2:
+- Duri: Mangkami. Macarakkaqmi lan bola.
+- Indonesia: Sudah, sudah sejuk dalam rumah.
+
+Contoh 3:
+- Duri: Bale apara biasa taatta ke mangjalakiq?
+- Indonesia: Ikan apa yang biasa Bapak tangkap kalau menjala?"
+EVAL075,Duami.,Lakukan.,"Contoh 1:
+- Duri: Manyumpunni.
+- Indonesia: Dia membakar hutan.
+
+Contoh 2:
+- Duri: Ajena.
+- Indonesia: Kakinya.
+
+Contoh 3:
+- Duri: Teqda naciapa.
+- Indonesia: Tidak apa-apa."
+EVAL076,"Duami, mesaq baine mesaq muane.","Jangan lupa, jangan berlupa.","Contoh 1:
+- Duri: Ajena.
+- Indonesia: Kakinya.
+
+Contoh 2:
+- Duri: Mangngapari to tau ntuq joq?
+- Indonesia: Apa yang sedang dikerjakan orang di sana?
+
+Contoh 3:
+- Duri: Teqda, solanaq muanekuq sola anakkuq.
+- Indonesia: Tidak, saya tinggal bersama suami dan anak saya."
+EVAL077,Matumbara ke dijokkoi?,Apakah kamu lapar?,"Contoh 1:
+- Duri: Matumbara ke dikabuaqi?
+- Indonesia: Bagaimana caranya kalau dibuat?
+
+Contoh 2:
+- Duri: Matumbara ke mantanansikolaqkiq?
+- Indonesia: Bagaimana cara menanam coklat?
+
+Contoh 3:
+- Duri: Matumbara ke mangkarruk pondankiq?
+- Indonesia: Bagaimana caranya kalau kita mengeruk daun nenas?"
+EVAL078,"Duami, mesaq baine mesaq muane.","Laki-laki, pekerjaan perempuan adalah pekerjaan perempuan.","Contoh 1:
+- Duri: Ajena.
+- Indonesia: Kakinya.
+
+Contoh 2:
+- Duri: Mangngapari to tau ntuq joq?
+- Indonesia: Apa yang sedang dikerjakan orang di sana?
+
+Contoh 3:
+- Duri: Teqda, solanaq muanekuq sola anakkuq.
+- Indonesia: Tidak, saya tinggal bersama suami dan anak saya."
+EVAL079,Cumucu unapa.,Cumucu unapa.,"Contoh 1:
+- Duri: Laqbi patangpulo hetto.
+- Indonesia: Empat puluh hektar lebih.
+
+Contoh 2:
+- Duri: Mauku-uku una ia.
+- Indonesia: Dia sehat-sehat saja.
+
+Contoh 3:
+- Duri: Manglaqbuk gollakan.
+- Indonesia: Kami sedang menumbuk gula."
+EVAL080,"Taqdei puangna, sanga torro jiongri Pinrang.","Taqdei puangna, sanga torro jiongri Pinrang.","Contoh 1:
+- Duri: Iake ngkabuaqi kalisong, nakambuhhi jiong mai to litak na menjaji kalisong.
+- Indonesia: Kalau dia membuat lobang, dia gali tanah sehingga menjadi lobang.
+
+Contoh 2:
+- Duri: Iana meloh una ia, teqdamo namangpasisala to dipaendek. Kukutanaipi joloq naden maneq ratu poleq jio mai.
+- Indonesia: Kalau dia mau, barang yang antaran itu tidak dipersoalkan lagi. Saya tanyai dahulu, nanti bapak datang lagi.
+
+Contoh 3:
+- Duri: Mangbaraqbah kawanaq jio Pasui.
+- Indonesia: Saya berkebun kopi di Pasui."
+EVAL081,Malei maningo-ningo sola sangpeana.,Dia tidak berada di rumah.,"Contoh 1:
+- Duri: Mbai sangbulanpi nakembua omo to pao.
+- Indonesia: Mungkin satu bulan lagi mangga itu berbuah.
+
+Contoh 2:
+- Duri: Malenaq njokko bale.
+- Indonesia: Saya pergi menangkap ikan.
+
+Contoh 3:
+- Duri: Mangtaunanpaq Ia torro.
+- Indonesia: Masih lama saya di sini."
+EVAL082,Umborikiq sitammu?,Bagaimana lagi sepupu satu kali Anda?,"Contoh 1:
+- Duri: Mangngapari to tau ntuq joq?
+- Indonesia: Apa yang sedang dikerjakan orang di sana?
+
+Contoh 2:
+- Duri: Umbora tapangngujui?
+- Indonesia: Mau ke mana pak?
+
+Contoh 3:
+- Duri: Umbora nani to saqdan?
+- Indonesia: Di mana sungai itu?"
+EVAL083,Sicandingrikiqka tamaneq siala?,Apakah Anda sendirian tinggal?,"Contoh 1:
+- Duri: Gaja buda ia.
+- Indonesia: Banyak sekali.
+
+Contoh 2:
+- Duri: Ieq, malemi.
+- Indonesia: Ya, sudah dibawa.
+
+Contoh 3:
+- Duri: Ia to buda gajai cuccuq bungin ngkabuaqi.
+- Indonesia: Sebab banyak sekali anjing tanah yang membuatnya."
+EVAL084,Lumingkamiraka to biccuq?,Lumingkamiraka to biccuq? Apakah kamu tidak tahu?,"Contoh 1:
+- Duri: Ieq, pirankiq mpamulaqi?
+- Indonesia: Baiklah, kapan kita mulai?
+
+Contoh 2:
+- Duri: Digeretan toqraka manuk?
+- Indonesia: Apakah juga disembelihkan ayam?
+
+Contoh 3:
+- Duri: Mangngapari to tau ntuq joq?
+- Indonesia: Apa yang sedang dikerjakan orang di sana?"
+EVAL085,Piramira anakkataq?,Berapa anak Bapak?,"Contoh 1:
+- Duri: Piramirikiq sainna melajah bicara Duri?
+- Indonesia: Sudah berapa lama Anda belajar bahasa Duri?
+
+Contoh 2:
+- Duri: Iake melohhi anakkataq, pirara doiq kipaendek?
+- Indonesia: Kalau anak Bapak mau, berapa uang yang akan kami naikkan?
+
+Contoh 3:
+- Duri: La nnallinaq bandikiq. Sipirara allinna?
+- Indonesia: Saya mau beli pepaya. Berapa harganya?"
+EVAL086,Matumbara ke dibunoi?,Bagaimana caranya kalau dibunuh?,"Contoh 1:
+- Duri: Matumbara ke dikabuaqi?
+- Indonesia: Bagaimana caranya kalau dibuat?
+
+Contoh 2:
+- Duri: Matumbara ke dikabuaqi ulang?
+- Indonesia: Bagaimana caranya kalau dibuat tali?
+
+Contoh 3:
+- Duri: Matumbara ke mangkarruk pondankiq?
+- Indonesia: Bagaimana caranya kalau kita mengeruk daun nenas?"
+EVAL087,Apara dikabuaq doke?,Apa yang dibuat tadi?,"Contoh 1:
+- Duri: Umbora tapangngujui?
+- Indonesia: Mau ke mana pak?
+
+Contoh 2:
+- Duri: Apara tabawa ke parundunkiq?
+- Indonesia: Apa yang Ibu bawa kalau Ibu mengantarkan makanan?
+
+Contoh 3:
+- Duri: Umbora tani torro?
+- Indonesia: Di mana Anda tinggal?"
+EVAL088,Makassingraka joq bola?,Apakah itu bola sepak?,"Contoh 1:
+- Duri: Sipira luahna baraqbahna tomesaq bola?
+- Indonesia: Berapa luasnya kebun untuk satu keluarga?
+
+Contoh 2:
+- Duri: Apara nagaraga to tau jiong bala bola?
+- Indonesia: Apa yang dikerjakan orang di kolong rumah?
+
+Contoh 3:
+- Duri: Inda unamora mpunnai joq baraqbah?
+- Indonesia: Siapa saja yang punya kebun itu?"
+EVAL089,Lumingkamiraka to biccuq?,Kamu sudah lama menggigit anak itu?,"Contoh 1:
+- Duri: Ieq, pirankiq mpamulaqi?
+- Indonesia: Baiklah, kapan kita mulai?
+
+Contoh 2:
+- Duri: Digeretan toqraka manuk?
+- Indonesia: Apakah juga disembelihkan ayam?
+
+Contoh 3:
+- Duri: Mangngapari to tau ntuq joq?
+- Indonesia: Apa yang sedang dikerjakan orang di sana?"
+EVAL090,Ciapari namataran tandukkuna to tedong malillin?,Mengapa tanduk kerbau dijepit kalau disembelih?,"Contoh 1:
+- Duri: Ciapari naden to teqda namangpuasa?
+- Indonesia: Mengapa ada orang yang tidak berpuasa?
+
+Contoh 2:
+- Duri: Apara disanga mangpaendek?
+- Indonesia: Apakah yang dimaksud dengan menaikkan barang?
+
+Contoh 3:
+- Duri: Denmo messun, apa den unapa lan. Den kusaqding pea napollohhii laqboh. Apannara nakanna?
+- Indonesia: Sudah ada yang keluar, tetapi masih ada di dalam. Saya dengar ada anak-anak terkena parang jatuh, apanya yang kena?"
+EVAL091,Susiraka to tanduk tedong to tandukkuna?,Samakah bentuk tanduk kerbau dengan tanduk sapi?,"Contoh 1:
+- Duri: Digeretan toqraka manuk?
+- Indonesia: Apakah juga disembelihkan ayam?
+
+Contoh 2:
+- Duri: Tuo unapi, indeq unai torro.
+- Indonesia: Ya masih hidup, mereka juga tinggal di sini.
+
+Contoh 3:
+- Duri: Ieq, pirankiq mpamulaqi?
+- Indonesia: Baiklah, kapan kita mulai?"
+EVAL092,"Duami, mesaq baine mesaq muane.","Kami sudah lama, sejak perempuan kami lahir.","Contoh 1:
+- Duri: Ajena.
+- Indonesia: Kakinya.
+
+Contoh 2:
+- Duri: Mangngapari to tau ntuq joq?
+- Indonesia: Apa yang sedang dikerjakan orang di sana?
+
+Contoh 3:
+- Duri: Teqda, solanaq muanekuq sola anakkuq.
+- Indonesia: Tidak, saya tinggal bersama suami dan anak saya."
+EVAL093,Ia tonna bulan dua tanggalaq duangpulo annan.,Bulan dua tanggal dua puluh.,"Contoh 1:
+- Duri: Bulan aqpaq tanggalaq duangpulo kasera.
+- Indonesia: Bulan empat tanggal dua puluh sembilan.
+
+Contoh 2:
+- Duri: Puramirikiqka mantanan pare?
+- Indonesia: Apakah Anda sudah menanam padi?
+
+Contoh 3:
+- Duri: Pessangpulo aqpaqmi to bulan.
+- Indonesia: Sudah hari keempat belas."
+EVAL094,"Tolloq, camme sola abon-abon siciqdiq.","Talloq, kami dan keluarga kami.","Contoh 1:
+- Duri: Ia sabaq teqda too nawaqding ditaqdean to pangngadaran, iana den una situju, doiq mesaq juta, tedong dua, rido limang pekuluq.
+- Indonesia: Oleh karena tidak bisa juga kita hilangkan adat dan kalau Anda setuju, uang satu juta, kerbau dua ekor, beras lima pikul.
+
+Contoh 2:
+- Duri: Disanga keak sola doraq.
+- Indonesia: Namanya kakatua dan nuri.
+
+Contoh 3:
+- Duri: Masuliq gajai. Sisaratuhmo.
+- Indonesia: Terlalu mahal. Rp. 100 saja."
+EVAL095,"Makassing na matonggo, pa masussa to wai.","Besok akan sehat, karena air itu obat.","Contoh 1:
+- Duri: Silaenan kandena. Sanga ia to punti manurun macukka-cukka iake matasak gajai. Ia to punti tanduk macanning ia, na makiqding too.
+- Indonesia: Berlainan rasanya. Pisang kepok agak masam kalau sudah terlalu masak, sedang pisang tanduk manis dan agak keras juga.
+
+Contoh 2:
+- Duri: Matumbara to sipaq kaminang makassing nasanga to tojolo?
+- Indonesia: Bagaimana sifat yang paling baik menurut orang-orang tua?
+
+Contoh 3:
+- Duri: Ieq matonggomo, teqdamo namasai namelomo dialai.
+- Indonesia: Ya sudah besar, tidak lama lagi sudah bisa dipanen."
+EVAL096,Sicandingrikiqka tamaneq siala?,Sudah pergi kemanakah kamu?,"Contoh 1:
+- Duri: Gaja buda ia.
+- Indonesia: Banyak sekali.
+
+Contoh 2:
+- Duri: Ieq, malemi.
+- Indonesia: Ya, sudah dibawa.
+
+Contoh 3:
+- Duri: Ia to buda gajai cuccuq bungin ngkabuaqi.
+- Indonesia: Sebab banyak sekali anjing tanah yang membuatnya."
+EVAL097,Piramira isinna?,Apakah sudah terbit?,"Contoh 1:
+- Duri: Piramirikiq sainna melajah bicara Duri?
+- Indonesia: Sudah berapa lama Anda belajar bahasa Duri?
+
+Contoh 2:
+- Duri: La taapara tuq totosik?
+- Indonesia: Mau Anda apakan burung hantu itu?
+
+Contoh 3:
+- Duri: Apa nabawa ke ratui nnollongngii to pea'?
+- Indonesia: Apa biasanya dibawa kalau pergi menjenguk anak-anak?"
+EVAL098,To jio mai Finlandia.,Berapa jauhnya ke Finlandia.,"Contoh 1:
+- Duri: Macakkeqpikiq jio Finlandia.
+- Indonesia: Lebih dingin di Finlandia.
+
+Contoh 2:
+- Duri: Umbonnari macakkeq jio Finlandia na indeq Baraka?
+- Indonesia: Yang mana lebih dingin di Finlandia atau di Baraka?
+
+Contoh 3:
+- Duri: Jio saqdan Malua disanga liku Roto
+- Indonesia: Di sungai Malua namanya Liku Roto."
+EVAL099,Budaraka tedong malillin indeq?,Budaraka tedong malillin indeq?,"Contoh 1:
+- Duri: Budaraka pondan indeq?
+- Indonesia: Banyakkah nenas di sini?
+
+Contoh 2:
+- Duri: Budaraka bua-bua nteq mai?
+- Indonesia: Apakah banyak buah-buahan di sini?
+
+Contoh 3:
+- Duri: Mangkamiraka napasangngi palapong bolana ambeqna Juhani?
+- Indonesia: Sudahkah selesai dipasangi plapon rumah bapaknya Juhani?"
+EVAL100,"Masuliq kitaqna, pa makaccaq dipake mangpulo taun.","Kitaqna, pa makaccaq dipake mangpulo taun.","Contoh 1:
+- Duri: Masuliq gajai. Sisaratuhmo.
+- Indonesia: Terlalu mahal. Rp. 100 saja.
+
+Contoh 2:
+- Duri: Silaenan kandena. Sanga ia to punti manurun macukka-cukka iake matasak gajai. Ia to punti tanduk macanning ia, na makiqding too.
+- Indonesia: Berlainan rasanya. Pisang kepok agak masam kalau sudah terlalu masak, sedang pisang tanduk manis dan agak keras juga.
+
+Contoh 3:
+- Duri: Sikaruapulona ruppia. Na gaja boqjoqkiq ngkabuaqi namaneq jaji simesaq ulang.
+- Indonesia: Delapan puluh rupiah. Kita sangat capek membuatnya baru bisa jadi satu tali."
+EVAL101,Malenaq ngkita bola loqbang.,Saya pergi menangkap ikan.,"Contoh 1:
+- Duri: Malenaq njokko bale.
+- Indonesia: Saya pergi menangkap ikan.
+
+Contoh 2:
+- Duri: Mangkami. Macarakkaqmi lan bola.
+- Indonesia: Sudah, sudah sejuk dalam rumah.
+
+Contoh 3:
+- Duri: Malenaq petimbanganni teq pea.
+- Indonesia: Saya pergi menimbang anak ini."
+EVAL102,Masuliqraka joq tangki?,Apakah kamu lapar?,"Contoh 1:
+- Duri: Ieq, pirankiq mpamulaqi?
+- Indonesia: Baiklah, kapan kita mulai?
+
+Contoh 2:
+- Duri: Apara dipake ke njokkokiq manuk-manuk?
+- Indonesia: Apa yang dipakai kalau menangkap burung?
+
+Contoh 3:
+- Duri: Apara dipake ke manglaqbuk gollakiq?
+- Indonesia: Apa yang dipakai kalau Anda menumbuk gula?"
+EVAL103,Susi to beke apa malotong ngasan bulunna pada bang to bai.,Seperti apa yang ada di rumah masing-masing.,"Contoh 1:
+- Duri: Bua-bua apa unamora ia?
+- Indonesia: Buah-buahan apa saja?
+
+Contoh 2:
+- Duri: Ia to disanga mangpaendek, ia to muane mbawa apa apa to dikande ke bottingngi.
+- Indonesia: Yang dimaksud dengan 'menaikkan barang', adalah pihak laki-laki membawa barang yang akan dimakan pada saat mengadakan pesta.
+
+Contoh 3:
+- Duri: Malekan teq too, apa doppari.
+- Indonesia: Kami akan pergi, tetapi sebentar lagi."
+EVAL104,To umbora joq balintaq?,Yang mana lagi biasa Ibu tangkap?,"Contoh 1:
+- Duri: La mangcerak aparikiq?
+- Indonesia: Anda akan pesta apa?
+
+Contoh 2:
+- Duri: Digeretan toqraka manuk?
+- Indonesia: Apakah juga disembelihkan ayam?
+
+Contoh 3:
+- Duri: Apara tuq tatanan?
+- Indonesia: Apa yang Anda tanam itu?"
+EVAL105,Pirang taunmira to muane?,Apakah kamu tinggal di sini lama waktu?,"Contoh 1:
+- Duri: Apara disanga mangpaendek?
+- Indonesia: Apakah yang dimaksud dengan menaikkan barang?
+
+Contoh 2:
+- Duri: Pirara hetto joq baraqbah ntuq joq?
+- Indonesia: Berapa hektar kebun di sana?
+
+Contoh 3:
+- Duri: Ieq, pirankiq mpamulaqi?
+- Indonesia: Baiklah, kapan kita mulai?"
+EVAL106,Matumbara ke dibunoi?,Bagaimana caranya kalau dibunuh?,"Contoh 1:
+- Duri: Matumbara ke dikabuaqi?
+- Indonesia: Bagaimana caranya kalau dibuat?
+
+Contoh 2:
+- Duri: Matumbara ke dikabuaqi ulang?
+- Indonesia: Bagaimana caranya kalau dibuat tali?
+
+Contoh 3:
+- Duri: Matumbara ke mangkarruk pondankiq?
+- Indonesia: Bagaimana caranya kalau kita mengeruk daun nenas?"
+EVAL107,Masuliqraka joq tangki?,Apakah tangki itu kosong?,"Contoh 1:
+- Duri: Ieq, pirankiq mpamulaqi?
+- Indonesia: Baiklah, kapan kita mulai?
+
+Contoh 2:
+- Duri: Apara dipake ke njokkokiq manuk-manuk?
+- Indonesia: Apa yang dipakai kalau menangkap burung?
+
+Contoh 3:
+- Duri: Apara dipake ke manglaqbuk gollakiq?
+- Indonesia: Apa yang dipakai kalau Anda menumbuk gula?"
+EVAL108,Teqdamoraka nacumucu?,Apakah tidak ada yang makan?,"Contoh 1:
+- Duri: Teqdamo.
+- Indonesia: Tidak ada lagi.
+
+Contoh 2:
+- Duri: Apara disanga mangpaendek?
+- Indonesia: Apakah yang dimaksud dengan menaikkan barang?
+
+Contoh 3:
+- Duri: Ciapari naden to teqda namangpuasa?
+- Indonesia: Mengapa ada orang yang tidak berpuasa?"
+EVAL109,Duang taunmi sitangnga.,Dua tahun tiga bulan.,"Contoh 1:
+- Duri: Mangngaparikiq jio baraqbahtaq?
+- Indonesia: Apa yang dikerjakan di kebun bapak?
+
+Contoh 2:
+- Duri: Jio baraqbah.
+- Indonesia: Di kebun.
+
+Contoh 3:
+- Duri: Sipatang daqpa.
+- Indonesia: Empat depa."
+EVAL110,Piramira anakkataq?,"""Piramira anakkataq?"" dapat diterjemahkan menjadi ""Kamu siapa?""","Contoh 1:
+- Duri: Piramirikiq sainna melajah bicara Duri?
+- Indonesia: Sudah berapa lama Anda belajar bahasa Duri?
+
+Contoh 2:
+- Duri: Iake melohhi anakkataq, pirara doiq kipaendek?
+- Indonesia: Kalau anak Bapak mau, berapa uang yang akan kami naikkan?
+
+Contoh 3:
+- Duri: La nnallinaq bandikiq. Sipirara allinna?
+- Indonesia: Saya mau beli pepaya. Berapa harganya?"
+EVAL111,Ia to dikabuaq doke kajaoh iaqrika bassi. Dipetarannii cappaqna ke ngkabuaq doke.,Ia itu dibawa ke kajaoh iaqrika bawah. Dibawa ke tempat yang gelap.,"Contoh 1:
+- Duri: Manglaqbuk gollakan.
+- Indonesia: Kami sedang menumbuk gula.
+
+Contoh 2:
+- Duri: Iake mangtaqbang puntikiq, laqboh dipake.
+- Indonesia: Kalau kita menebang pisang, kita menggunakan parang.
+
+Contoh 3:
+- Duri: Laqbi patangpulo hetto.
+- Indonesia: Empat puluh hektar lebih."
+EVAL112,Denmoraka naden tamale tama Panyurak?,Pernahkah ada seekor kambing yang berlari di kebun keluarga Panyurak?,"Contoh 1:
+- Duri: La diapora ia. Madoangrikiqka nnalai?
+- Indonesia: Tidak juga untuk apa-apa, maukah Anda mengambilnya?
+
+Contoh 2:
+- Duri: Ciapari nateqda sikupang?
+- Indonesia: Mengapakah tidak ada sekop?
+
+Contoh 3:
+- Duri: Denmoraka bola nakengke api jio randan alah?
+- Indonesia: Pernahkah ada rumah yang dekat dengan hutan rumput dijilat api?"
+EVAL113,"Ieq, buda jio buntu Latimojong, apa malaira.","Ieq, buda jio buntu Latimojong, apa malaira.","Contoh 1:
+- Duri: Iana meloh una ia, teqdamo namangpasisala to dipaendek. Kukutanaipi joloq naden maneq ratu poleq jio mai.
+- Indonesia: Kalau dia mau, barang yang antaran itu tidak dipersoalkan lagi. Saya tanyai dahulu, nanti bapak datang lagi.
+
+Contoh 2:
+- Duri: Jio bokoq bolana, nani mangtaqbang punti.
+- Indonesia: Dia menebang pisang di belakang rumahnya.
+
+Contoh 3:
+- Duri: Ia to buda gajai cuccuq bungin ngkabuaqi.
+- Indonesia: Sebab banyak sekali anjing tanah yang membuatnya."
+EVAL114,Teqdamoraka nacumucu?,Apakah kamu baik-baik saja?,"Contoh 1:
+- Duri: Teqdamo.
+- Indonesia: Tidak ada lagi.
+
+Contoh 2:
+- Duri: Apara disanga mangpaendek?
+- Indonesia: Apakah yang dimaksud dengan menaikkan barang?
+
+Contoh 3:
+- Duri: Ciapari naden to teqda namangpuasa?
+- Indonesia: Mengapa ada orang yang tidak berpuasa?"
+EVAL115,Dipaulaqi asu.,Dipaulaqi asu. Terjemahan: Ada anjing.,"Contoh 1:
+- Duri: Masuliq gajai. Sisaratuhmo.
+- Indonesia: Terlalu mahal. Rp. 100 saja.
+
+Contoh 2:
+- Duri: La dicerakki to bola sanga mangkami dikabuaq.
+- Indonesia: Rumah kami yang akan dipestakan karena sudah selesai dibuat.
+
+Contoh 3:
+- Duri: Diballakki joloq baqtangna, na dialai to tambukkuna maneq disontiq pormalin.
+- Indonesia: Dibelah dahulu perutnya, kemudian dikeluarkan ususnya, baru disuntik dengan formalin."
+EVAL116,"Ieq, sicandingkan.","Ya, bersama-sama.","Contoh 1:
+- Duri: Teqda kubaluk.
+- Indonesia: Saya tidak menjualnya.
+
+Contoh 2:
+- Duri: Teqda ia napakengke.
+- Indonesia: Dia tidak menggigit.
+
+Contoh 3:
+- Duri: Jio baraqbahkuq.
+- Indonesia: Di kebun saya."
+EVAL117,Ia tonna bulan dua tanggalaq duangpulo annan.,Yang keempat belas tanggal dua puluh sembilan.,"Contoh 1:
+- Duri: Bulan aqpaq tanggalaq duangpulo kasera.
+- Indonesia: Bulan empat tanggal dua puluh sembilan.
+
+Contoh 2:
+- Duri: Puramirikiqka mantanan pare?
+- Indonesia: Apakah Anda sudah menanam padi?
+
+Contoh 3:
+- Duri: Pessangpulo aqpaqmi to bulan.
+- Indonesia: Sudah hari keempat belas."
+EVAL118,Ciapari namataran tandukkuna to tedong malillin?,Mengapa tanduk kerbau itu tidak berdaging?,"Contoh 1:
+- Duri: Ciapari naden to teqda namangpuasa?
+- Indonesia: Mengapa ada orang yang tidak berpuasa?
+
+Contoh 2:
+- Duri: Apara disanga mangpaendek?
+- Indonesia: Apakah yang dimaksud dengan menaikkan barang?
+
+Contoh 3:
+- Duri: Denmo messun, apa den unapa lan. Den kusaqding pea napollohhii laqboh. Apannara nakanna?
+- Indonesia: Sudah ada yang keluar, tetapi masih ada di dalam. Saya dengar ada anak-anak terkena parang jatuh, apanya yang kena?"
+EVAL119,Malei maningo-ningo sola sangpeana.,Malei maningo-ningo sola sangpeana.,"Contoh 1:
+- Duri: Mbai sangbulanpi nakembua omo to pao.
+- Indonesia: Mungkin satu bulan lagi mangga itu berbuah.
+
+Contoh 2:
+- Duri: Malenaq njokko bale.
+- Indonesia: Saya pergi menangkap ikan.
+
+Contoh 3:
+- Duri: Mangtaunanpaq Ia torro.
+- Indonesia: Masih lama saya di sini."
+EVAL120,Umbori joq too?,Mau ke mana pak?,"Contoh 1:
+- Duri: Apara joq noni nenaq?
+- Indonesia: Apakah yang bunyi tadi?
+
+Contoh 2:
+- Duri: Mangngapari to tau ntuq joq?
+- Indonesia: Apa yang sedang dikerjakan orang di sana?
+
+Contoh 3:
+- Duri: Apara disanga 'pariu'?
+- Indonesia: Apakah yang dimaksud dengan 'bersawah'?"
+EVAL121,"Masuliq kitaqna, pa makaccaq dipake mangpulo taun.","Terlalu lama, pa yang digunakan dipakai selama puluhan tahun.","Contoh 1:
+- Duri: Masuliq gajai. Sisaratuhmo.
+- Indonesia: Terlalu mahal. Rp. 100 saja.
+
+Contoh 2:
+- Duri: Silaenan kandena. Sanga ia to punti manurun macukka-cukka iake matasak gajai. Ia to punti tanduk macanning ia, na makiqding too.
+- Indonesia: Berlainan rasanya. Pisang kepok agak masam kalau sudah terlalu masak, sedang pisang tanduk manis dan agak keras juga.
+
+Contoh 3:
+- Duri: Sikaruapulona ruppia. Na gaja boqjoqkiq ngkabuaqi namaneq jaji simesaq ulang.
+- Indonesia: Delapan puluh rupiah. Kita sangat capek membuatnya baru bisa jadi satu tali."
+EVAL122,"Ia adeqna namataran to tanduk tedong malillin, sanga tuli nasangehhi jio batang kaju.","Kalau sudah selesai dikeruk serat tanduk pisang, kita tekan dengan tangan, supaya keluar seratnya, kemudian kita giling dengan batang kayu.","Contoh 1:
+- Duri: Teqda. Ia to punti manurun bondiq ia, apa gaja kassing disanggaraq ke makaleqi, sanga pejampi mah teqdapi apa dikande.
+- Indonesia: Tidak. Pisang kepok itu pendek tetapi sangat bagus digoreng kalau pagi, karena menjadi obat penyakit maag kalau belum makan pagi.
+
+Contoh 2:
+- Duri: Teqda, sanga teqdapa nakembua.
+- Indonesia: Belum, karena belum berbuah.
+
+Contoh 3:
+- Duri: Pekalira napake sanga teqda sikupang.
+- Indonesia: Hanya linggis yang dia pakai karena tidak ada sekop."
+EVAL123,"Ia ke nnallikiq tangki wai, teqdamo na masussa to wai ke uranni.","Kalau kita mau memasukkan tangki air, tidak ada lagi tempat untuk air hujan.","Contoh 1:
+- Duri: Ia to disanga sallegalli, ia to tau, denna apa ciqdiq nakabaqci, magalli omi.
+- Indonesia: Orang yang kalau ada sesuatu yang tidak dia sukai, dia marah lagi.
+
+Contoh 2:
+- Duri: Mangkamiraka napasangngi palapong bolana ambeqna Juhani?
+- Indonesia: Sudahkah selesai dipasangi plapon rumah bapaknya Juhani?
+
+Contoh 3:
+- Duri: Ia to indeq Duri biasanna bainera to male pasaq. Iana teqda wattunna to baine male pasaq, muanena male pasaq, susinnamo indona Juhani.
+- Indonesia: Kalau di Duri, biasanya yang pergi ke pasar adalah perempuan. Kalau perempuan tidak ada waktu, suaminya yang pergi ke pasar, sama seperti ibunya Juhani."
+EVAL124,Ia tonna kumassikola jio Inggiris na kisitammu.,Ia sudah pernah pergi ke Inggris dan kembali.,"Contoh 1:
+- Duri: Dibawami lako bola nadigaragaan nginan.
+- Indonesia: Dibawa ke rumah dan dibuatkan tempat.
+
+Contoh 2:
+- Duri: Silaenan kandena. Sanga ia to punti manurun macukka-cukka iake matasak gajai. Ia to punti tanduk macanning ia, na makiqding too.
+- Indonesia: Berlainan rasanya. Pisang kepok agak masam kalau sudah terlalu masak, sedang pisang tanduk manis dan agak keras juga.
+
+Contoh 3:
+- Duri: Limang pulo karung mesaq hetto.
+- Indonesia: Lima puluh karung dalam satu hektar."
+EVAL125,Umborikiq sitammu?,Umborikiq sitammu?,"Contoh 1:
+- Duri: Mangngapari to tau ntuq joq?
+- Indonesia: Apa yang sedang dikerjakan orang di sana?
+
+Contoh 2:
+- Duri: Umbora tapangngujui?
+- Indonesia: Mau ke mana pak?
+
+Contoh 3:
+- Duri: Umbora nani to saqdan?
+- Indonesia: Di mana sungai itu?"
+EVAL126,"Iana dibuno, didokei iaqrika dibakaqi.","Aku akan membaca, aku akan menulis.","Contoh 1:
+- Duri: Ia to disanga sallegalli, ia to tau, denna apa ciqdiq nakabaqci, magalli omi.
+- Indonesia: Orang yang kalau ada sesuatu yang tidak dia sukai, dia marah lagi.
+
+Contoh 2:
+- Duri: Ia sabaq teqda too nawaqding ditaqdean to pangngadaran, iana den una situju, doiq mesaq juta, tedong dua, rido limang pekuluq.
+- Indonesia: Oleh karena tidak bisa juga kita hilangkan adat dan kalau Anda setuju, uang satu juta, kerbau dua ekor, beras lima pikul.
+
+Contoh 3:
+- Duri: Matumbamira anakkataq, meloh unarka?
+- Indonesia: Bagaimana dengan anak Bapak, apakah ia mau?"
+EVAL127,"Taqdei puangna, sanga torro jiongri Pinrang.","Tidak ada lagi keperluan, karena sudah sampai di Pinrang.","Contoh 1:
+- Duri: Iake ngkabuaqi kalisong, nakambuhhi jiong mai to litak na menjaji kalisong.
+- Indonesia: Kalau dia membuat lobang, dia gali tanah sehingga menjadi lobang.
+
+Contoh 2:
+- Duri: Iana meloh una ia, teqdamo namangpasisala to dipaendek. Kukutanaipi joloq naden maneq ratu poleq jio mai.
+- Indonesia: Kalau dia mau, barang yang antaran itu tidak dipersoalkan lagi. Saya tanyai dahulu, nanti bapak datang lagi.
+
+Contoh 3:
+- Duri: Mangbaraqbah kawanaq jio Pasui.
+- Indonesia: Saya berkebun kopi di Pasui."
+EVAL128,"Ia adeqna namataran to tanduk tedong malillin, sanga tuli nasangehhi jio batang kaju.","Ia adeqna namataran tanduk tedong malillin, sanga tuli nasangehhi jio batang kaju.","Contoh 1:
+- Duri: Teqda. Ia to punti manurun bondiq ia, apa gaja kassing disanggaraq ke makaleqi, sanga pejampi mah teqdapi apa dikande.
+- Indonesia: Tidak. Pisang kepok itu pendek tetapi sangat bagus digoreng kalau pagi, karena menjadi obat penyakit maag kalau belum makan pagi.
+
+Contoh 2:
+- Duri: Teqda, sanga teqdapa nakembua.
+- Indonesia: Belum, karena belum berbuah.
+
+Contoh 3:
+- Duri: Pekalira napake sanga teqda sikupang.
+- Indonesia: Hanya linggis yang dia pakai karena tidak ada sekop."
+EVAL129,Ia to dikabuaq doke kajaoh iaqrika bassi. Dipetarannii cappaqna ke ngkabuaq doke.,Yang dibuat tali adalah benang. Benang itu dipotong-potong dan digunakan sebagai tali.,"Contoh 1:
+- Duri: Manglaqbuk gollakan.
+- Indonesia: Kami sedang menumbuk gula.
+
+Contoh 2:
+- Duri: Iake mangtaqbang puntikiq, laqboh dipake.
+- Indonesia: Kalau kita menebang pisang, kita menggunakan parang.
+
+Contoh 3:
+- Duri: Laqbi patangpulo hetto.
+- Indonesia: Empat puluh hektar lebih."
+EVAL130,Malenaq ngkita bola loqbang.,Malenaq ngkita bola loqbang.,"Contoh 1:
+- Duri: Malenaq njokko bale.
+- Indonesia: Saya pergi menangkap ikan.
+
+Contoh 2:
+- Duri: Mangkami. Macarakkaqmi lan bola.
+- Indonesia: Sudah, sudah sejuk dalam rumah.
+
+Contoh 3:
+- Duri: Malenaq petimbanganni teq pea.
+- Indonesia: Saya pergi menimbang anak ini."
+EVAL131,Ia tonna kumassikola jio Inggiris na kisitammu.,Ia sudah mencari jodoh di Inggris dan tidak menemukan.,"Contoh 1:
+- Duri: Dibawami lako bola nadigaragaan nginan.
+- Indonesia: Dibawa ke rumah dan dibuatkan tempat.
+
+Contoh 2:
+- Duri: Silaenan kandena. Sanga ia to punti manurun macukka-cukka iake matasak gajai. Ia to punti tanduk macanning ia, na makiqding too.
+- Indonesia: Berlainan rasanya. Pisang kepok agak masam kalau sudah terlalu masak, sedang pisang tanduk manis dan agak keras juga.
+
+Contoh 3:
+- Duri: Limang pulo karung mesaq hetto.
+- Indonesia: Lima puluh karung dalam satu hektar."
+EVAL132,Cumucu unapa.,Lima jeruk.,"Contoh 1:
+- Duri: Laqbi patangpulo hetto.
+- Indonesia: Empat puluh hektar lebih.
+
+Contoh 2:
+- Duri: Mauku-uku una ia.
+- Indonesia: Dia sehat-sehat saja.
+
+Contoh 3:
+- Duri: Manglaqbuk gollakan.
+- Indonesia: Kami sedang menumbuk gula."
+EVAL133,"Ia ke nnallikiq tangki wai, teqdamo na masussa to wai ke uranni.","Kalau dia pergi ke tempat penyimpanan air, saya tidak tahu berapa lama waktu yang dibutuhkan untuk mengisi air ke dalam waduk.","Contoh 1:
+- Duri: Ia to disanga sallegalli, ia to tau, denna apa ciqdiq nakabaqci, magalli omi.
+- Indonesia: Orang yang kalau ada sesuatu yang tidak dia sukai, dia marah lagi.
+
+Contoh 2:
+- Duri: Mangkamiraka napasangngi palapong bolana ambeqna Juhani?
+- Indonesia: Sudahkah selesai dipasangi plapon rumah bapaknya Juhani?
+
+Contoh 3:
+- Duri: Ia to indeq Duri biasanna bainera to male pasaq. Iana teqda wattunna to baine male pasaq, muanena male pasaq, susinnamo indona Juhani.
+- Indonesia: Kalau di Duri, biasanya yang pergi ke pasar adalah perempuan. Kalau perempuan tidak ada waktu, suaminya yang pergi ke pasar, sama seperti ibunya Juhani."
+EVAL134,Malenaq ngkita bola loqbang.,Saya pergi ke pasar.,"Contoh 1:
+- Duri: Malenaq njokko bale.
+- Indonesia: Saya pergi menangkap ikan.
+
+Contoh 2:
+- Duri: Mangkami. Macarakkaqmi lan bola.
+- Indonesia: Sudah, sudah sejuk dalam rumah.
+
+Contoh 3:
+- Duri: Malenaq petimbanganni teq pea.
+- Indonesia: Saya pergi menimbang anak ini."
+EVAL135,"Masuliq kitaqna, pa makaccaq dipake mangpulo taun.","Masih lama kita, karena barang yang dipakai itu sudah berumur 40 tahun.","Contoh 1:
+- Duri: Masuliq gajai. Sisaratuhmo.
+- Indonesia: Terlalu mahal. Rp. 100 saja.
+
+Contoh 2:
+- Duri: Silaenan kandena. Sanga ia to punti manurun macukka-cukka iake matasak gajai. Ia to punti tanduk macanning ia, na makiqding too.
+- Indonesia: Berlainan rasanya. Pisang kepok agak masam kalau sudah terlalu masak, sedang pisang tanduk manis dan agak keras juga.
+
+Contoh 3:
+- Duri: Sikaruapulona ruppia. Na gaja boqjoqkiq ngkabuaqi namaneq jaji simesaq ulang.
+- Indonesia: Delapan puluh rupiah. Kita sangat capek membuatnya baru bisa jadi satu tali."
+EVAL136,Susiraka to tanduk tedong to tandukkuna?,Susiraka to tanduk tedong to tandukkuna?,"Contoh 1:
+- Duri: Digeretan toqraka manuk?
+- Indonesia: Apakah juga disembelihkan ayam?
+
+Contoh 2:
+- Duri: Tuo unapi, indeq unai torro.
+- Indonesia: Ya masih hidup, mereka juga tinggal di sini.
+
+Contoh 3:
+- Duri: Ieq, pirankiq mpamulaqi?
+- Indonesia: Baiklah, kapan kita mulai?"
+EVAL137,Umbora kuni nnalli?,Duri: Umbora kuni nnalli? Indonesia: Di mana Anda bermain?,"Contoh 1:
+- Duri: Apara taalli?
+- Indonesia: Apa yang Anda beli?
+
+Contoh 2:
+- Duri: Tapatumbari tonna tajokkoi?
+- Indonesia: Bagaimana caranya waktu Anda tangkap?
+
+Contoh 3:
+- Duri: Apara tabawa ke parundunkiq?
+- Indonesia: Apa yang Ibu bawa kalau Ibu mengantarkan makanan?"
+EVAL138,"Ia ke nnallikiq tangki wai, teqdamo na masussa to wai ke uranni.","Ia kemudian pergi ke sebuah tangki air, lalu menyiram air ke dalam wadahnya.","Contoh 1:
+- Duri: Ia to disanga sallegalli, ia to tau, denna apa ciqdiq nakabaqci, magalli omi.
+- Indonesia: Orang yang kalau ada sesuatu yang tidak dia sukai, dia marah lagi.
+
+Contoh 2:
+- Duri: Mangkamiraka napasangngi palapong bolana ambeqna Juhani?
+- Indonesia: Sudahkah selesai dipasangi plapon rumah bapaknya Juhani?
+
+Contoh 3:
+- Duri: Ia to indeq Duri biasanna bainera to male pasaq. Iana teqda wattunna to baine male pasaq, muanena male pasaq, susinnamo indona Juhani.
+- Indonesia: Kalau di Duri, biasanya yang pergi ke pasar adalah perempuan. Kalau perempuan tidak ada waktu, suaminya yang pergi ke pasar, sama seperti ibunya Juhani."
+EVAL139,Umborikiq sitammu?,Mari duduklah.,"Contoh 1:
+- Duri: Mangngapari to tau ntuq joq?
+- Indonesia: Apa yang sedang dikerjakan orang di sana?
+
+Contoh 2:
+- Duri: Umbora tapangngujui?
+- Indonesia: Mau ke mana pak?
+
+Contoh 3:
+- Duri: Umbora nani to saqdan?
+- Indonesia: Di mana sungai itu?"
+EVAL140,Umbora kuni nnalli?,Di mana Anda tinggal?,"Contoh 1:
+- Duri: Apara taalli?
+- Indonesia: Apa yang Anda beli?
+
+Contoh 2:
+- Duri: Tapatumbari tonna tajokkoi?
+- Indonesia: Bagaimana caranya waktu Anda tangkap?
+
+Contoh 3:
+- Duri: Apara tabawa ke parundunkiq?
+- Indonesia: Apa yang Ibu bawa kalau Ibu mengantarkan makanan?"
+EVAL141,Pirang taunmira to muane?,Berapa tahun Anda?,"Contoh 1:
+- Duri: Apara disanga mangpaendek?
+- Indonesia: Apakah yang dimaksud dengan menaikkan barang?
+
+Contoh 2:
+- Duri: Pirara hetto joq baraqbah ntuq joq?
+- Indonesia: Berapa hektar kebun di sana?
+
+Contoh 3:
+- Duri: Ieq, pirankiq mpamulaqi?
+- Indonesia: Baiklah, kapan kita mulai?"
+EVAL142,Denmo.,Denmo.,"Contoh 1:
+- Duri: Denmo tonna teq namanyumpun to tau na ngkande bola annan.
+- Indonesia: Pernah dahulu orang membakar rumput, akhirnya membakar enam buah rumah.
+
+Contoh 2:
+- Duri: Den, nteq joq sambaliqna saqdan.
+- Indonesia: Ada, di sana, di seberang sungai.
+
+Contoh 3:
+- Duri: Tumoraknaq.
+- Indonesia: Saya menajak rumput."
+EVAL143,Piranra tacappaq male tama Panyurak?,"Piranha, apa kau sedang mencari Panyurak?","Contoh 1:
+- Duri: Tatteq pirara namamula ollong to bulan ke pessangpulo aqpaqi?
+- Indonesia: Jam berapakah bulan mulai terbit hari yang keempat belas?
+
+Contoh 2:
+- Duri: Pira kakantaq, pira too adintaq?
+- Indonesia: Berapa orang kakak Anda dan berapa orang adik Anda?
+
+Contoh 3:
+- Duri: Iake melohhi anakkataq, pirara doiq kipaendek?
+- Indonesia: Kalau anak Bapak mau, berapa uang yang akan kami naikkan?"
+EVAL144,"Tolloq, camme sola abon-abon siciqdiq.","Tolloq, camme sola abon-abon siciqdiq. Terjemahan: Tidak, aku tidak makan abon.","Contoh 1:
+- Duri: Ia sabaq teqda too nawaqding ditaqdean to pangngadaran, iana den una situju, doiq mesaq juta, tedong dua, rido limang pekuluq.
+- Indonesia: Oleh karena tidak bisa juga kita hilangkan adat dan kalau Anda setuju, uang satu juta, kerbau dua ekor, beras lima pikul.
+
+Contoh 2:
+- Duri: Disanga keak sola doraq.
+- Indonesia: Namanya kakatua dan nuri.
+
+Contoh 3:
+- Duri: Masuliq gajai. Sisaratuhmo.
+- Indonesia: Terlalu mahal. Rp. 100 saja."
+EVAL145,Buda tau macca ngkabuaq doke nteq mai.,Banyak orang yang lebih berpengetahuan di sini.,"Contoh 1:
+- Duri: Tuo unapi, indeq unai torro.
+- Indonesia: Ya masih hidup, mereka juga tinggal di sini.
+
+Contoh 2:
+- Duri: Jio baraqbahkuq.
+- Indonesia: Di kebun saya.
+
+Contoh 3:
+- Duri: Ieq, piran-piranpa kiratu poleq ke teqdai sabaq.
+- Indonesia: Ya! kalau tidak ada halangan nanti kami datang lagi."
+EVAL146,Susi to beke apa malotong ngasan bulunna pada bang to bai.,Saya membeli kambing karena sudah besar dan berat badannya.,"Contoh 1:
+- Duri: Bua-bua apa unamora ia?
+- Indonesia: Buah-buahan apa saja?
+
+Contoh 2:
+- Duri: Ia to disanga mangpaendek, ia to muane mbawa apa apa to dikande ke bottingngi.
+- Indonesia: Yang dimaksud dengan 'menaikkan barang', adalah pihak laki-laki membawa barang yang akan dimakan pada saat mengadakan pesta.
+
+Contoh 3:
+- Duri: Malekan teq too, apa doppari.
+- Indonesia: Kami akan pergi, tetapi sebentar lagi."
+EVAL147,Masuliqraka joq tangki?,Apakah tangki itu mahal?,"Contoh 1:
+- Duri: Ieq, pirankiq mpamulaqi?
+- Indonesia: Baiklah, kapan kita mulai?
+
+Contoh 2:
+- Duri: Apara dipake ke njokkokiq manuk-manuk?
+- Indonesia: Apa yang dipakai kalau menangkap burung?
+
+Contoh 3:
+- Duri: Apara dipake ke manglaqbuk gollakiq?
+- Indonesia: Apa yang dipakai kalau Anda menumbuk gula?"
+EVAL148,Cumucu unapa.,"Sudah, silahkan naik.","Contoh 1:
+- Duri: Laqbi patangpulo hetto.
+- Indonesia: Empat puluh hektar lebih.
+
+Contoh 2:
+- Duri: Mauku-uku una ia.
+- Indonesia: Dia sehat-sehat saja.
+
+Contoh 3:
+- Duri: Manglaqbuk gollakan.
+- Indonesia: Kami sedang menumbuk gula."
+EVAL149,"Taqdei puangna, sanga torro jiongri Pinrang.","Hari ini sore, karena kamu tinggal di Pinrang.","Contoh 1:
+- Duri: Iake ngkabuaqi kalisong, nakambuhhi jiong mai to litak na menjaji kalisong.
+- Indonesia: Kalau dia membuat lobang, dia gali tanah sehingga menjadi lobang.
+
+Contoh 2:
+- Duri: Iana meloh una ia, teqdamo namangpasisala to dipaendek. Kukutanaipi joloq naden maneq ratu poleq jio mai.
+- Indonesia: Kalau dia mau, barang yang antaran itu tidak dipersoalkan lagi. Saya tanyai dahulu, nanti bapak datang lagi.
+
+Contoh 3:
+- Duri: Mangbaraqbah kawanaq jio Pasui.
+- Indonesia: Saya berkebun kopi di Pasui."
+EVAL150,Ciapari naloqbang joq bola?,Mengapa rumah itu runtuh?,"Contoh 1:
+- Duri: Sipira luahna baraqbahna tomesaq bola?
+- Indonesia: Berapa luasnya kebun untuk satu keluarga?
+
+Contoh 2:
+- Duri: Mangkami. Macarakkaqmi lan bola.
+- Indonesia: Sudah, sudah sejuk dalam rumah.
+
+Contoh 3:
+- Duri: Bale apara biasa taatta ke mangjalakiq?
+- Indonesia: Ikan apa yang biasa Bapak tangkap kalau menjala?"
+EVAL151,Sicandingrikiqka tamaneq siala?,Apakah kamu baik-baik saja?,"Contoh 1:
+- Duri: Gaja buda ia.
+- Indonesia: Banyak sekali.
+
+Contoh 2:
+- Duri: Ieq, malemi.
+- Indonesia: Ya, sudah dibawa.
+
+Contoh 3:
+- Duri: Ia to buda gajai cuccuq bungin ngkabuaqi.
+- Indonesia: Sebab banyak sekali anjing tanah yang membuatnya."
+EVAL152,Denmoraka balintaq?,Apakah sudah lama Anda tunggu?,"Contoh 1:
+- Duri: Denmo tonna teq namanyumpun to tau na ngkande bola annan.
+- Indonesia: Pernah dahulu orang membakar rumput, akhirnya membakar enam buah rumah.
+
+Contoh 2:
+- Duri: Mangngaparikiq?
+- Indonesia: Apa yang Anda kerjakan?
+
+Contoh 3:
+- Duri: La diapora ia. Madoangrikiqka nnalai?
+- Indonesia: Tidak juga untuk apa-apa, maukah Anda mengambilnya?"
+EVAL153,Budaraka tedong malillin indeq?,Banyakkah kerbau di sini?,"Contoh 1:
+- Duri: Budaraka pondan indeq?
+- Indonesia: Banyakkah nenas di sini?
+
+Contoh 2:
+- Duri: Budaraka bua-bua nteq mai?
+- Indonesia: Apakah banyak buah-buahan di sini?
+
+Contoh 3:
+- Duri: Mangkamiraka napasangngi palapong bolana ambeqna Juhani?
+- Indonesia: Sudahkah selesai dipasangi plapon rumah bapaknya Juhani?"
+EVAL154,Buda tau macca ngkabuaq doke nteq mai.,Banyak orang yang bisa membuat doke dari kayu.,"Contoh 1:
+- Duri: Tuo unapi, indeq unai torro.
+- Indonesia: Ya masih hidup, mereka juga tinggal di sini.
+
+Contoh 2:
+- Duri: Jio baraqbahkuq.
+- Indonesia: Di kebun saya.
+
+Contoh 3:
+- Duri: Ieq, piran-piranpa kiratu poleq ke teqdai sabaq.
+- Indonesia: Ya! kalau tidak ada halangan nanti kami datang lagi."
+EVAL155,Mangngaparikiq male tama?,Apa yang dikerjakan di kebun?,"Contoh 1:
+- Duri: La mangcerak aparikiq?
+- Indonesia: Anda akan pesta apa?
+
+Contoh 2:
+- Duri: Digeretan toqraka manuk?
+- Indonesia: Apakah juga disembelihkan ayam?
+
+Contoh 3:
+- Duri: Ciapari naden parundun?
+- Indonesia: Mengapa Ibu mengantar makanan di kebun?"
+EVAL156,Matumbara joq tedong malillin?,Matumbara joq tedong malillin?,"Contoh 1:
+- Duri: Ia paleq ke susii tuq waqding melohhi ia, pirara doiq la kipasirempun?
+- Indonesia: Kalau begitu mungkin dia sudah mau, berapa uang yang akan kami kumpulkan?
+
+Contoh 2:
+- Duri: Ieq, pirankiq mpamulaqi?
+- Indonesia: Baiklah, kapan kita mulai?
+
+Contoh 3:
+- Duri: Matumbara ke mangkarruk pondankiq?
+- Indonesia: Bagaimana caranya kalau kita mengeruk daun nenas?"
+EVAL157,"Teqda kitaq kuissenni, mbai den jao Juppandang.","Kami tidak akan menyerah, kami akan melihat Juppandang.","Contoh 1:
+- Duri: La kulianaq ke denni dipuongkosoq, iarake teqdai dipuongkosoq menjanggoliq bangraq joloq.
+- Indonesia: Saya akan kuliah kalau ada ongkos, kalau tidak ada ongkos saya akan menganggur dahulu.
+
+Contoh 2:
+- Duri: Iana den doiq, nnalli beke na digereq, ditambai to tau na dikande sola. Iamo disanga mangpadaliq, ke teqdapi naliwaq sangminggu umuruqna.
+- Indonesia: Kalau ada uang, dibelikan kambing, kemudian disembelih, kita panggil orang dan dimakan bersama. Itulah yang dinamakan Haqeqah, kalau belum lewat satu minggu umurnya.
+
+Contoh 3:
+- Duri: Iana meloh una ia, teqdamo namangpasisala to dipaendek. Kukutanaipi joloq naden maneq ratu poleq jio mai.
+- Indonesia: Kalau dia mau, barang yang antaran itu tidak dipersoalkan lagi. Saya tanyai dahulu, nanti bapak datang lagi."
+EVAL158,Duami.,Menikah.,"Contoh 1:
+- Duri: Manyumpunni.
+- Indonesia: Dia membakar hutan.
+
+Contoh 2:
+- Duri: Ajena.
+- Indonesia: Kakinya.
+
+Contoh 3:
+- Duri: Teqda naciapa.
+- Indonesia: Tidak apa-apa."
+EVAL159,Indara macca ngkabuaq doke?,Untuk siapa dia membawa makanan?,"Contoh 1:
+- Duri: Indara nnampai pea indeq?
+- Indonesia: Siapakah yang menjaga anak di sini?
+
+Contoh 2:
+- Duri: Digeretan toqraka manuk?
+- Indonesia: Apakah juga disembelihkan ayam?
+
+Contoh 3:
+- Duri: La mangcerak aparikiq?
+- Indonesia: Anda akan pesta apa?"

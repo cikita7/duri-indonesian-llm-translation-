@@ -1,0 +1,20 @@
+﻿scenario_slug,scenario_label,consensus_error_type,count,proportion
+fsp_locked,Fragment-Shot Prompting,__no_majority__,5,0.09433962264150944
+fsp_locked,Fragment-Shot Prompting,correct,6,0.11320754716981132
+fsp_locked,Fragment-Shot Prompting,fluency_issue,1,0.018867924528301886
+fsp_locked,Fragment-Shot Prompting,hallucination,11,0.20754716981132076
+fsp_locked,Fragment-Shot Prompting,meaning_shift,23,0.4339622641509434
+fsp_locked,Fragment-Shot Prompting,missing_information,3,0.05660377358490566
+fsp_locked,Fragment-Shot Prompting,source_leakage,3,0.05660377358490566
+fsp_locked,Fragment-Shot Prompting,untranslated,1,0.018867924528301886
+lora_locked,Fine-Tuning LoRA,__no_majority__,5,0.09433962264150944
+lora_locked,Fine-Tuning LoRA,correct,7,0.1320754716981132
+lora_locked,Fine-Tuning LoRA,hallucination,13,0.24528301886792453
+lora_locked,Fine-Tuning LoRA,meaning_shift,27,0.5094339622641509
+lora_locked,Fine-Tuning LoRA,missing_information,1,0.018867924528301886
+zero_shot,Zero-Shot,__no_majority__,3,0.05660377358490566
+zero_shot,Zero-Shot,correct,1,0.018867924528301886
+zero_shot,Zero-Shot,hallucination,15,0.2830188679245283
+zero_shot,Zero-Shot,meaning_shift,7,0.1320754716981132
+zero_shot,Zero-Shot,source_leakage,2,0.03773584905660377
+zero_shot,Zero-Shot,untranslated,25,0.4716981132075472

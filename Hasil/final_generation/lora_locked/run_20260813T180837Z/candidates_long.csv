@@ -1,0 +1,266 @@
+scenario,row_id,conversation_no,turn_order,duri_text,candidate_index,seed,temperature,top_p,top_k,num_beams,max_new_tokens,candidate_text,is_empty,generation_time_seconds,generated_at_utc
+lora_locked,C03_T01_A1,3,1,Denmoraka naden tamale tama Panyurak?,1,42,0.7,0.95,0,1,128,Kapan baru ada pesta tamale di Panyurak?,False,2.7207070272415876,2026-08-13T18:08:43.121759+00:00
+lora_locked,C03_T01_A1,3,1,Denmoraka naden tamale tama Panyurak?,2,43,0.7,0.95,0,1,128,Apakah ada uang di dalam tabung Panyurak?,False,1.1591101079247892,2026-08-13T18:08:44.292620+00:00
+lora_locked,C03_T01_A1,3,1,Denmoraka naden tamale tama Panyurak?,3,44,0.7,0.95,0,1,128,Apakah ada lagi rumah yang kosong di Panyurak?,False,1.2515803389251232,2026-08-13T18:08:45.561021+00:00
+lora_locked,C03_T01_A1,3,1,Denmoraka naden tamale tama Panyurak?,4,45,0.7,0.95,0,1,128,Apakah sudah lama tamat di Panyurak?,False,1.096979252062738,2026-08-13T18:08:46.667965+00:00
+lora_locked,C03_T01_A1,3,1,Denmoraka naden tamale tama Panyurak?,5,46,0.7,0.95,0,1,128,Kapan baru ada pesta tamale di Panyurak?,False,1.3746987208724022,2026-08-13T18:08:48.054584+00:00
+lora_locked,C03_T02_B1,3,2,"Ieq, penduanmoq.",1,42,0.7,0.95,0,1,128,"Ya, biarlah di sini.",False,0.8026107777841389,2026-08-13T18:08:48.868434+00:00
+lora_locked,C03_T02_B1,3,2,"Ieq, penduanmoq.",2,43,0.7,0.95,0,1,128,"Ya, silahkan naik.",False,0.6292626969516277,2026-08-13T18:08:49.506295+00:00
+lora_locked,C03_T02_B1,3,2,"Ieq, penduanmoq.",3,44,0.7,0.95,0,1,128,"Ya, silahkan naik.",False,0.6288040359504521,2026-08-13T18:08:50.144184+00:00
+lora_locked,C03_T02_B1,3,2,"Ieq, penduanmoq.",4,45,0.7,0.95,0,1,128,"Baiklah, nanti sore.",False,0.7104148459620774,2026-08-13T18:08:50.863082+00:00
+lora_locked,C03_T02_B1,3,2,"Ieq, penduanmoq.",5,46,0.7,0.95,0,1,128,"Ya, biarlah di sini.",False,0.7803765181452036,2026-08-13T18:08:51.652135+00:00
+lora_locked,C03_T03_A2,3,3,Piranra tacappaq male tama Panyurak?,1,42,0.7,0.95,0,1,128,Kapan baru akan ada pesta kambing dalam kampung Panyurak?,False,1.4783894177526236,2026-08-13T18:08:53.139838+00:00
+lora_locked,C03_T03_A2,3,3,Piranra tacappaq male tama Panyurak?,2,43,0.7,0.95,0,1,128,Kapan baru akan selesai jalan Panyurak?,False,1.0922035393305123,2026-08-13T18:08:54.241306+00:00
+lora_locked,C03_T03_A2,3,3,Piranra tacappaq male tama Panyurak?,3,44,0.7,0.95,0,1,128,Jam berapa mesin giling padi di Panyurak selesai?,False,1.4024270572699606,2026-08-13T18:08:55.653102+00:00
+lora_locked,C03_T03_A2,3,3,Piranra tacappaq male tama Panyurak?,4,45,0.7,0.95,0,1,128,Apakah sudah lama Anda tinggal di Panyurak?,False,1.1657544351182878,2026-08-13T18:08:56.828528+00:00
+lora_locked,C03_T03_A2,3,3,Piranra tacappaq male tama Panyurak?,5,46,0.7,0.95,0,1,128,Kapan rumah itu dinaiki traktor?,False,1.0287977699190378,2026-08-13T18:08:57.867385+00:00
+lora_locked,C03_T04_B2,3,4,Ia tonna bulan dua tanggalaq duangpulo annan.,1,42,0.7,0.95,0,1,128,Yang keempat belas tanggal dua puluh sembilan.,False,1.1897661569528282,2026-08-13T18:08:59.067706+00:00
+lora_locked,C03_T04_B2,3,4,Ia tonna bulan dua tanggalaq duangpulo annan.,2,43,0.7,0.95,0,1,128,Yang keempat belas tanggal dua puluh sembilan.,False,1.1754739610478282,2026-08-13T18:09:00.252148+00:00
+lora_locked,C03_T04_B2,3,4,Ia tonna bulan dua tanggalaq duangpulo annan.,3,44,0.7,0.95,0,1,128,Kalau bulan dua tanggal dua puluh sembilan.,False,1.0964873470366001,2026-08-13T18:09:01.357713+00:00
+lora_locked,C03_T04_B2,3,4,Ia tonna bulan dua tanggalaq duangpulo annan.,4,45,0.7,0.95,0,1,128,Yang keempat belas tanggal dua puluh sembilan.,False,1.163562135770917,2026-08-13T18:09:02.532017+00:00
+lora_locked,C03_T04_B2,3,4,Ia tonna bulan dua tanggalaq duangpulo annan.,5,46,0.7,0.95,0,1,128,Yang ke dua belas tanggal dua puluh sembilan.,False,1.0849569928832352,2026-08-13T18:09:03.627150+00:00
+lora_locked,C03_T05_A3,3,5,Mangngaparikiq male tama?,1,42,0.7,0.95,0,1,128,Apa yang akan Anda kerjakan nanti?,False,0.9328594668768346,2026-08-13T18:09:04.569464+00:00
+lora_locked,C03_T05_A3,3,5,Mangngaparikiq male tama?,2,43,0.7,0.95,0,1,128,Apa yang dikerjakan di kebun?,False,1.0054339678026736,2026-08-13T18:09:05.583856+00:00
+lora_locked,C03_T05_A3,3,5,Mangngaparikiq male tama?,3,44,0.7,0.95,0,1,128,Apa yang sedang dikerjakan di tamat?,False,1.0786449639126658,2026-08-13T18:09:06.672991+00:00
+lora_locked,C03_T05_A3,3,5,Mangngaparikiq male tama?,4,45,0.7,0.95,0,1,128,Apa yang dikerjakan di kebun?,False,1.0064197848550975,2026-08-13T18:09:07.689572+00:00
+lora_locked,C03_T05_A3,3,5,Mangngaparikiq male tama?,5,46,0.7,0.95,0,1,128,Apa yang dikerjakan di sana?,False,0.8533852128311992,2026-08-13T18:09:08.552800+00:00
+lora_locked,C03_T06_B3,3,6,Malenaq ngkita bola loqbang.,1,42,0.7,0.95,0,1,128,Saya pergi menangkap ikan.,False,0.8641005214303732,2026-08-13T18:09:09.426773+00:00
+lora_locked,C03_T06_B3,3,6,Malenaq ngkita bola loqbang.,2,43,0.7,0.95,0,1,128,Saya pergi menangkap ikan.,False,0.8573360471054912,2026-08-13T18:09:10.294314+00:00
+lora_locked,C03_T06_B3,3,6,Malenaq ngkita bola loqbang.,3,44,0.7,0.95,0,1,128,Saya menangkap ikan dengan jala.,False,0.9529202613048255,2026-08-13T18:09:11.256209+00:00
+lora_locked,C03_T06_B3,3,6,Malenaq ngkita bola loqbang.,4,45,0.7,0.95,0,1,128,Saya sudah menggoreng kacang.,False,0.9430450471118093,2026-08-13T18:09:12.210055+00:00
+lora_locked,C03_T06_B3,3,6,Malenaq ngkita bola loqbang.,5,46,0.7,0.95,0,1,128,Saya menebang pisang.,False,0.711537973023951,2026-08-13T18:09:12.931223+00:00
+lora_locked,C03_T07_A4,3,7,Ciapari naloqbang joq bola?,1,42,0.7,0.95,0,1,128,Mengapakah ada guntur?,False,0.7946532149799168,2026-08-13T18:09:13.735801+00:00
+lora_locked,C03_T07_A4,3,7,Ciapari naloqbang joq bola?,2,43,0.7,0.95,0,1,128,Mengapa dia menggantian pakaian?,False,1.0400728187523782,2026-08-13T18:09:14.785996+00:00
+lora_locked,C03_T07_A4,3,7,Ciapari naloqbang joq bola?,3,44,0.7,0.95,0,1,128,Mengapa selalu berkebun jagung itu?,False,1.1056953617371619,2026-08-13T18:09:15.902273+00:00
+lora_locked,C03_T07_A4,3,7,Ciapari naloqbang joq bola?,4,45,0.7,0.95,0,1,128,Mengapakah selokbelok itu bola?,False,0.9452151083387434,2026-08-13T18:09:16.860874+00:00
+lora_locked,C03_T07_A4,3,7,Ciapari naloqbang joq bola?,5,46,0.7,0.95,0,1,128,Mengapa ia jatuh?,False,0.7019672100432217,2026-08-13T18:09:17.573088+00:00
+lora_locked,C03_T08_B4,3,8,"Taqdei puangna, sanga torro jiongri Pinrang.",1,42,0.7,0.95,0,1,128,"Kami tidak punya kebun, karena kami tinggal di Pinrang.",False,1.423610778991133,2026-08-13T18:09:19.006186+00:00
+lora_locked,C03_T08_B4,3,8,"Taqdei puangna, sanga torro jiongri Pinrang.",2,43,0.7,0.95,0,1,128,"Belum ada uang, karena kami dari Pinrang.",False,1.010483633261174,2026-08-13T18:09:20.027510+00:00
+lora_locked,C03_T08_B4,3,8,"Taqdei puangna, sanga torro jiongri Pinrang.",3,44,0.7,0.95,0,1,128,"Tidak ada lagi keperluan, karena sudah sampai di Pinrang.",False,1.4257244472391903,2026-08-13T18:09:21.463783+00:00
+lora_locked,C03_T08_B4,3,8,"Taqdei puangna, sanga torro jiongri Pinrang.",4,45,0.7,0.95,0,1,128,"Tidak ada lagi keperluan, karena sudah sampai di Pinrang.",False,1.4063022388145328,2026-08-13T18:09:22.881023+00:00
+lora_locked,C03_T08_B4,3,8,"Taqdei puangna, sanga torro jiongri Pinrang.",5,46,0.7,0.95,0,1,128,"Tidak ada lagi, karena sudah diusahakan di Pinrang.",False,1.2463059569709003,2026-08-13T18:09:24.137195+00:00
+lora_locked,C03_T09_A5,3,9,Makassingraka joq bola?,1,42,0.7,0.95,0,1,128,Apakah itu bola sepak?,False,0.6262566037476063,2026-08-13T18:09:24.773164+00:00
+lora_locked,C03_T09_A5,3,9,Makassingraka joq bola?,2,43,0.7,0.95,0,1,128,Apakah itu bola sepak?,False,0.6256457078270614,2026-08-13T18:09:25.408255+00:00
+lora_locked,C03_T09_A5,3,9,Makassingraka joq bola?,3,44,0.7,0.95,0,1,128,Apakah sepupu satu itu?,False,0.7017177701927722,2026-08-13T18:09:26.119657+00:00
+lora_locked,C03_T09_A5,3,9,Makassingraka joq bola?,4,45,0.7,0.95,0,1,128,Apakah bola itu besar?,False,0.5451352242380381,2026-08-13T18:09:26.674782+00:00
+lora_locked,C03_T09_A5,3,9,Makassingraka joq bola?,5,46,0.7,0.95,0,1,128,Apakah itu buah mangga?,False,0.697702026925981,2026-08-13T18:09:27.382059+00:00
+lora_locked,C03_T10_B5,3,10,"Makassing na matonggo, pa masussa to wai.",1,42,0.7,0.95,0,1,128,"Mereka menggoreng kacang dan memasak nasi, sedang air direbus.",False,1.8632859699428082,2026-08-13T18:09:29.255011+00:00
+lora_locked,C03_T10_B5,3,10,"Makassing na matonggo, pa masussa to wai.",2,43,0.7,0.95,0,1,128,"Dia sudah sehat dan kuat, tidak lagi sakit panas.",False,1.241819888819009,2026-08-13T18:09:30.506689+00:00
+lora_locked,C03_T10_B5,3,10,"Makassing na matonggo, pa masussa to wai.",3,44,0.7,0.95,0,1,128,"Menggigit dan menyakitkan, karena airnya panas.",False,1.2489174539223313,2026-08-13T18:09:31.766348+00:00
+lora_locked,C03_T10_B5,3,10,"Makassing na matonggo, pa masussa to wai.",4,45,0.7,0.95,0,1,128,"Sangkar jebakan dan berlubang, supaya air bisa keluar.",False,1.4618397168815136,2026-08-13T18:09:33.238462+00:00
+lora_locked,C03_T10_B5,3,10,"Makassing na matonggo, pa masussa to wai.",5,46,0.7,0.95,0,1,128,"Besok akan sehat, karena air itu obat.",False,1.017739495728165,2026-08-13T18:09:34.267060+00:00
+lora_locked,C03_T11_A6,3,11,"Ia ke nnallikiq tangki wai, teqdamo na masussa to wai ke uranni.",1,42,0.7,0.95,0,1,128,"Kalau kita mau memasukkan tangki air, tidak ada lagi tempat untuk air hujan.",False,1.7894841497763991,2026-08-13T18:09:36.067426+00:00
+lora_locked,C03_T11_A6,3,11,"Ia ke nnallikiq tangki wai, teqdamo na masussa to wai ke uranni.",2,43,0.7,0.95,0,1,128,"Kalau kita mengantikkan tangki air, tidak ada lagi air yang suci kalau kita ambil.",False,1.9318351750262082,2026-08-13T18:09:38.009459+00:00
+lora_locked,C03_T11_A6,3,11,"Ia ke nnallikiq tangki wai, teqdamo na masussa to wai ke uranni.",3,44,0.7,0.95,0,1,128,"Kalau kita mampu mengebor tanah, tidak ada lagi air yang sulit didapat.",False,1.781622173730284,2026-08-13T18:09:39.800928+00:00
+lora_locked,C03_T11_A6,3,11,"Ia ke nnallikiq tangki wai, teqdamo na masussa to wai ke uranni.",4,45,0.7,0.95,0,1,128,"Kalau kita mau menampung air, tidak ada lagi air jatuh kalau hujan.",False,1.7814235421828926,2026-08-13T18:09:41.592291+00:00
+lora_locked,C03_T11_A6,3,11,"Ia ke nnallikiq tangki wai, teqdamo na masussa to wai ke uranni.",5,46,0.7,0.95,0,1,128,"Kalau kita mengeluarkan tangki air, tidak ada lagi air untuk mandi.",False,1.4666416351683438,2026-08-13T18:09:43.069623+00:00
+lora_locked,C03_T12_B6,3,12,Umbora kuni nnalli?,1,42,0.7,0.95,0,1,128,Di mana Ibu?,False,0.46562102204188704,2026-08-13T18:09:43.546155+00:00
+lora_locked,C03_T12_B6,3,12,Umbora kuni nnalli?,2,43,0.7,0.95,0,1,128,Di mana Anda tinggal?,False,0.5449926392175257,2026-08-13T18:09:44.100433+00:00
+lora_locked,C03_T12_B6,3,12,Umbora kuni nnalli?,3,44,0.7,0.95,0,1,128,Di mana dia simpan?,False,0.5470984550192952,2026-08-13T18:09:44.657406+00:00
+lora_locked,C03_T12_B6,3,12,Umbora kuni nnalli?,4,45,0.7,0.95,0,1,128,Anda berasal dari mana?,False,0.7004471221007407,2026-08-13T18:09:45.367506+00:00
+lora_locked,C03_T12_B6,3,12,Umbora kuni nnalli?,5,46,0.7,0.95,0,1,128,Di mana Anda tinggal?,False,0.5438251011073589,2026-08-13T18:09:45.921671+00:00
+lora_locked,C03_T13_A7,3,13,"Teqda kitaq kuissenni, mbai den jao Juppandang.",1,42,0.7,0.95,0,1,128,"Kami tidak menggigit, tapi di Juppandang ada.",False,1.23410151200369,2026-08-13T18:09:47.165813+00:00
+lora_locked,C03_T13_A7,3,13,"Teqda kitaq kuissenni, mbai den jao Juppandang.",2,43,0.7,0.95,0,1,128,"Kami tidak menggigit, sama seperti anjing tanah.",False,1.1542396419681609,2026-08-13T18:09:48.329786+00:00
+lora_locked,C03_T13_A7,3,13,"Teqda kitaq kuissenni, mbai den jao Juppandang.",3,44,0.7,0.95,0,1,128,"Kami tidak menjualnya, karena di Juppandang sudah ada.",False,1.3117783390916884,2026-08-13T18:09:49.651310+00:00
+lora_locked,C03_T13_A7,3,13,"Teqda kitaq kuissenni, mbai den jao Juppandang.",4,45,0.7,0.95,0,1,128,"Kami tidak menjenguk, melainkan di bawa ke Juppandang.",False,1.5453607579693198,2026-08-13T18:09:51.206863+00:00
+lora_locked,C03_T13_A7,3,13,"Teqda kitaq kuissenni, mbai den jao Juppandang.",5,46,0.7,0.95,0,1,128,"Kami tidak mengusiknya, tetapi ada di rumah Juppandang.",False,1.543342238292098,2026-08-13T18:09:52.760528+00:00
+lora_locked,C03_T14_B7,3,14,Masuliqraka joq tangki?,1,42,0.7,0.95,0,1,128,Apakah tangki itu mahal?,False,0.6972979148849845,2026-08-13T18:09:53.469120+00:00
+lora_locked,C03_T14_B7,3,14,Masuliqraka joq tangki?,2,43,0.7,0.95,0,1,128,Apakah tangki itu mahal?,False,0.6968060932122171,2026-08-13T18:09:54.176102+00:00
+lora_locked,C03_T14_B7,3,14,Masuliqraka joq tangki?,3,44,0.7,0.95,0,1,128,Apakah tangki itu mahal?,False,0.700908709783107,2026-08-13T18:09:54.886675+00:00
+lora_locked,C03_T14_B7,3,14,Masuliqraka joq tangki?,4,45,0.7,0.95,0,1,128,Apakah tangki itu mahal?,False,0.7027038470841944,2026-08-13T18:09:55.599504+00:00
+lora_locked,C03_T14_B7,3,14,Masuliqraka joq tangki?,5,46,0.7,0.95,0,1,128,Masih lamakah tangkap?,False,0.7009250121191144,2026-08-13T18:09:56.311274+00:00
+lora_locked,C03_T15_A8,3,15,"Masuliq kitaqna, pa makaccaq dipake mangpulo taun.",1,42,0.7,0.95,0,1,128,"Kami sangat bersyukur, karena sudah sampai 40 tahun dipakai.",False,1.5596181573346257,2026-08-13T18:09:57.881807+00:00
+lora_locked,C03_T15_A8,3,15,"Masuliq kitaqna, pa makaccaq dipake mangpulo taun.",2,43,0.7,0.95,0,1,128,"Masih lama kita, karena barang yang dipakai itu sudah berumur 40 tahun.",False,1.723724305164069,2026-08-13T18:09:59.617352+00:00
+lora_locked,C03_T15_A8,3,15,"Masuliq kitaqna, pa makaccaq dipake mangpulo taun.",3,44,0.7,0.95,0,1,128,"Sudah lama kita simpan, karena hanya dipakai dalam pesta perkawinan.",False,1.7096705348230898,2026-08-13T18:10:01.336889+00:00
+lora_locked,C03_T15_A8,3,15,"Masuliq kitaqna, pa makaccaq dipake mangpulo taun.",4,45,0.7,0.95,0,1,128,"Sudah lama kita simpan, tapi malam yang ketujuh belas dipakai.",False,1.779528422281146,2026-08-13T18:10:03.127725+00:00
+lora_locked,C03_T15_A8,3,15,"Masuliq kitaqna, pa makaccaq dipake mangpulo taun.",5,46,0.7,0.95,0,1,128,"Masih lama kita, nanti setelah 40 tahun.",False,1.1662842221558094,2026-08-13T18:10:04.304944+00:00
+lora_locked,C09_T01_A1,9,1,Denmoraka balintaq?,1,42,0.7,0.95,0,1,128,Kapan malam ini?,False,0.547958618029952,2026-08-13T18:10:04.863800+00:00
+lora_locked,C09_T01_A1,9,1,Denmoraka balintaq?,2,43,0.7,0.95,0,1,128,Apakah sudah lama Anda tunggu?,False,0.7762929140590131,2026-08-13T18:10:05.650564+00:00
+lora_locked,C09_T01_A1,9,1,Denmoraka balintaq?,3,44,0.7,0.95,0,1,128,Apakah ia sudah sehat?,False,0.6224776022136211,2026-08-13T18:10:06.283540+00:00
+lora_locked,C09_T01_A1,9,1,Denmoraka balintaq?,4,45,0.7,0.95,0,1,128,Apakah sudah lama Anda tinggal di sana?,False,0.9420249247923493,2026-08-13T18:10:07.236111+00:00
+lora_locked,C09_T01_A1,9,1,Denmoraka balintaq?,5,46,0.7,0.95,0,1,128,Sudah keluarkah barang yang Anda minta?,False,1.0884006163105369,2026-08-13T18:10:08.335693+00:00
+lora_locked,C09_T02_B1,9,2,Denmo.,1,42,0.7,0.95,0,1,128,Ada.,False,0.24045184906572104,2026-08-13T18:10:08.586603+00:00
+lora_locked,C09_T02_B1,9,2,Denmo.,2,43,0.7,0.95,0,1,128,Ada.,False,0.23742614081129432,2026-08-13T18:10:08.834383+00:00
+lora_locked,C09_T02_B1,9,2,Denmo.,3,44,0.7,0.95,0,1,128,Ada.,False,0.23844310780987144,2026-08-13T18:10:09.082935+00:00
+lora_locked,C09_T02_B1,9,2,Denmo.,4,45,0.7,0.95,0,1,128,Ada.,False,0.2387564959935844,2026-08-13T18:10:09.331646+00:00
+lora_locked,C09_T02_B1,9,2,Denmo.,5,46,0.7,0.95,0,1,128,Ada.,False,0.23847018787637353,2026-08-13T18:10:09.580595+00:00
+lora_locked,C09_T03_A2,9,3,To umbora joq balintaq?,1,42,0.7,0.95,0,1,128,Yang mana lagi burung hantu?,False,0.6981167290359735,2026-08-13T18:10:10.288910+00:00
+lora_locked,C09_T03_A2,9,3,To umbora joq balintaq?,2,43,0.7,0.95,0,1,128,Di mana Ibu mengantar makanan?,False,0.851304444950074,2026-08-13T18:10:11.151165+00:00
+lora_locked,C09_T03_A2,9,3,To umbora joq balintaq?,3,44,0.7,0.95,0,1,128,Yang mana lagi biasa Ibu tangkap?,False,0.856714366003871,2026-08-13T18:10:12.019154+00:00
+lora_locked,C09_T03_A2,9,3,To umbora joq balintaq?,4,45,0.7,0.95,0,1,128,Apakah yang dimaksud dengan 'menaikkan barang'?,False,1.161689863074571,2026-08-13T18:10:13.191673+00:00
+lora_locked,C09_T03_A2,9,3,To umbora joq balintaq?,5,46,0.7,0.95,0,1,128,Di mana dia simpan?,False,0.5447495100088418,2026-08-13T18:10:13.747295+00:00
+lora_locked,C09_T04_B2,9,4,To jio mai Finlandia.,1,42,0.7,0.95,0,1,128,Yang berasal dari Finlandia.,False,0.699502747040242,2026-08-13T18:10:14.457061+00:00
+lora_locked,C09_T04_B2,9,4,To jio mai Finlandia.,2,43,0.7,0.95,0,1,128,Dia datang dari Finlandia.,False,0.6217664200812578,2026-08-13T18:10:15.089009+00:00
+lora_locked,C09_T04_B2,9,4,To jio mai Finlandia.,3,44,0.7,0.95,0,1,128,Orang dari Finlandia.,False,0.5466802706941962,2026-08-13T18:10:15.646743+00:00
+lora_locked,C09_T04_B2,9,4,To jio mai Finlandia.,4,45,0.7,0.95,0,1,128,Orang yang berasal dari Finlandia.,False,0.8539110170677304,2026-08-13T18:10:16.511786+00:00
+lora_locked,C09_T04_B2,9,4,To jio mai Finlandia.,5,46,0.7,0.95,0,1,128,Orang yang berasal dari Finlandia.,False,0.8533081323839724,2026-08-13T18:10:17.376244+00:00
+lora_locked,C09_T05_A3,9,5,Umborikiq sitammu?,1,42,0.7,0.95,0,1,128,Kamu sudah lama tinggal di sini?,False,0.9267912707291543,2026-08-13T18:10:18.314088+00:00
+lora_locked,C09_T05_A3,9,5,Umborikiq sitammu?,2,43,0.7,0.95,0,1,128,Apakah dia sehat-sehat saja?,False,0.7793696532025933,2026-08-13T18:10:19.104296+00:00
+lora_locked,C09_T05_A3,9,5,Umborikiq sitammu?,3,44,0.7,0.95,0,1,128,Bagaimana dengan sepupunya?,False,0.7057921625673771,2026-08-13T18:10:19.821032+00:00
+lora_locked,C09_T05_A3,9,5,Umborikiq sitammu?,4,45,0.7,0.95,0,1,128,Apakah sudah lama Anda simpan?,False,0.7789726937189698,2026-08-13T18:10:20.610666+00:00
+lora_locked,C09_T05_A3,9,5,Umborikiq sitammu?,5,46,0.7,0.95,0,1,128,Bagaimana lagi sepupu satu kali Anda?,False,0.9318020739592612,2026-08-13T18:10:21.553453+00:00
+lora_locked,C09_T06_B3,9,6,Ia tonna kumassikola jio Inggiris na kisitammu.,1,42,0.7,0.95,0,1,128,Yang pertama saya pelajari adalah bahasa Inggris dan setelah itu bahasa Spanyol.,False,1.8513141120783985,2026-08-13T18:10:23.415555+00:00
+lora_locked,C09_T06_B3,9,6,Ia tonna kumassikola jio Inggiris na kisitammu.,2,43,0.7,0.95,0,1,128,Yang saya tahu cuma di Inggris dan mungkin di sana.,False,1.3119493392296135,2026-08-13T18:10:24.737802+00:00
+lora_locked,C09_T06_B3,9,6,Ia tonna kumassikola jio Inggiris na kisitammu.,3,44,0.7,0.95,0,1,128,"Kalau di Inggris sudah dibuat jadi mainan, saya ingin juga dibuat jadi mainan.",False,1.9332303842529655,2026-08-13T18:10:26.681404+00:00
+lora_locked,C09_T06_B3,9,6,Ia tonna kumassikola jio Inggiris na kisitammu.,4,45,0.7,0.95,0,1,128,Yang saya pelihara adalah burung hantu di Inggris dan pipit.,False,1.4687013230286539,2026-08-13T18:10:28.161434+00:00
+lora_locked,C09_T06_B3,9,6,Ia tonna kumassikola jio Inggiris na kisitammu.,5,46,0.7,0.95,0,1,128,"Kalau di Inggris sudah dibuat jadi mainan, saya ingin juga membelinya.",False,1.6982579580508173,2026-08-13T18:10:29.871068+00:00
+lora_locked,C09_T07_A4,9,7,Sicandingrikiqka tamaneq siala?,1,42,0.7,0.95,0,1,128,Apakah Anda masih hidup dengan suaminya?,False,0.9297835198231041,2026-08-13T18:10:30.811691+00:00
+lora_locked,C09_T07_A4,9,7,Sicandingrikiqka tamaneq siala?,2,43,0.7,0.95,0,1,128,Apakah Anda sendirian tinggal?,False,0.8044440713711083,2026-08-13T18:10:31.626409+00:00
+lora_locked,C09_T07_A4,9,7,Sicandingrikiqka tamaneq siala?,3,44,0.7,0.95,0,1,128,Apakah Anda sudah sehat lagi?,False,0.7291728360578418,2026-08-13T18:10:32.367387+00:00
+lora_locked,C09_T07_A4,9,7,Sicandingrikiqka tamaneq siala?,4,45,0.7,0.95,0,1,128,Apakah Anda sendirian tinggal?,False,0.795916732866317,2026-08-13T18:10:33.175611+00:00
+lora_locked,C09_T07_A4,9,7,Sicandingrikiqka tamaneq siala?,5,46,0.7,0.95,0,1,128,Apakah Anda sudah lama menyanyi?,False,0.8661422370932996,2026-08-13T18:10:34.053193+00:00
+lora_locked,C09_T08_B4,9,8,"Ieq, sicandingkan.",1,42,0.7,0.95,0,1,128,"Ya, silahkan.",False,0.4773289980366826,2026-08-13T18:10:34.541502+00:00
+lora_locked,C09_T08_B4,9,8,"Ieq, sicandingkan.",2,43,0.7,0.95,0,1,128,"Ya, silahkan.",False,0.4774028598330915,2026-08-13T18:10:35.029450+00:00
+lora_locked,C09_T08_B4,9,8,"Ieq, sicandingkan.",3,44,0.7,0.95,0,1,128,"Ya, silahkan.",False,0.4757496677339077,2026-08-13T18:10:35.515396+00:00
+lora_locked,C09_T08_B4,9,8,"Ieq, sicandingkan.",4,45,0.7,0.95,0,1,128,"Baiklah, nanti sore.",False,0.7033754610456526,2026-08-13T18:10:36.229401+00:00
+lora_locked,C09_T08_B4,9,8,"Ieq, sicandingkan.",5,46,0.7,0.95,0,1,128,"Ya, silahkan.",False,0.4741690680384636,2026-08-13T18:10:36.714066+00:00
+lora_locked,C09_T09_A5,9,9,Piramira anakkataq?,1,42,0.7,0.95,0,1,128,Kapan anak Bapak lahir?,False,0.7835916262120008,2026-08-13T18:10:37.509032+00:00
+lora_locked,C09_T09_A5,9,9,Piramira anakkataq?,2,43,0.7,0.95,0,1,128,Berapa anak Bapak?,False,0.626352721825242,2026-08-13T18:10:38.147189+00:00
+lora_locked,C09_T09_A5,9,9,Piramira anakkataq?,3,44,0.7,0.95,0,1,128,Berapa anak Bapak?,False,0.6302032521925867,2026-08-13T18:10:38.789055+00:00
+lora_locked,C09_T09_A5,9,9,Piramira anakkataq?,4,45,0.7,0.95,0,1,128,Kapan anak Bapak lahir?,False,0.7805496887303889,2026-08-13T18:10:39.581410+00:00
+lora_locked,C09_T09_A5,9,9,Piramira anakkataq?,5,46,0.7,0.95,0,1,128,Berapa anak Bapak?,False,0.6295736860483885,2026-08-13T18:10:40.221471+00:00
+lora_locked,C09_T10_B5,9,10,"Duami, mesaq baine mesaq muane.",1,42,0.7,0.95,0,1,128,"Kami sudah lama, sejak perempuan kami lahir.",False,1.2569203060120344,2026-08-13T18:10:41.488981+00:00
+lora_locked,C09_T10_B5,9,10,"Duami, mesaq baine mesaq muane.",2,43,0.7,0.95,0,1,128,"Dia sudah sehat, atau mungkin dia perempuan yang melahirkan.",False,1.4029788239859045,2026-08-13T18:10:42.902943+00:00
+lora_locked,C09_T10_B5,9,10,"Duami, mesaq baine mesaq muane.",3,44,0.7,0.95,0,1,128,"Lewat, tetapi perempuan lebih cepat.",False,1.0909775476902723,2026-08-13T18:10:44.004456+00:00
+lora_locked,C09_T10_B5,9,10,"Duami, mesaq baine mesaq muane.",4,45,0.7,0.95,0,1,128,"Dua kali, bapak satu kali, ibu satu kali.",False,1.2528560352511704,2026-08-13T18:10:45.268444+00:00
+lora_locked,C09_T10_B5,9,10,"Duami, mesaq baine mesaq muane.",5,46,0.7,0.95,0,1,128,"Kami sudah, tetapi perempuan belum.",False,0.9346493990160525,2026-08-13T18:10:46.214824+00:00
+lora_locked,C09_T11_A6,9,11,Pirang taunmira to muane?,1,42,0.7,0.95,0,1,128,Berapa tahun Anda?,False,0.470101076643914,2026-08-13T18:10:46.696321+00:00
+lora_locked,C09_T11_A6,9,11,Pirang taunmira to muane?,2,43,0.7,0.95,0,1,128,Berapa tahun Anda?,False,0.4687511706724763,2026-08-13T18:10:47.175812+00:00
+lora_locked,C09_T11_A6,9,11,Pirang taunmira to muane?,3,44,0.7,0.95,0,1,128,Berapa tahun Anda?,False,0.46883928403258324,2026-08-13T18:10:47.655866+00:00
+lora_locked,C09_T11_A6,9,11,Pirang taunmira to muane?,4,45,0.7,0.95,0,1,128,Berapa tahun Anda?,False,0.4693973590619862,2026-08-13T18:10:48.135805+00:00
+lora_locked,C09_T11_A6,9,11,Pirang taunmira to muane?,5,46,0.7,0.95,0,1,128,Berapa tahun Anda?,False,0.47010927833616734,2026-08-13T18:10:48.616602+00:00
+lora_locked,C09_T12_B6,9,12,Duang taunmi sitangnga.,1,42,0.7,0.95,0,1,128,Kami sudah dua tahun dan sembilan bulan.,False,1.0095990300178528,2026-08-13T18:10:49.637169+00:00
+lora_locked,C09_T12_B6,9,12,Duang taunmi sitangnga.,2,43,0.7,0.95,0,1,128,Dua tahun dan tiga bulan.,False,0.778490652795881,2026-08-13T18:10:50.427306+00:00
+lora_locked,C09_T12_B6,9,12,Duang taunmi sitangnga.,3,44,0.7,0.95,0,1,128,Dua tahun setengah.,False,0.6239965576678514,2026-08-13T18:10:51.062676+00:00
+lora_locked,C09_T12_B6,9,12,Duang taunmi sitangnga.,4,45,0.7,0.95,0,1,128,Dua tahun tiga bulan.,False,0.6986392391845584,2026-08-13T18:10:51.772022+00:00
+lora_locked,C09_T12_B6,9,12,Duang taunmi sitangnga.,5,46,0.7,0.95,0,1,128,Dua tahun lima bulan.,False,0.7008904977701604,2026-08-13T18:10:52.484660+00:00
+lora_locked,C09_T13_A7,9,13,Umbori joq too?,1,42,0.7,0.95,0,1,128,Kamu mau pergi ke mana?,False,0.6982995513826609,2026-08-13T18:10:53.194210+00:00
+lora_locked,C09_T13_A7,9,13,Umbori joq too?,2,43,0.7,0.95,0,1,128,Di mana Ibu?,False,0.47065315302461386,2026-08-13T18:10:53.675240+00:00
+lora_locked,C09_T13_A7,9,13,Umbori joq too?,3,44,0.7,0.95,0,1,128,Mau ke mana pak?,False,0.546273129992187,2026-08-13T18:10:54.232390+00:00
+lora_locked,C09_T13_A7,9,13,Umbori joq too?,4,45,0.7,0.95,0,1,128,Anda berasal dari mana?,False,0.6988400956615806,2026-08-13T18:10:54.942375+00:00
+lora_locked,C09_T13_A7,9,13,Umbori joq too?,5,46,0.7,0.95,0,1,128,Di mana dia?,False,0.39415472466498613,2026-08-13T18:10:55.347246+00:00
+lora_locked,C09_T14_B7,9,14,Malei maningo-ningo sola sangpeana.,1,42,0.7,0.95,0,1,128,Kami masih hidup dan sehat-sehat saja.,False,1.00026286393404,2026-08-13T18:10:56.358648+00:00
+lora_locked,C09_T14_B7,9,14,Malei maningo-ningo sola sangpeana.,2,43,0.7,0.95,0,1,128,Dia sudah sehat-sehat saja dan sudah berkebun.,False,1.165302253793925,2026-08-13T18:10:57.534754+00:00
+lora_locked,C09_T14_B7,9,14,Malei maningo-ningo sola sangpeana.,3,44,0.7,0.95,0,1,128,Lain kali bisa dengan satu tangan saja.,False,0.8557920888997614,2026-08-13T18:10:58.401991+00:00
+lora_locked,C09_T14_B7,9,14,Malei maningo-ningo sola sangpeana.,4,45,0.7,0.95,0,1,128,Lebih murah bila dibawa satuannya saja.,False,1.009814343880862,2026-08-13T18:10:59.423902+00:00
+lora_locked,C09_T14_B7,9,14,Malei maningo-ningo sola sangpeana.,5,46,0.7,0.95,0,1,128,Hanya makanan ringan dan buah-buahan.,False,1.1618271577171981,2026-08-13T18:11:00.596721+00:00
+lora_locked,C09_T15_A8,9,15,Lumingkamiraka to biccuq?,1,42,0.7,0.95,0,1,128,Kamu sudah lama menggigit anak itu?,False,0.937360530719161,2026-08-13T18:11:01.546351+00:00
+lora_locked,C09_T15_A8,9,15,Lumingkamiraka to biccuq?,2,43,0.7,0.95,0,1,128,Apakah sudah lama sakit?,False,0.7009975370019674,2026-08-13T18:11:02.259222+00:00
+lora_locked,C09_T15_A8,9,15,Lumingkamiraka to biccuq?,3,44,0.7,0.95,0,1,128,Lumur kambuhkah anak itu?,False,0.8564903098158538,2026-08-13T18:11:03.126635+00:00
+lora_locked,C09_T15_A8,9,15,Lumingkamiraka to biccuq?,4,45,0.7,0.95,0,1,128,Apakah sudah lama Anda kawin?,False,0.8556895800866187,2026-08-13T18:11:03.994203+00:00
+lora_locked,C09_T15_A8,9,15,Lumingkamiraka to biccuq?,5,46,0.7,0.95,0,1,128,Apakah Anda sudah lama menggigit buah coklat?,False,1.2388761257752776,2026-08-13T18:11:05.245213+00:00
+lora_locked,C09_T16_B8,9,16,Teqdapa nalumingka.,1,42,0.7,0.95,0,1,128,Belum terbang.,False,0.47000821167603135,2026-08-13T18:11:05.727110+00:00
+lora_locked,C09_T16_B8,9,16,Teqdapa nalumingka.,2,43,0.7,0.95,0,1,128,Dia tidak lagi menggigit.,False,0.6244698292575777,2026-08-13T18:11:06.362516+00:00
+lora_locked,C09_T16_B8,9,16,Teqdapa nalumingka.,3,44,0.7,0.95,0,1,128,Tidak ada lagi yang ketinggalan.,False,0.8538278541527689,2026-08-13T18:11:07.228447+00:00
+lora_locked,C09_T16_B8,9,16,Teqdapa nalumingka.,4,45,0.7,0.95,0,1,128,Tidak adakah uang.,False,0.6504648118279874,2026-08-13T18:11:07.890588+00:00
+lora_locked,C09_T16_B8,9,16,Teqdapa nalumingka.,5,46,0.7,0.95,0,1,128,Tidak adakah uang.,False,0.6384309711866081,2026-08-13T18:11:08.540706+00:00
+lora_locked,C09_T17_A9,9,17,Piramira isinna?,1,42,0.7,0.95,0,1,128,Kapan akan selesai?,False,0.554259933065623,2026-08-13T18:11:09.106743+00:00
+lora_locked,C09_T17_A9,9,17,Piramira isinna?,2,43,0.7,0.95,0,1,128,Apakah sudah diusahakan?,False,0.7056801416911185,2026-08-13T18:11:09.824212+00:00
+lora_locked,C09_T17_A9,9,17,Piramira isinna?,3,44,0.7,0.95,0,1,128,Apakah sudah sehat?,False,0.5468998029828072,2026-08-13T18:11:10.382564+00:00
+lora_locked,C09_T17_A9,9,17,Piramira isinna?,4,45,0.7,0.95,0,1,128,Apakah sudah terbit?,False,0.5501220170408487,2026-08-13T18:11:10.944630+00:00
+lora_locked,C09_T17_A9,9,17,Piramira isinna?,5,46,0.7,0.95,0,1,128,Apakah sudah keluar?,False,0.5474158679135144,2026-08-13T18:11:11.503034+00:00
+lora_locked,C09_T18_B9,9,18,Duami.,1,42,0.7,0.95,0,1,128,Kami sudah lama tinggal di sini.,False,0.9352059359662235,2026-08-13T18:11:12.449983+00:00
+lora_locked,C09_T18_B9,9,18,Duami.,2,43,0.7,0.95,0,1,128,Dia sudah sehat.,False,0.47353408578783274,2026-08-13T18:11:12.935865+00:00
+lora_locked,C09_T18_B9,9,18,Duami.,3,44,0.7,0.95,0,1,128,Lewat.,False,0.3946472737006843,2026-08-13T18:11:13.342348+00:00
+lora_locked,C09_T18_B9,9,18,Duami.,4,45,0.7,0.95,0,1,128,Sudah.,False,0.3942746641114354,2026-08-13T18:11:13.748068+00:00
+lora_locked,C09_T18_B9,9,18,Duami.,5,46,0.7,0.95,0,1,128,Dia sudah sehat.,False,0.47093112021684647,2026-08-13T18:11:14.230003+00:00
+lora_locked,C09_T19_A10,9,19,Apara nakande tikianuq?,1,42,0.7,0.95,0,1,128,Apa yang sedang dikerjakan di kebun itu?,False,1.2440375098958611,2026-08-13T18:11:15.484962+00:00
+lora_locked,C09_T19_A10,9,19,Apara nakande tikianuq?,2,43,0.7,0.95,0,1,128,Apa yang dikerjakan di kebun?,False,1.00927166454494,2026-08-13T18:11:16.505907+00:00
+lora_locked,C09_T19_A10,9,19,Apara nakande tikianuq?,3,44,0.7,0.95,0,1,128,Apa yang sedang dikerjakan di kebun?,False,1.1602883050218225,2026-08-13T18:11:17.677869+00:00
+lora_locked,C09_T19_A10,9,19,Apara nakande tikianuq?,4,45,0.7,0.95,0,1,128,Apa yang dikerjakan di kebun?,False,1.015312452800572,2026-08-13T18:11:18.704565+00:00
+lora_locked,C09_T19_A10,9,19,Apara nakande tikianuq?,5,46,0.7,0.95,0,1,128,Apa yang dikerjakan di kebun?,False,1.0087283528409898,2026-08-13T18:11:19.725437+00:00
+lora_locked,C09_T20_B10,9,20,"Tolloq, camme sola abon-abon siciqdiq.",1,42,0.7,0.95,0,1,128,"Kami punya, ikan dan abon juga sedikit.",False,1.1744043240323663,2026-08-13T18:11:20.911358+00:00
+lora_locked,C09_T20_B10,9,20,"Tolloq, camme sola abon-abon siciqdiq.",2,43,0.7,0.95,0,1,128,"Tolong, bisa atau abon-abon sedikit saja.",False,1.1735744830220938,2026-08-13T18:11:22.097115+00:00
+lora_locked,C09_T20_B10,9,20,"Tolloq, camme sola abon-abon siciqdiq.",3,44,0.7,0.95,0,1,128,"Tolong, kami dengan abon-abon di sini.",False,1.1741022779606283,2026-08-13T18:11:23.283384+00:00
+lora_locked,C09_T20_B10,9,20,"Tolloq, camme sola abon-abon siciqdiq.",4,45,0.7,0.95,0,1,128,"Ada, sudah sampai dengan abon-abon sekitar.",False,1.1671228087507188,2026-08-13T18:11:24.463019+00:00
+lora_locked,C09_T20_B10,9,20,"Tolloq, camme sola abon-abon siciqdiq.",5,46,0.7,0.95,0,1,128,"Ya, sudah, camilan dan abon juga sudah.",False,1.0086845471523702,2026-08-13T18:11:25.483890+00:00
+lora_locked,C09_T21_A11,9,21,Teqdamoraka nacumucu?,1,42,0.7,0.95,0,1,128,Apakah tidak lama lagi ia kumpul?,False,0.9388845902867615,2026-08-13T18:11:26.432605+00:00
+lora_locked,C09_T21_A11,9,21,Teqdamoraka nacumucu?,2,43,0.7,0.95,0,1,128,Apakah mereka tidak bisa berbicara?,False,0.7839089389890432,2026-08-13T18:11:27.227808+00:00
+lora_locked,C09_T21_A11,9,21,Teqdamoraka nacumucu?,3,44,0.7,0.95,0,1,128,Apakah tidak bisa disembelih?,False,0.7044940330088139,2026-08-13T18:11:27.944465+00:00
+lora_locked,C09_T21_A11,9,21,Teqdamoraka nacumucu?,4,45,0.7,0.95,0,1,128,Apakah mereka tidak suka dengan Anda?,False,0.8136386191472411,2026-08-13T18:11:28.770080+00:00
+lora_locked,C09_T21_A11,9,21,Teqdamoraka nacumucu?,5,46,0.7,0.95,0,1,128,Apakah mereka tidak mengadakan pesta kawin?,False,1.1147792083211243,2026-08-13T18:11:29.897231+00:00
+lora_locked,C09_T22_B11,9,22,Cumucu unapa.,1,42,0.7,0.95,0,1,128,Kami masih hidup.,False,0.5466886968351901,2026-08-13T18:11:30.455390+00:00
+lora_locked,C09_T22_B11,9,22,Cumucu unapa.,2,43,0.7,0.95,0,1,128,Dia sudah lahir tadi malam.,False,0.7750110998749733,2026-08-13T18:11:31.242604+00:00
+lora_locked,C09_T22_B11,9,22,Cumucu unapa.,3,44,0.7,0.95,0,1,128,Dia cuma diam saja.,False,0.5519212731160223,2026-08-13T18:11:31.806461+00:00
+lora_locked,C09_T22_B11,9,22,Cumucu unapa.,4,45,0.7,0.95,0,1,128,Sudah sampai jam enam.,False,0.7079754057340324,2026-08-13T18:11:32.526198+00:00
+lora_locked,C09_T22_B11,9,22,Cumucu unapa.,5,46,0.7,0.95,0,1,128,"Sudah, silahkan naik.",False,0.7865270311012864,2026-08-13T18:11:33.324634+00:00
+lora_locked,C33_T01_A1,33,1,Budaraka tedong malillin indeq?,1,42,0.7,0.95,0,1,128,Banyakkah kerbau di sini?,False,0.8633175799623132,2026-08-13T18:11:34.200511+00:00
+lora_locked,C33_T01_A1,33,1,Budaraka tedong malillin indeq?,2,43,0.7,0.95,0,1,128,Banyakkah kerbau di sini?,False,0.8603493832051754,2026-08-13T18:11:35.072756+00:00
+lora_locked,C33_T01_A1,33,1,Budaraka tedong malillin indeq?,3,44,0.7,0.95,0,1,128,Banyakkah kerbau yang dilepas di sini?,False,1.0879757199436426,2026-08-13T18:11:36.172178+00:00
+lora_locked,C33_T01_A1,33,1,Budaraka tedong malillin indeq?,4,45,0.7,0.95,0,1,128,Banyakkah kerbau di sini?,False,0.850570771843195,2026-08-13T18:11:37.033796+00:00
+lora_locked,C33_T01_A1,33,1,Budaraka tedong malillin indeq?,5,46,0.7,0.95,0,1,128,Banyakkah kerbau di sini?,False,0.8360087149776518,2026-08-13T18:11:37.879717+00:00
+lora_locked,C33_T02_B1,33,2,"Ieq, buda jio buntu Latimojong, apa malaira.",1,42,0.7,0.95,0,1,128,"Ya, sangat dingin di Gunung Latimojong, apalagi.",False,1.3012494770810008,2026-08-13T18:11:39.190579+00:00
+lora_locked,C33_T02_B1,33,2,"Ieq, buda jio buntu Latimojong, apa malaira.",2,43,0.7,0.95,0,1,128,"Ya, banyak di gunung Latimojong, tetapi sulit.",False,1.2216285062022507,2026-08-13T18:11:40.421967+00:00
+lora_locked,C33_T02_B1,33,2,"Ieq, buda jio buntu Latimojong, apa malaira.",3,44,0.7,0.95,0,1,128,"Ya, banyak di gunung Latimojong, tapi sulit.",False,1.1436317469924688,2026-08-13T18:11:41.575540+00:00
+lora_locked,C33_T02_B1,33,2,"Ieq, buda jio buntu Latimojong, apa malaira.",4,45,0.7,0.95,0,1,128,"Ya, banyak di bukit Latimojong, tapi sulit.",False,1.1912791710346937,2026-08-13T18:11:42.776376+00:00
+lora_locked,C33_T02_B1,33,2,"Ieq, buda jio buntu Latimojong, apa malaira.",5,46,0.7,0.95,0,1,128,"Ya, banyak di Gunung Latimojong, tapi sulit.",False,1.1729723089374602,2026-08-13T18:11:43.959207+00:00
+lora_locked,C33_T03_A2,33,3,Matumbara ke dijokkoi?,1,42,0.7,0.95,0,1,128,Bagaimana caranya kalau dijilat?,False,0.9311797362752259,2026-08-13T18:11:44.902738+00:00
+lora_locked,C33_T03_A2,33,3,Matumbara ke dijokkoi?,2,43,0.7,0.95,0,1,128,Bagaimana caranya kalau dijemur?,False,0.9237879742868245,2026-08-13T18:11:45.837893+00:00
+lora_locked,C33_T03_A2,33,3,Matumbara ke dijokkoi?,3,44,0.7,0.95,0,1,128,Bagaimana caranya kalau Anda dijilat api?,False,1.081023489125073,2026-08-13T18:11:46.929950+00:00
+lora_locked,C33_T03_A2,33,3,Matumbara ke dijokkoi?,4,45,0.7,0.95,0,1,128,Bagaimana lagi kalau dijilat?,False,0.8513307478278875,2026-08-13T18:11:47.792558+00:00
+lora_locked,C33_T03_A2,33,3,Matumbara ke dijokkoi?,5,46,0.7,0.95,0,1,128,Bagaimana lagi kalau dijemur?,False,0.8516412670724094,2026-08-13T18:11:48.655556+00:00
+lora_locked,C33_T04_B2,33,4,Dipaulaqi asu.,1,42,0.7,0.95,0,1,128,Dipotongkan ayam.,False,0.7036837539635599,2026-08-13T18:11:49.370382+00:00
+lora_locked,C33_T04_B2,33,4,Dipaulaqi asu.,2,43,0.7,0.95,0,1,128,Dipotongkan kambing.,False,0.7937295883893967,2026-08-13T18:11:50.175811+00:00
+lora_locked,C33_T04_B2,33,4,Dipaulaqi asu.,3,44,0.7,0.95,0,1,128,Dipotongkan kambing.,False,0.7881345329806209,2026-08-13T18:11:50.975477+00:00
+lora_locked,C33_T04_B2,33,4,Dipaulaqi asu.,4,45,0.7,0.95,0,1,128,Dipotongkan babi.,False,0.7008791929110885,2026-08-13T18:11:51.688206+00:00
+lora_locked,C33_T04_B2,33,4,Dipaulaqi asu.,5,46,0.7,0.95,0,1,128,Dibelikan kambing.,False,0.6318594049662352,2026-08-13T18:11:52.331401+00:00
+lora_locked,C33_T05_A3,33,5,Matumbara ke dibunoi?,1,42,0.7,0.95,0,1,128,Bagaimana caranya kalau dibunuh?,False,0.9401981350965798,2026-08-13T18:11:53.282983+00:00
+lora_locked,C33_T05_A3,33,5,Matumbara ke dibunoi?,2,43,0.7,0.95,0,1,128,Bagaimana caranya kalau dibunuh?,False,0.9379371367394924,2026-08-13T18:11:54.232753+00:00
+lora_locked,C33_T05_A3,33,5,Matumbara ke dibunoi?,3,44,0.7,0.95,0,1,128,Bagaimana caranya kalau dibunuh?,False,0.9375377781689167,2026-08-13T18:11:55.181821+00:00
+lora_locked,C33_T05_A3,33,5,Matumbara ke dibunoi?,4,45,0.7,0.95,0,1,128,Bagaimana caranya kalau dibunuh?,False,0.9472656701691449,2026-08-13T18:11:56.140551+00:00
+lora_locked,C33_T05_A3,33,5,Matumbara ke dibunoi?,5,46,0.7,0.95,0,1,128,Bagaimana caranya kalau dibunuh?,False,0.9380117817781866,2026-08-13T18:11:57.090218+00:00
+lora_locked,C33_T06_B3,33,6,"Iana dibuno, didokei iaqrika dibakaqi.",1,42,0.7,0.95,0,1,128,"Kalau sudah dibuat, diukur dan kemudian dibakar.",False,1.4117559320293367,2026-08-13T18:11:58.513577+00:00
+lora_locked,C33_T06_B3,33,6,"Iana dibuno, didokei iaqrika dibakaqi.",2,43,0.7,0.95,0,1,128,"Kalau sudah selesai, dikerjakan, kalau sudah selesai dikerjakan, sudah selesai.",False,2.0226733591407537,2026-08-13T18:12:00.547913+00:00
+lora_locked,C33_T06_B3,33,6,"Iana dibuno, didokei iaqrika dibakaqi.",3,44,0.7,0.95,0,1,128,"Kalau ia sudah selesai, dinaiki kalau sudah selesai dibuat.",False,1.4718780238181353,2026-08-13T18:12:02.031545+00:00
+lora_locked,C33_T06_B3,33,6,"Iana dibuno, didokei iaqrika dibakaqi.",4,45,0.7,0.95,0,1,128,"Kalau sudah selesai, dinaiki kalau sudah selesai dibuat.",False,1.3902834700420499,2026-08-13T18:12:03.433538+00:00
+lora_locked,C33_T06_B3,33,6,"Iana dibuno, didokei iaqrika dibakaqi.",5,46,0.7,0.95,0,1,128,"Kalau sudah selesai dikerjakan, sudah dibiarkan saja.",False,1.3270027809776366,2026-08-13T18:12:04.772415+00:00
+lora_locked,C33_T07_A4,33,7,Apara dikabuaq doke?,1,42,0.7,0.95,0,1,128,Apa yang dibuat tadi?,False,0.7041883049532771,2026-08-13T18:12:05.488652+00:00
+lora_locked,C33_T07_A4,33,7,Apara dikabuaq doke?,2,43,0.7,0.95,0,1,128,Apa yang dibuat tadi?,False,0.7010111240670085,2026-08-13T18:12:06.201546+00:00
+lora_locked,C33_T07_A4,33,7,Apara dikabuaq doke?,3,44,0.7,0.95,0,1,128,Apa yang dibuat tadi?,False,0.702293748036027,2026-08-13T18:12:06.915279+00:00
+lora_locked,C33_T07_A4,33,7,Apara dikabuaq doke?,4,45,0.7,0.95,0,1,128,Apa yang dibuat tadi?,False,0.6969715198501945,2026-08-13T18:12:07.623851+00:00
+lora_locked,C33_T07_A4,33,7,Apara dikabuaq doke?,5,46,0.7,0.95,0,1,128,Apa yang dibuat tadi?,False,0.6957946200855076,2026-08-13T18:12:08.331294+00:00
+lora_locked,C33_T08_B4,33,8,Ia to dikabuaq doke kajaoh iaqrika bassi. Dipetarannii cappaqna ke ngkabuaq doke.,1,42,0.7,0.95,0,1,128,Yang dibuat tali tenun adalah serat bambu atau serat rami. Dibuat tadi waktu membuat tali.,False,2.260297405999154,2026-08-13T18:12:10.603129+00:00
+lora_locked,C33_T08_B4,33,8,Ia to dikabuaq doke kajaoh iaqrika bassi. Dipetarannii cappaqna ke ngkabuaq doke.,2,43,0.7,0.95,0,1,128,"Yang dibuat tali adalah serat bambu, kemudian ditarik supaya menjadi tali.",False,1.8655291618779302,2026-08-13T18:12:12.480682+00:00
+lora_locked,C33_T08_B4,33,8,Ia to dikabuaq doke kajaoh iaqrika bassi. Dipetarannii cappaqna ke ngkabuaq doke.,3,44,0.7,0.95,0,1,128,Yang dibuat dari bambu adalah bambu tali atau bambu papan. Dipotong-potong dahulu baru dibuat.,False,2.3188141803257167,2026-08-13T18:12:14.811524+00:00
+lora_locked,C33_T08_B4,33,8,Ia to dikabuaq doke kajaoh iaqrika bassi. Dipetarannii cappaqna ke ngkabuaq doke.,4,45,0.7,0.95,0,1,128,Yang dibuat tali adalah serat kelapa atau serat bambu. Dipotong-potong kemudian dijemur.,False,2.4054623409174383,2026-08-13T18:12:17.228846+00:00
+lora_locked,C33_T08_B4,33,8,Ia to dikabuaq doke kajaoh iaqrika bassi. Dipetarannii cappaqna ke ngkabuaq doke.,5,46,0.7,0.95,0,1,128,Yang dibuat adonan adalah beras atau jagung. Kemudian dibuat kue.,False,1.7169743296690285,2026-08-13T18:12:18.957927+00:00
+lora_locked,C33_T09_A5,33,9,Indara macca ngkabuaq doke?,1,42,0.7,0.95,0,1,128,Siapakah yang membuat jendela itu?,False,0.8598915622569621,2026-08-13T18:12:19.829812+00:00
+lora_locked,C33_T09_A5,33,9,Indara macca ngkabuaq doke?,2,43,0.7,0.95,0,1,128,Siapakah yang membuat lobang itu?,False,0.7834786311723292,2026-08-13T18:12:20.624961+00:00
+lora_locked,C33_T09_A5,33,9,Indara macca ngkabuaq doke?,3,44,0.7,0.95,0,1,128,Siapakah yang membantu membuat dokter?,False,0.8612389182671905,2026-08-13T18:12:21.497946+00:00
+lora_locked,C33_T09_A5,33,9,Indara macca ngkabuaq doke?,4,45,0.7,0.95,0,1,128,Siapakah yang membuat jendela itu?,False,0.8536007306538522,2026-08-13T18:12:22.363208+00:00
+lora_locked,C33_T09_A5,33,9,Indara macca ngkabuaq doke?,5,46,0.7,0.95,0,1,128,Siapakah yang membuat jendela itu?,False,0.8603551061823964,2026-08-13T18:12:23.235561+00:00
+lora_locked,C33_T10_B5,33,10,Buda tau macca ngkabuaq doke nteq mai.,1,42,0.7,0.95,0,1,128,Banyak orang yang sudah selesai menaikkan dokar dari sana.,False,1.3128992756828666,2026-08-13T18:12:24.560739+00:00
+lora_locked,C33_T10_B5,33,10,Buda tau macca ngkabuaq doke nteq mai.,2,43,0.7,0.95,0,1,128,Banyak orang yang bisa membuat doke dari kayu.,False,1.0115735898725688,2026-08-13T18:12:25.583945+00:00
+lora_locked,C33_T10_B5,33,10,Buda tau macca ngkabuaq doke nteq mai.,3,44,0.7,0.95,0,1,128,Banyak orang yang suka membuat adat di sini.,False,1.081003021914512,2026-08-13T18:12:26.676879+00:00
+lora_locked,C33_T10_B5,33,10,Buda tau macca ngkabuaq doke nteq mai.,4,45,0.7,0.95,0,1,128,Banyak orang yang suka membuat mainan dari kayu.,False,1.0817464930005372,2026-08-13T18:12:27.770435+00:00
+lora_locked,C33_T10_B5,33,10,Buda tau macca ngkabuaq doke nteq mai.,5,46,0.7,0.95,0,1,128,Banyak orang yang bisa membuat dokumen di sini.,False,1.0107358801178634,2026-08-13T18:12:28.793055+00:00
+lora_locked,C33_T11_A6,33,11,Matumbara joq tedong malillin?,1,42,0.7,0.95,0,1,128,Bagaimana sifat burung hantu?,False,0.9337468054145575,2026-08-13T18:12:29.738783+00:00
+lora_locked,C33_T11_A6,33,11,Matumbara joq tedong malillin?,2,43,0.7,0.95,0,1,128,Bagaimana dengan kerbau kalau ia berkebun?,False,1.1577464062720537,2026-08-13T18:12:30.909115+00:00
+lora_locked,C33_T11_A6,33,11,Matumbara joq tedong malillin?,3,44,0.7,0.95,0,1,128,Bagaimana dengan kerbau yang dijilat?,False,0.9300301289185882,2026-08-13T18:12:31.851069+00:00
+lora_locked,C33_T11_A6,33,11,Matumbara joq tedong malillin?,4,45,0.7,0.95,0,1,128,Bagaimana dengan kerbau kalau ia dijilat api?,False,1.1706655244342983,2026-08-13T18:12:33.033792+00:00
+lora_locked,C33_T11_A6,33,11,Matumbara joq tedong malillin?,5,46,0.7,0.95,0,1,128,Bagaimana sifat burung hantu?,False,0.933947532903403,2026-08-13T18:12:33.979679+00:00
+lora_locked,C33_T12_B6,33,12,Susi to beke apa malotong ngasan bulunna pada bang to bai.,1,42,0.7,0.95,0,1,128,Kambing atau kerbau yang sudah besar dan berbuah pada pohon jawawut.,False,1.550120891071856,2026-08-13T18:12:35.542038+00:00
+lora_locked,C33_T12_B6,33,12,Susi to beke apa malotong ngasan bulunna pada bang to bai.,2,43,0.7,0.95,0,1,128,Sudah ada anak kerbau yang lahir baru dibawa ke rumah.,False,1.3903474570252001,2026-08-13T18:12:36.944470+00:00
+lora_locked,C33_T12_B6,33,12,Susi to beke apa malotong ngasan bulunna pada bang to bai.,3,44,0.7,0.95,0,1,128,Saya membeli kambing karena sudah besar dan berat badannya.,False,1.389944188296795,2026-08-13T18:12:38.346224+00:00
+lora_locked,C33_T12_B6,33,12,Susi to beke apa malotong ngasan bulunna pada bang to bai.,4,45,0.7,0.95,0,1,128,"Saya punya kerbau, tetapi malam yang ketiga baru dia lahir.",False,1.5437332801520824,2026-08-13T18:12:39.902021+00:00
+lora_locked,C33_T12_B6,33,12,Susi to beke apa malotong ngasan bulunna pada bang to bai.,5,46,0.7,0.95,0,1,128,"Saya mau beli kambing atau kerbau, tetapi harus ada uang.",False,1.5440887906588614,2026-08-13T18:12:41.458305+00:00
+lora_locked,C33_T13_A7,33,13,Susiraka to tanduk tedong to tandukkuna?,1,42,0.7,0.95,0,1,128,Berapa jumlah tanduk kerbau yang tanduknya?,False,1.0032022749073803,2026-08-13T18:12:42.473612+00:00
+lora_locked,C33_T13_A7,33,13,Susiraka to tanduk tedong to tandukkuna?,2,43,0.7,0.95,0,1,128,Bagaimana bentuk tanduk kerbau yang sehat?,False,1.088623542804271,2026-08-13T18:12:43.574601+00:00
+lora_locked,C33_T13_A7,33,13,Susiraka to tanduk tedong to tandukkuna?,3,44,0.7,0.95,0,1,128,Bagaimana bentuk tanduk kerbau yang baik?,False,1.005792133975774,2026-08-13T18:12:44.592385+00:00
+lora_locked,C33_T13_A7,33,13,Susiraka to tanduk tedong to tandukkuna?,4,45,0.7,0.95,0,1,128,Apakah tanduk kerbau itu semua sama?,False,0.8506739782169461,2026-08-13T18:12:45.455215+00:00
+lora_locked,C33_T13_A7,33,13,Susiraka to tanduk tedong to tandukkuna?,5,46,0.7,0.95,0,1,128,Bagaimanakah bentuk tanduk kerbau yang baik?,False,1.080329179763794,2026-08-13T18:12:46.547479+00:00
+lora_locked,C33_T14_B7,33,14,"Teqda. Ia to tanduk tedong malillin tuo lako bokoqna na gaja taran, apa ia to tanduk tedong tuo lako saqdena na teqda namataran gaja.",1,42,0.7,0.95,0,1,128,"Tidak. Tanduk kerbau yang sudah besar berarti sudah sehat dan tidak terlalu keras, sedangkan tanduk kerbau yang masih kecil berarti masih lembut dan belum keras.",False,3.3989164447411895,2026-08-13T18:12:49.958579+00:00
+lora_locked,C33_T14_B7,33,14,"Teqda. Ia to tanduk tedong malillin tuo lako bokoqna na gaja taran, apa ia to tanduk tedong tuo lako saqdena na teqda namataran gaja.",2,43,0.7,0.95,0,1,128,"Tidak. Pisang tanduk yang sudah berbuah besar akan terbang kalau angin kencang, tetapi pisang tanduk yang sudah besar tetapi belum berbuah tidak akan terbang.",False,3.395457352977246,2026-08-13T18:12:53.366324+00:00
+lora_locked,C33_T14_B7,33,14,"Teqda. Ia to tanduk tedong malillin tuo lako bokoqna na gaja taran, apa ia to tanduk tedong tuo lako saqdena na teqda namataran gaja.",3,44,0.7,0.95,0,1,128,"Tidak. Tanduk kerbau yang sudah besar akan keluar dari lobang dan banyak berkebun, sedangkan tanduk kerbau yang masih kecil akan keluar dari lobang dan tidak berkebun banyak.",False,3.7954906979575753,2026-08-13T18:12:57.175069+00:00
+lora_locked,C33_T14_B7,33,14,"Teqda. Ia to tanduk tedong malillin tuo lako bokoqna na gaja taran, apa ia to tanduk tedong tuo lako saqdena na teqda namataran gaja.",4,45,0.7,0.95,0,1,128,"Tidak. Pisang tanduk yang sudah besar akan dibawa ke dalam rumah dan digoreng, tapi pisang tanduk yang masih kecil akan dibawa ke luar dan tidak digoreng.",False,3.3931780620478094,2026-08-13T18:13:00.580960+00:00
+lora_locked,C33_T14_B7,33,14,"Teqda. Ia to tanduk tedong malillin tuo lako bokoqna na gaja taran, apa ia to tanduk tedong tuo lako saqdena na teqda namataran gaja.",5,46,0.7,0.95,0,1,128,"Tidak. Tanduk kerbau yang besar sudah keluar dari lobang dan sudah terjun, tetapi tanduk kerbau yang kecil baru keluar dari lobang dan belum terjun.",False,3.2494323467835784,2026-08-13T18:13:03.843920+00:00
+lora_locked,C33_T15_A8,33,15,Ciapari namataran tandukkuna to tedong malillin?,1,42,0.7,0.95,0,1,128,Mengapa tanduk kerbau dijepit kalau disembelih?,False,1.319657168816775,2026-08-13T18:13:05.176177+00:00
+lora_locked,C33_T15_A8,33,15,Ciapari namataran tandukkuna to tedong malillin?,2,43,0.7,0.95,0,1,128,Mengapa tanduk kerbau disembelih waktu melahirkan?,False,1.2329413290135562,2026-08-13T18:13:06.421869+00:00
+lora_locked,C33_T15_A8,33,15,Ciapari namataran tandukkuna to tedong malillin?,3,44,0.7,0.95,0,1,128,Mengapa tanduk kerbau yang baru disembelih?,False,1.0871219029650092,2026-08-13T18:13:07.521529+00:00
+lora_locked,C33_T15_A8,33,15,Ciapari namataran tandukkuna to tedong malillin?,4,45,0.7,0.95,0,1,128,Mengapa tanduk kerbau baru dipotong?,False,1.0021232250146568,2026-08-13T18:13:08.536125+00:00
+lora_locked,C33_T15_A8,33,15,Ciapari namataran tandukkuna to tedong malillin?,5,46,0.7,0.95,0,1,128,Mengapa tanduk kerbau dipotong kalau ia melahir?,False,1.3112296536564827,2026-08-13T18:13:09.860013+00:00
+lora_locked,C33_T16_B8,33,16,"Ia adeqna namataran to tanduk tedong malillin, sanga tuli nasangehhi jio batang kaju.",1,42,0.7,0.95,0,1,128,"Kami sudah lama menanam coklat, karena subur di tanah kayu.",False,1.6283052312210202,2026-08-13T18:13:11.500863+00:00
+lora_locked,C33_T16_B8,33,16,"Ia adeqna namataran to tanduk tedong malillin, sanga tuli nasangehhi jio batang kaju.",2,43,0.7,0.95,0,1,128,"Ada yang berkebun pisang tanduk, karena tidak terlalu sulit ditanam di pinggir sungai atau di pinggir kali.",False,2.7003803900443017,2026-08-13T18:13:14.213876+00:00
+lora_locked,C33_T16_B8,33,16,"Ia adeqna namataran to tanduk tedong malillin, sanga tuli nasangehhi jio batang kaju.",3,44,0.7,0.95,0,1,128,"Kalau sudah selesai dikeruk serat tanduk pisang, kita tekan dengan tangan, supaya keluar seratnya, kemudian kita giling dengan batang kayu.",False,3.3164900890551507,2026-08-13T18:13:17.543176+00:00
+lora_locked,C33_T16_B8,33,16,"Ia adeqna namataran to tanduk tedong malillin, sanga tuli nasangehhi jio batang kaju.",4,45,0.7,0.95,0,1,128,"Ada juga namanya tanduk kerbau, karena bentuknya seperti ujung kayu.",False,1.6231137136928737,2026-08-13T18:13:19.179099+00:00
+lora_locked,C33_T16_B8,33,16,"Ia adeqna namataran to tanduk tedong malillin, sanga tuli nasangehhi jio batang kaju.",5,46,0.7,0.95,0,1,128,"Kalau ada uang untuk membeli tanduk kerbau, karena dengan uang itu kita bisa beli batang kopi.",False,2.238151124678552,2026-08-13T18:13:21.430240+00:00

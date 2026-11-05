@@ -1,0 +1,1 @@
+﻿scenario,row_id,conversation_no,turn_order,source_text,candidate_index,candidate_id,seed,candidate_text,technical_error,semantic_status,semantic_reason,mbr_utility,is_selected_by_mbr,s3e_value,valid_candidate_count,selection_status,generation_time_seconds

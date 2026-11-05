@@ -1,0 +1,160 @@
+﻿eval_case_id,row_id,scenario_slug,scenario_label
+EVAL001,C33_T11_A6,fsp_locked,Fragment-Shot Prompting
+EVAL002,C33_T14_B7,lora_locked,Fine-Tuning LoRA
+EVAL003,C09_T11_A6,zero_shot,Zero-Shot
+EVAL004,C03_T13_A7,fsp_locked,Fragment-Shot Prompting
+EVAL005,C09_T13_A7,fsp_locked,Fragment-Shot Prompting
+EVAL006,C09_T17_A9,zero_shot,Zero-Shot
+EVAL007,C33_T07_A4,zero_shot,Zero-Shot
+EVAL008,C09_T02_B1,lora_locked,Fine-Tuning LoRA
+EVAL009,C03_T03_A2,fsp_locked,Fragment-Shot Prompting
+EVAL010,C03_T04_B2,zero_shot,Zero-Shot
+EVAL011,C09_T21_A11,lora_locked,Fine-Tuning LoRA
+EVAL012,C33_T04_B2,zero_shot,Zero-Shot
+EVAL013,C33_T01_A1,fsp_locked,Fragment-Shot Prompting
+EVAL014,C33_T09_A5,zero_shot,Zero-Shot
+EVAL015,C09_T04_B2,zero_shot,Zero-Shot
+EVAL016,C33_T06_B3,lora_locked,Fine-Tuning LoRA
+EVAL017,C33_T09_A5,lora_locked,Fine-Tuning LoRA
+EVAL018,C03_T13_A7,lora_locked,Fine-Tuning LoRA
+EVAL019,C03_T03_A2,lora_locked,Fine-Tuning LoRA
+EVAL020,C09_T17_A9,fsp_locked,Fragment-Shot Prompting
+EVAL021,C09_T04_B2,lora_locked,Fine-Tuning LoRA
+EVAL022,C03_T07_A4,lora_locked,Fine-Tuning LoRA
+EVAL023,C09_T03_A2,zero_shot,Zero-Shot
+EVAL024,C03_T12_B6,zero_shot,Zero-Shot
+EVAL025,C09_T09_A5,fsp_locked,Fragment-Shot Prompting
+EVAL026,C33_T05_A3,zero_shot,Zero-Shot
+EVAL027,C09_T08_B4,zero_shot,Zero-Shot
+EVAL028,C03_T09_A5,zero_shot,Zero-Shot
+EVAL029,C09_T01_A1,fsp_locked,Fragment-Shot Prompting
+EVAL030,C03_T09_A5,fsp_locked,Fragment-Shot Prompting
+EVAL031,C03_T02_B1,zero_shot,Zero-Shot
+EVAL032,C33_T07_A4,fsp_locked,Fragment-Shot Prompting
+EVAL033,C33_T06_B3,fsp_locked,Fragment-Shot Prompting
+EVAL034,C33_T04_B2,lora_locked,Fine-Tuning LoRA
+EVAL035,C03_T02_B1,fsp_locked,Fragment-Shot Prompting
+EVAL036,C33_T14_B7,fsp_locked,Fragment-Shot Prompting
+EVAL037,C03_T01_A1,lora_locked,Fine-Tuning LoRA
+EVAL038,C33_T14_B7,zero_shot,Zero-Shot
+EVAL039,C09_T08_B4,lora_locked,Fine-Tuning LoRA
+EVAL040,C09_T16_B8,fsp_locked,Fragment-Shot Prompting
+EVAL041,C33_T02_B1,lora_locked,Fine-Tuning LoRA
+EVAL042,C09_T19_A10,fsp_locked,Fragment-Shot Prompting
+EVAL043,C03_T05_A3,zero_shot,Zero-Shot
+EVAL044,C09_T20_B10,lora_locked,Fine-Tuning LoRA
+EVAL045,C09_T06_B3,lora_locked,Fine-Tuning LoRA
+EVAL046,C09_T15_A8,zero_shot,Zero-Shot
+EVAL047,C03_T01_A1,zero_shot,Zero-Shot
+EVAL048,C33_T11_A6,lora_locked,Fine-Tuning LoRA
+EVAL049,C09_T16_B8,lora_locked,Fine-Tuning LoRA
+EVAL050,C03_T10_B5,zero_shot,Zero-Shot
+EVAL051,C33_T15_A8,zero_shot,Zero-Shot
+EVAL052,C09_T03_A2,fsp_locked,Fragment-Shot Prompting
+EVAL053,C09_T19_A10,lora_locked,Fine-Tuning LoRA
+EVAL054,C33_T16_B8,fsp_locked,Fragment-Shot Prompting
+EVAL055,C33_T02_B1,fsp_locked,Fragment-Shot Prompting
+EVAL056,C33_T13_A7,lora_locked,Fine-Tuning LoRA
+EVAL057,C03_T05_A3,fsp_locked,Fragment-Shot Prompting
+EVAL058,C09_T14_B7,lora_locked,Fine-Tuning LoRA
+EVAL059,C09_T12_B6,zero_shot,Zero-Shot
+EVAL060,C03_T10_B5,fsp_locked,Fragment-Shot Prompting
+EVAL061,C33_T12_B6,zero_shot,Zero-Shot
+EVAL062,C03_T02_B1,lora_locked,Fine-Tuning LoRA
+EVAL063,C09_T12_B6,fsp_locked,Fragment-Shot Prompting
+EVAL064,C09_T13_A7,zero_shot,Zero-Shot
+EVAL065,C09_T02_B1,zero_shot,Zero-Shot
+EVAL066,C33_T10_B5,zero_shot,Zero-Shot
+EVAL067,C33_T03_A2,lora_locked,Fine-Tuning LoRA
+EVAL068,C09_T18_B9,lora_locked,Fine-Tuning LoRA
+EVAL069,C09_T16_B8,zero_shot,Zero-Shot
+EVAL070,C33_T08_B4,lora_locked,Fine-Tuning LoRA
+EVAL071,C09_T19_A10,zero_shot,Zero-Shot
+EVAL072,C09_T01_A1,zero_shot,Zero-Shot
+EVAL073,C33_T03_A2,fsp_locked,Fragment-Shot Prompting
+EVAL074,C03_T07_A4,zero_shot,Zero-Shot
+EVAL075,C09_T18_B9,zero_shot,Zero-Shot
+EVAL076,C09_T10_B5,zero_shot,Zero-Shot
+EVAL077,C33_T03_A2,zero_shot,Zero-Shot
+EVAL078,C09_T10_B5,fsp_locked,Fragment-Shot Prompting
+EVAL079,C09_T22_B11,zero_shot,Zero-Shot
+EVAL080,C03_T08_B4,zero_shot,Zero-Shot
+EVAL081,C09_T14_B7,fsp_locked,Fragment-Shot Prompting
+EVAL082,C09_T05_A3,lora_locked,Fine-Tuning LoRA
+EVAL083,C09_T07_A4,lora_locked,Fine-Tuning LoRA
+EVAL084,C09_T15_A8,fsp_locked,Fragment-Shot Prompting
+EVAL085,C09_T09_A5,lora_locked,Fine-Tuning LoRA
+EVAL086,C33_T05_A3,lora_locked,Fine-Tuning LoRA
+EVAL087,C33_T07_A4,lora_locked,Fine-Tuning LoRA
+EVAL088,C03_T09_A5,lora_locked,Fine-Tuning LoRA
+EVAL089,C09_T15_A8,lora_locked,Fine-Tuning LoRA
+EVAL090,C33_T15_A8,lora_locked,Fine-Tuning LoRA
+EVAL091,C33_T13_A7,fsp_locked,Fragment-Shot Prompting
+EVAL092,C09_T10_B5,lora_locked,Fine-Tuning LoRA
+EVAL093,C03_T04_B2,fsp_locked,Fragment-Shot Prompting
+EVAL094,C09_T20_B10,fsp_locked,Fragment-Shot Prompting
+EVAL095,C03_T10_B5,lora_locked,Fine-Tuning LoRA
+EVAL096,C09_T07_A4,zero_shot,Zero-Shot
+EVAL097,C09_T17_A9,lora_locked,Fine-Tuning LoRA
+EVAL098,C09_T04_B2,fsp_locked,Fragment-Shot Prompting
+EVAL099,C33_T01_A1,zero_shot,Zero-Shot
+EVAL100,C03_T15_A8,zero_shot,Zero-Shot
+EVAL101,C03_T06_B3,lora_locked,Fine-Tuning LoRA
+EVAL102,C03_T14_B7,zero_shot,Zero-Shot
+EVAL103,C33_T12_B6,fsp_locked,Fragment-Shot Prompting
+EVAL104,C09_T03_A2,lora_locked,Fine-Tuning LoRA
+EVAL105,C09_T11_A6,fsp_locked,Fragment-Shot Prompting
+EVAL106,C33_T05_A3,fsp_locked,Fragment-Shot Prompting
+EVAL107,C03_T14_B7,fsp_locked,Fragment-Shot Prompting
+EVAL108,C09_T21_A11,fsp_locked,Fragment-Shot Prompting
+EVAL109,C09_T12_B6,lora_locked,Fine-Tuning LoRA
+EVAL110,C09_T09_A5,zero_shot,Zero-Shot
+EVAL111,C33_T08_B4,zero_shot,Zero-Shot
+EVAL112,C03_T01_A1,fsp_locked,Fragment-Shot Prompting
+EVAL113,C33_T02_B1,zero_shot,Zero-Shot
+EVAL114,C09_T21_A11,zero_shot,Zero-Shot
+EVAL115,C33_T04_B2,fsp_locked,Fragment-Shot Prompting
+EVAL116,C09_T08_B4,fsp_locked,Fragment-Shot Prompting
+EVAL117,C03_T04_B2,lora_locked,Fine-Tuning LoRA
+EVAL118,C33_T15_A8,fsp_locked,Fragment-Shot Prompting
+EVAL119,C09_T14_B7,zero_shot,Zero-Shot
+EVAL120,C09_T13_A7,lora_locked,Fine-Tuning LoRA
+EVAL121,C03_T15_A8,fsp_locked,Fragment-Shot Prompting
+EVAL122,C33_T16_B8,lora_locked,Fine-Tuning LoRA
+EVAL123,C03_T11_A6,lora_locked,Fine-Tuning LoRA
+EVAL124,C09_T06_B3,fsp_locked,Fragment-Shot Prompting
+EVAL125,C09_T05_A3,zero_shot,Zero-Shot
+EVAL126,C33_T06_B3,zero_shot,Zero-Shot
+EVAL127,C03_T08_B4,lora_locked,Fine-Tuning LoRA
+EVAL128,C33_T16_B8,zero_shot,Zero-Shot
+EVAL129,C33_T08_B4,fsp_locked,Fragment-Shot Prompting
+EVAL130,C03_T06_B3,zero_shot,Zero-Shot
+EVAL131,C09_T06_B3,zero_shot,Zero-Shot
+EVAL132,C09_T22_B11,fsp_locked,Fragment-Shot Prompting
+EVAL133,C03_T11_A6,fsp_locked,Fragment-Shot Prompting
+EVAL134,C03_T06_B3,fsp_locked,Fragment-Shot Prompting
+EVAL135,C03_T15_A8,lora_locked,Fine-Tuning LoRA
+EVAL136,C33_T13_A7,zero_shot,Zero-Shot
+EVAL137,C03_T12_B6,fsp_locked,Fragment-Shot Prompting
+EVAL138,C03_T11_A6,zero_shot,Zero-Shot
+EVAL139,C09_T05_A3,fsp_locked,Fragment-Shot Prompting
+EVAL140,C03_T12_B6,lora_locked,Fine-Tuning LoRA
+EVAL141,C09_T11_A6,lora_locked,Fine-Tuning LoRA
+EVAL142,C09_T02_B1,fsp_locked,Fragment-Shot Prompting
+EVAL143,C03_T03_A2,zero_shot,Zero-Shot
+EVAL144,C09_T20_B10,zero_shot,Zero-Shot
+EVAL145,C33_T10_B5,fsp_locked,Fragment-Shot Prompting
+EVAL146,C33_T12_B6,lora_locked,Fine-Tuning LoRA
+EVAL147,C03_T14_B7,lora_locked,Fine-Tuning LoRA
+EVAL148,C09_T22_B11,lora_locked,Fine-Tuning LoRA
+EVAL149,C03_T08_B4,fsp_locked,Fragment-Shot Prompting
+EVAL150,C03_T07_A4,fsp_locked,Fragment-Shot Prompting
+EVAL151,C09_T07_A4,fsp_locked,Fragment-Shot Prompting
+EVAL152,C09_T01_A1,lora_locked,Fine-Tuning LoRA
+EVAL153,C33_T01_A1,lora_locked,Fine-Tuning LoRA
+EVAL154,C33_T10_B5,lora_locked,Fine-Tuning LoRA
+EVAL155,C03_T05_A3,lora_locked,Fine-Tuning LoRA
+EVAL156,C33_T11_A6,zero_shot,Zero-Shot
+EVAL157,C03_T13_A7,zero_shot,Zero-Shot
+EVAL158,C09_T18_B9,fsp_locked,Fragment-Shot Prompting
+EVAL159,C33_T09_A5,fsp_locked,Fragment-Shot Prompting

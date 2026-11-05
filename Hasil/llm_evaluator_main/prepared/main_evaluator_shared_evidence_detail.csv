@@ -1,0 +1,160 @@
+﻿row_id,rank,train_row_id,duri_text,indonesia_text,similarity
+C03_T01_A1,1,C34_T12_B6,La diapora ia. Madoangrikiqka nnalai?,"Tidak juga untuk apa-apa, maukah Anda mengambilnya?",0.8155046105384827
+C03_T01_A1,2,C15_T05_A3,Ciapari nateqda sikupang?,Mengapakah tidak ada sekop?,0.8135934472084045
+C03_T01_A1,3,C41_T09_A5,Denmoraka bola nakengke api jio randan alah?,Pernahkah ada rumah yang dekat dengan hutan rumput dijilat api?,0.8100067377090454
+C03_T02_B1,1,C41_T02_B1,Manyumpunni.,Dia membakar hutan.,0.7707693576812744
+C03_T02_B1,2,C47_T09_A5,"Ieq, jajimi.",Ya! Jadilah.,0.7376590967178345
+C03_T02_B1,3,C45_T05_A3,Ajena.,Kakinya.,0.7168327569961548
+C03_T03_A2,1,C37_T03_A2,Tatteq pirara namamula ollong to bulan ke pessangpulo aqpaqi?,Jam berapakah bulan mulai terbit hari yang keempat belas?,0.8618274927139282
+C03_T03_A2,2,C11_T03_A2,"Pira kakantaq, pira too adintaq?",Berapa orang kakak Anda dan berapa orang adik Anda?,0.8579455018043518
+C03_T03_A2,3,C46_T08_B4,"Iake melohhi anakkataq, pirara doiq kipaendek?","Kalau anak Bapak mau, berapa uang yang akan kami naikkan?",0.7844864130020142
+C03_T04_B2,1,C38_T04_B2,Bulan aqpaq tanggalaq duangpulo kasera.,Bulan empat tanggal dua puluh sembilan.,0.669359564781189
+C03_T04_B2,2,C22_T01_A1,Puramirikiqka mantanan pare?,Apakah Anda sudah menanam padi?,0.5682480335235596
+C03_T04_B2,3,C37_T02_B1,Pessangpulo aqpaqmi to bulan.,Sudah hari keempat belas.,0.55268394947052
+C03_T05_A3,1,C14_T05_A3,La mangcerak aparikiq?,Anda akan pesta apa?,0.9414358139038086
+C03_T05_A3,2,C49_T03_A2,Digeretan toqraka manuk?,Apakah juga disembelihkan ayam?,0.9360766410827637
+C03_T05_A3,3,C23_T05_A3,Ciapari naden parundun?,Mengapa Ibu mengantar makanan di kebun?,0.9354236721992493
+C03_T06_B3,1,C02_T04_B2,Malenaq njokko bale.,Saya pergi menangkap ikan.,0.8466299772262573
+C03_T06_B3,2,C15_T16_B8,Mangkami. Macarakkaqmi lan bola.,"Sudah, sudah sejuk dalam rumah.",0.7696597576141357
+C03_T06_B3,3,C43_T02_B1,Malenaq petimbanganni teq pea.,Saya pergi menimbang anak ini.,0.7614575028419495
+C03_T07_A4,1,C17_T11_A6,Sipira luahna baraqbahna tomesaq bola?,Berapa luasnya kebun untuk satu keluarga?,0.8825088143348694
+C03_T07_A4,2,C15_T16_B8,Mangkami. Macarakkaqmi lan bola.,"Sudah, sudah sejuk dalam rumah.",0.8510222434997559
+C03_T07_A4,3,C02_T09_A5,Bale apara biasa taatta ke mangjalakiq?,Ikan apa yang biasa Bapak tangkap kalau menjala?,0.8500311374664307
+C03_T08_B4,1,C36_T08_B4,"Iake ngkabuaqi kalisong, nakambuhhi jiong mai to litak na menjaji kalisong.","Kalau dia membuat lobang, dia gali tanah sehingga menjadi lobang.",0.7517052888870239
+C03_T08_B4,2,C46_T09_A5,"Iana meloh una ia, teqdamo namangpasisala to dipaendek. Kukutanaipi joloq naden maneq ratu poleq jio mai.","Kalau dia mau, barang yang antaran itu tidak dipersoalkan lagi. Saya tanyai dahulu, nanti bapak datang lagi.",0.7055760622024536
+C03_T08_B4,3,C17_T02_B1,Mangbaraqbah kawanaq jio Pasui.,Saya berkebun kopi di Pasui.,0.7022199630737305
+C03_T09_A5,1,C17_T11_A6,Sipira luahna baraqbahna tomesaq bola?,Berapa luasnya kebun untuk satu keluarga?,0.8794999122619629
+C03_T09_A5,2,C30_T01_A1,Apara nagaraga to tau jiong bala bola?,Apa yang dikerjakan orang di kolong rumah?,0.8293900489807129
+C03_T09_A5,3,C17_T07_A4,Inda unamora mpunnai joq baraqbah?,Siapa saja yang punya kebun itu?,0.8146634101867676
+C03_T10_B5,1,C29_T10_B5,"Silaenan kandena. Sanga ia to punti manurun macukka-cukka iake matasak gajai. Ia to punti tanduk macanning ia, na makiqding too.","Berlainan rasanya. Pisang kepok agak masam kalau sudah terlalu masak, sedang pisang tanduk manis dan agak keras juga.",0.8361375331878662
+C03_T10_B5,2,C50_T01_A1,Matumbara to sipaq kaminang makassing nasanga to tojolo?,Bagaimana sifat yang paling baik menurut orang-orang tua?,0.8174377679824829
+C03_T10_B5,3,C22_T12_B6,"Ieq matonggomo, teqdamo namasai namelomo dialai.","Ya sudah besar, tidak lama lagi sudah bisa dipanen.",0.8123140931129456
+C03_T11_A6,1,C50_T06_B3,"Ia to disanga sallegalli, ia to tau, denna apa ciqdiq nakabaqci, magalli omi.","Orang yang kalau ada sesuatu yang tidak dia sukai, dia marah lagi.",0.83608078956604
+C03_T11_A6,2,C15_T15_A8,Mangkamiraka napasangngi palapong bolana ambeqna Juhani?,Sudahkah selesai dipasangi plapon rumah bapaknya Juhani?,0.8251956701278687
+C03_T11_A6,3,C18_T10_B5,"Ia to indeq Duri biasanna bainera to male pasaq. Iana teqda wattunna to baine male pasaq, muanena male pasaq, susinnamo indona Juhani.","Kalau di Duri, biasanya yang pergi ke pasar adalah perempuan. Kalau perempuan tidak ada waktu, suaminya yang pergi ke pasar, sama seperti ibunya Juhani.",0.8100681304931641
+C03_T12_B6,1,C27_T03_A2,Apara taalli?,Apa yang Anda beli?,0.8655767440795898
+C03_T12_B6,2,C34_T07_A4,Tapatumbari tonna tajokkoi?,Bagaimana caranya waktu Anda tangkap?,0.8292968273162842
+C03_T12_B6,3,C23_T07_A4,Apara tabawa ke parundunkiq?,Apa yang Ibu bawa kalau Ibu mengantarkan makanan?,0.8246011734008789
+C03_T13_A7,1,C16_T02_B1,"La kulianaq ke denni dipuongkosoq, iarake teqdai dipuongkosoq menjanggoliq bangraq joloq.","Saya akan kuliah kalau ada ongkos, kalau tidak ada ongkos saya akan menganggur dahulu.",0.7364891767501831
+C03_T13_A7,2,C42_T12_B6,"Iana den doiq, nnalli beke na digereq, ditambai to tau na dikande sola. Iamo disanga mangpadaliq, ke teqdapi naliwaq sangminggu umuruqna.","Kalau ada uang, dibelikan kambing, kemudian disembelih, kita panggil orang dan dimakan bersama. Itulah yang dinamakan Haqeqah, kalau belum lewat satu minggu umurnya.",0.7155072689056396
+C03_T13_A7,3,C46_T09_A5,"Iana meloh una ia, teqdamo namangpasisala to dipaendek. Kukutanaipi joloq naden maneq ratu poleq jio mai.","Kalau dia mau, barang yang antaran itu tidak dipersoalkan lagi. Saya tanyai dahulu, nanti bapak datang lagi.",0.7012486457824707
+C03_T14_B7,1,C05_T04_B2,"Ieq, pirankiq mpamulaqi?","Baiklah, kapan kita mulai?",0.8615143299102783
+C03_T14_B7,2,C32_T05_A3,Apara dipake ke njokkokiq manuk-manuk?,Apa yang dipakai kalau menangkap burung?,0.861290693283081
+C03_T14_B7,3,C12_T03_A2,Apara dipake ke manglaqbuk gollakiq?,Apa yang dipakai kalau Anda menumbuk gula?,0.8449207544326782
+C03_T15_A8,1,C26_T03_A2,Masuliq gajai. Sisaratuhmo.,Terlalu mahal. Rp. 100 saja.,0.8398878574371338
+C03_T15_A8,2,C29_T10_B5,"Silaenan kandena. Sanga ia to punti manurun macukka-cukka iake matasak gajai. Ia to punti tanduk macanning ia, na makiqding too.","Berlainan rasanya. Pisang kepok agak masam kalau sudah terlalu masak, sedang pisang tanduk manis dan agak keras juga.",0.8182076215744019
+C03_T15_A8,3,C19_T14_B7,Sikaruapulona ruppia. Na gaja boqjoqkiq ngkabuaqi namaneq jaji simesaq ulang.,Delapan puluh rupiah. Kita sangat capek membuatnya baru bisa jadi satu tali.,0.8082981109619141
+C09_T01_A1,1,C41_T10_B5,Denmo tonna teq namanyumpun to tau na ngkande bola annan.,"Pernah dahulu orang membakar rumput, akhirnya membakar enam buah rumah.",0.6168410778045654
+C09_T01_A1,2,C12_T01_A1,Mangngaparikiq?,Apa yang Anda kerjakan?,0.6061596870422363
+C09_T01_A1,3,C34_T12_B6,La diapora ia. Madoangrikiqka nnalai?,"Tidak juga untuk apa-apa, maukah Anda mengambilnya?",0.6016069650650024
+C09_T02_B1,1,C41_T10_B5,Denmo tonna teq namanyumpun to tau na ngkande bola annan.,"Pernah dahulu orang membakar rumput, akhirnya membakar enam buah rumah.",0.6382847428321838
+C09_T02_B1,2,C22_T10_B5,"Den, nteq joq sambaliqna saqdan.","Ada, di sana, di seberang sungai.",0.5408772826194763
+C09_T02_B1,3,C20_T06_B3,Tumoraknaq.,Saya menajak rumput.,0.5167519450187683
+C09_T03_A2,1,C14_T05_A3,La mangcerak aparikiq?,Anda akan pesta apa?,0.7853196859359741
+C09_T03_A2,2,C49_T03_A2,Digeretan toqraka manuk?,Apakah juga disembelihkan ayam?,0.7831754684448242
+C09_T03_A2,3,C24_T01_A1,Apara tuq tatanan?,Apa yang Anda tanam itu?,0.7813112139701843
+C09_T04_B2,1,C10_T04_B2,Macakkeqpikiq jio Finlandia.,Lebih dingin di Finlandia.,0.8318296670913696
+C09_T04_B2,2,C10_T03_A2,Umbonnari macakkeq jio Finlandia na indeq Baraka?,Yang mana lebih dingin di Finlandia atau di Baraka?,0.6595008373260498
+C09_T04_B2,3,C02_T08_B4,Jio saqdan Malua disanga liku Roto,Di sungai Malua namanya Liku Roto.,0.629226803779602
+C09_T05_A3,1,C41_T01_A1,Mangngapari to tau ntuq joq?,Apa yang sedang dikerjakan orang di sana?,0.9255915880203247
+C09_T05_A3,2,C02_T01_A1,Umbora tapangngujui?,Mau ke mana pak?,0.9091024398803711
+C09_T05_A3,3,C01_T03_A2,Umbora nani to saqdan?,Di mana sungai itu?,0.9061144590377808
+C09_T06_B3,1,C35_T07_A4,Dibawami lako bola nadigaragaan nginan.,Dibawa ke rumah dan dibuatkan tempat.,0.7655128240585327
+C09_T06_B3,2,C29_T10_B5,"Silaenan kandena. Sanga ia to punti manurun macukka-cukka iake matasak gajai. Ia to punti tanduk macanning ia, na makiqding too.","Berlainan rasanya. Pisang kepok agak masam kalau sudah terlalu masak, sedang pisang tanduk manis dan agak keras juga.",0.7449707388877869
+C09_T06_B3,3,C22_T08_B4,Limang pulo karung mesaq hetto.,Lima puluh karung dalam satu hektar.,0.7305946946144104
+C09_T07_A4,1,C25_T02_B1,Gaja buda ia.,Banyak sekali.,0.8358820676803589
+C09_T07_A4,2,C45_T07_A4,"Ieq, malemi.","Ya, sudah dibawa.",0.7979831695556641
+C09_T07_A4,3,C36_T02_B1,Ia to buda gajai cuccuq bungin ngkabuaqi.,Sebab banyak sekali anjing tanah yang membuatnya.,0.7784748077392578
+C09_T08_B4,1,C26_T06_B3,Teqda kubaluk.,Saya tidak menjualnya.,0.9392231702804565
+C09_T08_B4,2,C36_T06_B3,Teqda ia napakengke.,Dia tidak menggigit.,0.9217917323112488
+C09_T08_B4,3,C34_T06_B3,Jio baraqbahkuq.,Di kebun saya.,0.9050779938697815
+C09_T09_A5,1,C10_T07_A4,Piramirikiq sainna melajah bicara Duri?,Sudah berapa lama Anda belajar bahasa Duri?,0.7960377931594849
+C09_T09_A5,2,C46_T08_B4,"Iake melohhi anakkataq, pirara doiq kipaendek?","Kalau anak Bapak mau, berapa uang yang akan kami naikkan?",0.7294422388076782
+C09_T09_A5,3,C26_T01_A1,La nnallinaq bandikiq. Sipirara allinna?,Saya mau beli pepaya. Berapa harganya?,0.7230870723724365
+C09_T10_B5,1,C45_T05_A3,Ajena.,Kakinya.,0.8115807771682739
+C09_T10_B5,2,C41_T01_A1,Mangngapari to tau ntuq joq?,Apa yang sedang dikerjakan orang di sana?,0.7867082953453064
+C09_T10_B5,3,C06_T08_B4,"Teqda, solanaq muanekuq sola anakkuq.","Tidak, saya tinggal bersama suami dan anak saya.",0.7748889923095703
+C09_T11_A6,1,C48_T05_A3,Apara disanga mangpaendek?,Apakah yang dimaksud dengan menaikkan barang?,0.8754497170448303
+C09_T11_A6,2,C17_T05_A3,Pirara hetto joq baraqbah ntuq joq?,Berapa hektar kebun di sana?,0.8631649613380432
+C09_T11_A6,3,C05_T04_B2,"Ieq, pirankiq mpamulaqi?","Baiklah, kapan kita mulai?",0.8511266112327576
+C09_T12_B6,1,C20_T05_A3,Mangngaparikiq jio baraqbahtaq?,Apa yang dikerjakan di kebun bapak?,0.8944769501686096
+C09_T12_B6,2,C23_T04_B2,Jio baraqbah.,Di kebun.,0.8924775719642639
+C09_T12_B6,3,C19_T12_B6,Sipatang daqpa.,Empat depa.,0.8880517482757568
+C09_T13_A7,1,C36_T11_A6,Apara joq noni nenaq?,Apakah yang bunyi tadi?,0.8793888688087463
+C09_T13_A7,2,C41_T01_A1,Mangngapari to tau ntuq joq?,Apa yang sedang dikerjakan orang di sana?,0.8728475570678711
+C09_T13_A7,3,C18_T05_A3,Apara disanga 'pariu'?,Apakah yang dimaksud dengan 'bersawah'?,0.8247429728507996
+C09_T14_B7,1,C25_T08_B4,Mbai sangbulanpi nakembua omo to pao.,Mungkin satu bulan lagi mangga itu berbuah.,0.6866574287414551
+C09_T14_B7,2,C02_T04_B2,Malenaq njokko bale.,Saya pergi menangkap ikan.,0.6821784377098083
+C09_T14_B7,3,C06_T06_B3,Mangtaunanpaq Ia torro.,Masih lama saya di sini.,0.6780558228492737
+C09_T15_A8,1,C05_T04_B2,"Ieq, pirankiq mpamulaqi?","Baiklah, kapan kita mulai?",0.874355137348175
+C09_T15_A8,2,C49_T03_A2,Digeretan toqraka manuk?,Apakah juga disembelihkan ayam?,0.8455676436424255
+C09_T15_A8,3,C41_T01_A1,Mangngapari to tau ntuq joq?,Apa yang sedang dikerjakan orang di sana?,0.839425265789032
+C09_T16_B8,1,C22_T04_B2,Tallung bulanpi.,Masih tiga bulan lagi.,0.9007545709609985
+C09_T16_B8,2,C11_T02_B1,Kaserakan sileqto.,Kami sembilan bersaudara.,0.8469768762588501
+C09_T16_B8,3,C50_T04_B2,Ia to sallegalli.,Orang yang suka marah.,0.8466961979866028
+C09_T17_A9,1,C10_T07_A4,Piramirikiq sainna melajah bicara Duri?,Sudah berapa lama Anda belajar bahasa Duri?,0.832988440990448
+C09_T17_A9,2,C34_T11_A6,La taapara tuq totosik?,Mau Anda apakan burung hantu itu?,0.6300232410430908
+C09_T17_A9,3,C42_T09_A5,Apa nabawa ke ratui nnollongngii to pea'?,Apa biasanya dibawa kalau pergi menjenguk anak-anak?,0.6290611028671265
+C09_T18_B9,1,C41_T02_B1,Manyumpunni.,Dia membakar hutan.,0.8994885683059692
+C09_T18_B9,2,C45_T05_A3,Ajena.,Kakinya.,0.8704774379730225
+C09_T18_B9,3,C26_T07_A4,Teqda naciapa.,Tidak apa-apa.,0.8078972101211548
+C09_T19_A10,1,C05_T04_B2,"Ieq, pirankiq mpamulaqi?","Baiklah, kapan kita mulai?",0.9078723192214966
+C09_T19_A10,2,C49_T03_A2,Digeretan toqraka manuk?,Apakah juga disembelihkan ayam?,0.906108558177948
+C09_T19_A10,3,C34_T03_A2,Tuo unaparaka tuq totosik?,Masih hidupkah burung hantu itu?,0.898581862449646
+C09_T20_B10,1,C47_T04_B2,"Ia sabaq teqda too nawaqding ditaqdean to pangngadaran, iana den una situju, doiq mesaq juta, tedong dua, rido limang pekuluq.","Oleh karena tidak bisa juga kita hilangkan adat dan kalau Anda setuju, uang satu juta, kerbau dua ekor, beras lima pikul.",0.8752769827842712
+C09_T20_B10,2,C32_T08_B4,Disanga keak sola doraq.,Namanya kakatua dan nuri.,0.8742036819458008
+C09_T20_B10,3,C26_T03_A2,Masuliq gajai. Sisaratuhmo.,Terlalu mahal. Rp. 100 saja.,0.8649080395698547
+C09_T21_A11,1,C47_T06_B3,Teqdamo.,Tidak ada lagi.,0.8612364530563354
+C09_T21_A11,2,C48_T05_A3,Apara disanga mangpaendek?,Apakah yang dimaksud dengan menaikkan barang?,0.8569172620773315
+C09_T21_A11,3,C38_T07_A4,Ciapari naden to teqda namangpuasa?,Mengapa ada orang yang tidak berpuasa?,0.8395272493362427
+C09_T22_B11,1,C17_T06_B3,Laqbi patangpulo hetto.,Empat puluh hektar lebih.,0.878722071647644
+C09_T22_B11,2,C43_T04_B2,Mauku-uku una ia.,Dia sehat-sehat saja.,0.8777710199356079
+C09_T22_B11,3,C12_T02_B1,Manglaqbuk gollakan.,Kami sedang menumbuk gula.,0.8760545253753662
+C33_T01_A1,1,C19_T01_A1,Budaraka pondan indeq?,Banyakkah nenas di sini?,0.9147630929946899
+C33_T01_A1,2,C25_T01_A1,Budaraka bua-bua nteq mai?,Apakah banyak buah-buahan di sini?,0.8206974267959595
+C33_T01_A1,3,C15_T15_A8,Mangkamiraka napasangngi palapong bolana ambeqna Juhani?,Sudahkah selesai dipasangi plapon rumah bapaknya Juhani?,0.8124713897705078
+C33_T02_B1,1,C46_T09_A5,"Iana meloh una ia, teqdamo namangpasisala to dipaendek. Kukutanaipi joloq naden maneq ratu poleq jio mai.","Kalau dia mau, barang yang antaran itu tidak dipersoalkan lagi. Saya tanyai dahulu, nanti bapak datang lagi.",0.7272367477416992
+C33_T02_B1,2,C13_T08_B4,"Jio bokoq bolana, nani mangtaqbang punti.",Dia menebang pisang di belakang rumahnya.,0.725511908531189
+C33_T02_B1,3,C36_T02_B1,Ia to buda gajai cuccuq bungin ngkabuaqi.,Sebab banyak sekali anjing tanah yang membuatnya.,0.7105048298835754
+C33_T03_A2,1,C28_T03_A2,Matumbara ke dikabuaqi?,Bagaimana caranya kalau dibuat?,0.9623602628707886
+C33_T03_A2,2,C24_T03_A2,Matumbara ke mantanansikolaqkiq?,Bagaimana cara menanam coklat?,0.9404253363609314
+C33_T03_A2,3,C19_T07_A4,Matumbara ke mangkarruk pondankiq?,Bagaimana caranya kalau kita mengeruk daun nenas?,0.9284458160400391
+C33_T04_B2,1,C26_T03_A2,Masuliq gajai. Sisaratuhmo.,Terlalu mahal. Rp. 100 saja.,0.7580997943878174
+C33_T04_B2,2,C14_T06_B3,La dicerakki to bola sanga mangkami dikabuaq.,Rumah kami yang akan dipestakan karena sudah selesai dibuat.,0.7457846403121948
+C33_T04_B2,3,C35_T03_A2,"Diballakki joloq baqtangna, na dialai to tambukkuna maneq disontiq pormalin.","Dibelah dahulu perutnya, kemudian dikeluarkan ususnya, baru disuntik dengan formalin.",0.7372362017631531
+C33_T05_A3,1,C28_T03_A2,Matumbara ke dikabuaqi?,Bagaimana caranya kalau dibuat?,0.8927545547485352
+C33_T05_A3,2,C19_T05_A3,Matumbara ke dikabuaqi ulang?,Bagaimana caranya kalau dibuat tali?,0.8846338987350464
+C33_T05_A3,3,C19_T07_A4,Matumbara ke mangkarruk pondankiq?,Bagaimana caranya kalau kita mengeruk daun nenas?,0.8752633333206177
+C33_T06_B3,1,C50_T06_B3,"Ia to disanga sallegalli, ia to tau, denna apa ciqdiq nakabaqci, magalli omi.","Orang yang kalau ada sesuatu yang tidak dia sukai, dia marah lagi.",0.8401517271995544
+C33_T06_B3,2,C47_T04_B2,"Ia sabaq teqda too nawaqding ditaqdean to pangngadaran, iana den una situju, doiq mesaq juta, tedong dua, rido limang pekuluq.","Oleh karena tidak bisa juga kita hilangkan adat dan kalau Anda setuju, uang satu juta, kerbau dua ekor, beras lima pikul.",0.8280037641525269
+C33_T06_B3,3,C47_T01_A1,"Matumbamira anakkataq, meloh unarka?","Bagaimana dengan anak Bapak, apakah ia mau?",0.8243373036384583
+C33_T07_A4,1,C02_T01_A1,Umbora tapangngujui?,Mau ke mana pak?,0.9345908761024475
+C33_T07_A4,2,C23_T07_A4,Apara tabawa ke parundunkiq?,Apa yang Ibu bawa kalau Ibu mengantarkan makanan?,0.9123388528823853
+C33_T07_A4,3,C06_T01_A1,Umbora tani torro?,Di mana Anda tinggal?,0.9026695489883423
+C33_T08_B4,1,C12_T02_B1,Manglaqbuk gollakan.,Kami sedang menumbuk gula.,0.8340003490447998
+C33_T08_B4,2,C13_T06_B3,"Iake mangtaqbang puntikiq, laqboh dipake.","Kalau kita menebang pisang, kita menggunakan parang.",0.8271292448043823
+C33_T08_B4,3,C17_T06_B3,Laqbi patangpulo hetto.,Empat puluh hektar lebih.,0.8248032331466675
+C33_T09_A5,1,C18_T11_A6,Indara nnampai pea indeq?,Siapakah yang menjaga anak di sini?,0.9048816561698914
+C33_T09_A5,2,C49_T03_A2,Digeretan toqraka manuk?,Apakah juga disembelihkan ayam?,0.8926569223403931
+C33_T09_A5,3,C14_T05_A3,La mangcerak aparikiq?,Anda akan pesta apa?,0.8909734487533569
+C33_T10_B5,1,C11_T08_B4,"Tuo unapi, indeq unai torro.","Ya masih hidup, mereka juga tinggal di sini.",0.8179282546043396
+C33_T10_B5,2,C34_T06_B3,Jio baraqbahkuq.,Di kebun saya.,0.8059004545211792
+C33_T10_B5,3,C46_T10_B5,"Ieq, piran-piranpa kiratu poleq ke teqdai sabaq.",Ya! kalau tidak ada halangan nanti kami datang lagi.,0.7859513759613037
+C33_T11_A6,1,C47_T03_A2,"Ia paleq ke susii tuq waqding melohhi ia, pirara doiq la kipasirempun?","Kalau begitu mungkin dia sudah mau, berapa uang yang akan kami kumpulkan?",0.8749539256095886
+C33_T11_A6,2,C05_T04_B2,"Ieq, pirankiq mpamulaqi?","Baiklah, kapan kita mulai?",0.8456277847290039
+C33_T11_A6,3,C19_T07_A4,Matumbara ke mangkarruk pondankiq?,Bagaimana caranya kalau kita mengeruk daun nenas?,0.8408663272857666
+C33_T12_B6,1,C25_T03_A2,Bua-bua apa unamora ia?,Buah-buahan apa saja?,0.7669285535812378
+C33_T12_B6,2,C48_T06_B3,"Ia to disanga mangpaendek, ia to muane mbawa apa apa to dikande ke bottingngi.","Yang dimaksud dengan 'menaikkan barang', adalah pihak laki-laki membawa barang yang akan dimakan pada saat mengadakan pesta.",0.7652510404586792
+C33_T12_B6,3,C39_T02_B1,"Malekan teq too, apa doppari.","Kami akan pergi, tetapi sebentar lagi.",0.7472450137138367
+C33_T13_A7,1,C49_T03_A2,Digeretan toqraka manuk?,Apakah juga disembelihkan ayam?,0.9206188917160034
+C33_T13_A7,2,C11_T08_B4,"Tuo unapi, indeq unai torro.","Ya masih hidup, mereka juga tinggal di sini.",0.9032922983169556
+C33_T13_A7,3,C05_T04_B2,"Ieq, pirankiq mpamulaqi?","Baiklah, kapan kita mulai?",0.9028095006942749
+C33_T14_B7,1,C47_T03_A2,"Ia paleq ke susii tuq waqding melohhi ia, pirara doiq la kipasirempun?","Kalau begitu mungkin dia sudah mau, berapa uang yang akan kami kumpulkan?",0.8933651447296143
+C33_T14_B7,2,C16_T06_B3,Iana teqda namangjama kemuanei ke denni ngkadoangngii. Iana muane kebainei.,"Kalau perempuan dan tidak bekerja, dia bersuami kalau ada yang menyenanginya. Kalau laki-laki beristeri.",0.889992356300354
+C33_T14_B7,3,C45_T04_B2,"Denmo messun, apa den unapa lan. Den kusaqding pea napollohhii laqboh. Apannara nakanna?","Sudah ada yang keluar, tetapi masih ada di dalam. Saya dengar ada anak-anak terkena parang jatuh, apanya yang kena?",0.8837108612060547
+C33_T15_A8,1,C38_T07_A4,Ciapari naden to teqda namangpuasa?,Mengapa ada orang yang tidak berpuasa?,0.8786665201187134
+C33_T15_A8,2,C48_T05_A3,Apara disanga mangpaendek?,Apakah yang dimaksud dengan menaikkan barang?,0.8412402272224426
+C33_T15_A8,3,C45_T04_B2,"Denmo messun, apa den unapa lan. Den kusaqding pea napollohhii laqboh. Apannara nakanna?","Sudah ada yang keluar, tetapi masih ada di dalam. Saya dengar ada anak-anak terkena parang jatuh, apanya yang kena?",0.8343275785446167
+C33_T16_B8,1,C29_T08_B4,"Teqda. Ia to punti manurun bondiq ia, apa gaja kassing disanggaraq ke makaleqi, sanga pejampi mah teqdapi apa dikande.","Tidak. Pisang kepok itu pendek tetapi sangat bagus digoreng kalau pagi, karena menjadi obat penyakit maag kalau belum makan pagi.",0.8437727689743042
+C33_T16_B8,2,C25_T06_B3,"Teqda, sanga teqdapa nakembua.","Belum, karena belum berbuah.",0.8119622468948364
+C33_T16_B8,3,C15_T04_B2,Pekalira napake sanga teqda sikupang.,Hanya linggis yang dia pakai karena tidak ada sekop.,0.7905365228652954

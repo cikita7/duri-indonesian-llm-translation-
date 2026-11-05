@@ -1,0 +1,20 @@
+{
+  "created_at_utc": "2026-08-13T19:14:47.439213+00:00",
+  "scenario": "lora_locked",
+  "scenario_label": "Fine-Tuning LoRA (Locked)",
+  "input_run_name": "run_20260813T180837Z",
+  "test_rows": 53,
+  "primary_metric": "chrF++",
+  "corpus_chrfpp": 33.06478903489144,
+  "corpus_bleu_13a": 9.191745850386111,
+  "mean_s3e": 0.540777466808944,
+  "median_s3e": 0.5638052677565162,
+  "s3e_available_rows": 53,
+  "bleu_tokenizer": "13a",
+  "chrf_word_order": 2,
+  "reference_used": true,
+  "reference_stage": "final_evaluation_only",
+  "reference_fingerprint": "f8b668d87795c26dff25017c1ead195394cff5bfc55f5b75522693bcc667c289",
+  "selected_output_path": "/workspace/10122233_CikitaMeydilvira_Skripsi/Hasil/final_selection/lora_locked/run_20260813T180837Z/mbr_selected.csv",
+  "details_path": "/workspace/10122233_CikitaMeydilvira_Skripsi/Hasil/final_evaluation/lora_locked/run_20260813T180837Z/final_metric_details.csv"
+}

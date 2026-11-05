@@ -1,0 +1,4 @@
+﻿model_a,model_b,error_type_agreement,severity_agreement,verdict_agreement,joint_tuple_agreement
+anthropic/claude-sonnet-4.6,google/gemini-3.1-pro-preview,0.5974842767295597,0.5534591194968553,0.8679245283018868,0.5031446540880503
+anthropic/claude-sonnet-4.6,openai/gpt-5.2,0.6289308176100629,0.5911949685534591,0.8616352201257862,0.44654088050314467
+google/gemini-3.1-pro-preview,openai/gpt-5.2,0.610062893081761,0.42138364779874216,0.8805031446540881,0.3710691823899371

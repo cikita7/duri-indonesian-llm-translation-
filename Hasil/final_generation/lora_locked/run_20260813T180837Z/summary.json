@@ -1,0 +1,12 @@
+{
+  "status": "complete",
+  "run_id": "run_20260813T180837Z",
+  "test_rows": 53,
+  "candidates_per_input": 5,
+  "total_candidates": 265,
+  "empty_outputs": 0,
+  "mean_generation_time_seconds": 1.0494067051430356,
+  "candidates_long": "/workspace/10122233_CikitaMeydilvira_Skripsi/Hasil/final_generation/lora_locked/run_20260813T180837Z/candidates_long.csv",
+  "candidates_wide": "/workspace/10122233_CikitaMeydilvira_Skripsi/Hasil/final_generation/lora_locked/run_20260813T180837Z/candidates_wide.csv",
+  "manifest": "/workspace/10122233_CikitaMeydilvira_Skripsi/Hasil/final_generation/lora_locked/run_20260813T180837Z/manifest.json"
+}

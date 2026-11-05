@@ -1,0 +1,54 @@
+﻿scenario,row_id,conversation_no,turn_order,source_text,selected_candidate_index,selected_candidate,selected_output,selected_utility,s3e_value,valid_candidate_count,selection_status
+lora_locked,C03_T01_A1,3,1,Denmoraka naden tamale tama Panyurak?,1,C1,Kapan baru ada pesta tamale di Panyurak?,0.660045199424111,0.5675896949527681,5,mbr_selected
+lora_locked,C03_T02_B1,3,2,"Ieq, penduanmoq.",2,C2,"Ya, silahkan naik.",0.8013966999330752,0.2812175704393674,5,mbr_selected
+lora_locked,C03_T03_A2,3,3,Piranra tacappaq male tama Panyurak?,2,C2,Kapan baru akan selesai jalan Panyurak?,0.5465976157916739,0.7289564061457842,5,mbr_selected
+lora_locked,C03_T04_B2,3,4,Ia tonna bulan dua tanggalaq duangpulo annan.,1,C1,Yang keempat belas tanggal dua puluh sembilan.,0.9348152873378418,0.09682787421230242,5,mbr_selected
+lora_locked,C03_T05_A3,3,5,Mangngaparikiq male tama?,2,C2,Apa yang dikerjakan di kebun?,0.6055752334890337,0.5638052677565162,5,mbr_selected
+lora_locked,C03_T06_B3,3,6,Malenaq ngkita bola loqbang.,1,C1,Saya pergi menangkap ikan.,0.5937117870011153,0.7633784210252051,5,mbr_selected
+lora_locked,C03_T07_A4,3,7,Ciapari naloqbang joq bola?,1,C1,Mengapakah ada guntur?,0.5688466752717223,0.7436891506898196,5,mbr_selected
+lora_locked,C03_T08_B4,3,8,"Taqdei puangna, sanga torro jiongri Pinrang.",3,C3,"Tidak ada lagi keperluan, karena sudah sampai di Pinrang.",0.7005827907194349,0.443547824351384,5,mbr_selected
+lora_locked,C03_T09_A5,3,9,Makassingraka joq bola?,1,C1,Apakah itu bola sepak?,0.5972391808751659,0.7076263857859747,5,mbr_selected
+lora_locked,C03_T10_B5,3,10,"Makassing na matonggo, pa masussa to wai.",5,C5,"Besok akan sehat, karena air itu obat.",0.3977439989895288,1.1751030863495824,5,mbr_selected
+lora_locked,C03_T11_A6,3,11,"Ia ke nnallikiq tangki wai, teqdamo na masussa to wai ke uranni.",1,C1,"Kalau kita mau memasukkan tangki air, tidak ada lagi tempat untuk air hujan.",0.8136089690636672,0.25116074157222307,5,mbr_selected
+lora_locked,C03_T12_B6,3,12,Umbora kuni nnalli?,2,C2,Di mana Anda tinggal?,0.6006894707093892,0.7419053371608358,5,mbr_selected
+lora_locked,C03_T13_A7,3,13,"Teqda kitaq kuissenni, mbai den jao Juppandang.",1,C1,"Kami tidak menggigit, tapi di Juppandang ada.",0.720669605833121,0.48258469572696894,5,mbr_selected
+lora_locked,C03_T14_B7,3,14,Masuliqraka joq tangki?,1,C1,Apakah tangki itu mahal?,0.830794093759585,0.37421004729284046,5,mbr_selected
+lora_locked,C03_T15_A8,3,15,"Masuliq kitaqna, pa makaccaq dipake mangpulo taun.",2,C2,"Masih lama kita, karena barang yang dipakai itu sudah berumur 40 tahun.",0.7219648822820988,0.4550503902743544,5,mbr_selected
+lora_locked,C09_T01_A1,9,1,Denmoraka balintaq?,2,C2,Apakah sudah lama Anda tunggu?,0.42476066005997126,1.1905204265828213,5,mbr_selected
+lora_locked,C09_T02_B1,9,2,Denmo.,1,C1,Ada.,1.0,-0.0,5,mbr_selected
+lora_locked,C09_T03_A2,9,3,To umbora joq balintaq?,3,C3,Yang mana lagi biasa Ibu tangkap?,0.5070376063057911,0.8924718340894426,5,mbr_selected
+lora_locked,C09_T04_B2,9,4,To jio mai Finlandia.,4,C4,Orang yang berasal dari Finlandia.,0.96254203635208,0.05903670670914858,5,mbr_selected
+lora_locked,C09_T05_A3,9,5,Umborikiq sitammu?,5,C5,Bagaimana lagi sepupu satu kali Anda?,0.46713799052095245,1.0100749009243744,5,mbr_selected
+lora_locked,C09_T06_B3,9,6,Ia tonna kumassikola jio Inggiris na kisitammu.,5,C5,"Kalau di Inggris sudah dibuat jadi mainan, saya ingin juga membelinya.",0.4725299040388804,1.0223276651999276,5,mbr_selected
+lora_locked,C09_T07_A4,9,7,Sicandingrikiqka tamaneq siala?,2,C2,Apakah Anda sendirian tinggal?,0.6053567095478057,0.7037057858847665,5,mbr_selected
+lora_locked,C09_T08_B4,9,8,"Ieq, sicandingkan.",1,C1,"Ya, silahkan.",0.8994485164328665,0.1876805260467708,5,mbr_selected
+lora_locked,C09_T09_A5,9,9,Piramira anakkataq?,2,C2,Berapa anak Bapak?,0.8733037904917595,0.16559335609541534,5,mbr_selected
+lora_locked,C09_T10_B5,9,10,"Duami, mesaq baine mesaq muane.",1,C1,"Kami sudah lama, sejak perempuan kami lahir.",0.43970143902533504,0.8905608057858732,5,mbr_selected
+lora_locked,C09_T11_A6,9,11,Pirang taunmira to muane?,1,C1,Berapa tahun Anda?,0.9999999707017664,2.9298234046163293e-08,5,mbr_selected
+lora_locked,C09_T12_B6,9,12,Duang taunmi sitangnga.,4,C4,Dua tahun tiga bulan.,0.8665996895312328,0.19398714542197482,5,mbr_selected
+lora_locked,C09_T13_A7,9,13,Umbori joq too?,3,C3,Mau ke mana pak?,0.6422321223926287,0.5987564675024213,5,mbr_selected
+lora_locked,C09_T14_B7,9,14,Malei maningo-ningo sola sangpeana.,5,C5,Hanya makanan ringan dan buah-buahan.,0.2678454103002639,1.4596748049159527,5,mbr_selected
+lora_locked,C09_T15_A8,9,15,Lumingkamiraka to biccuq?,1,C1,Kamu sudah lama menggigit anak itu?,0.5528491140608336,0.7993748670510545,5,mbr_selected
+lora_locked,C09_T16_B8,9,16,Teqdapa nalumingka.,4,C4,Tidak adakah uang.,0.5435982126005834,0.7866569497547564,5,mbr_selected
+lora_locked,C09_T17_A9,9,17,Piramira isinna?,4,C4,Apakah sudah terbit?,0.6759511405316021,0.5646561934626856,5,mbr_selected
+lora_locked,C09_T18_B9,9,18,Duami.,4,C4,Sudah.,0.535712660136234,0.7844113160320173,5,mbr_selected
+lora_locked,C09_T19_A10,9,19,Apara nakande tikianuq?,2,C2,Apa yang dikerjakan di kebun?,0.9886296191288236,0.014288445295890845,5,mbr_selected
+lora_locked,C09_T20_B10,9,20,"Tolloq, camme sola abon-abon siciqdiq.",4,C4,"Ada, sudah sampai dengan abon-abon sekitar.",0.695364044427234,0.39353455224505113,5,mbr_selected
+lora_locked,C09_T21_A11,9,21,Teqdamoraka nacumucu?,2,C2,Apakah mereka tidak bisa berbicara?,0.49147243953738307,0.84354447075057,5,mbr_selected
+lora_locked,C09_T22_B11,9,22,Cumucu unapa.,5,C5,"Sudah, silahkan naik.",0.23849284571748572,1.803575327615364,5,mbr_selected
+lora_locked,C33_T01_A1,33,1,Budaraka tedong malillin indeq?,1,C1,Banyakkah kerbau di sini?,0.9913472676203348,0.013997106042039551,5,mbr_selected
+lora_locked,C33_T02_B1,33,2,"Ieq, buda jio buntu Latimojong, apa malaira.",5,C5,"Ya, banyak di Gunung Latimojong, tapi sulit.",0.9279949184784553,0.12960376765502762,5,mbr_selected
+lora_locked,C33_T03_A2,33,3,Matumbara ke dijokkoi?,1,C1,Bagaimana caranya kalau dijilat?,0.7756704098091518,0.28466322288652013,5,mbr_selected
+lora_locked,C33_T04_B2,33,4,Dipaulaqi asu.,2,C2,Dipotongkan kambing.,0.8088969522253449,0.3419500137092628,5,mbr_selected
+lora_locked,C33_T05_A3,33,5,Matumbara ke dibunoi?,1,C1,Bagaimana caranya kalau dibunuh?,1.0,-0.0,5,mbr_selected
+lora_locked,C33_T06_B3,33,6,"Iana dibuno, didokei iaqrika dibakaqi.",4,C4,"Kalau sudah selesai, dinaiki kalau sudah selesai dibuat.",0.8461950539425556,0.29114793570468944,5,mbr_selected
+lora_locked,C33_T07_A4,33,7,Apara dikabuaq doke?,1,C1,Apa yang dibuat tadi?,1.0,-0.0,5,mbr_selected
+lora_locked,C33_T08_B4,33,8,Ia to dikabuaq doke kajaoh iaqrika bassi. Dipetarannii cappaqna ke ngkabuaq doke.,1,C1,Yang dibuat tali tenun adalah serat bambu atau serat rami. Dibuat tadi waktu membuat tali.,0.7535576629325401,0.4718536938066239,5,mbr_selected
+lora_locked,C33_T09_A5,33,9,Indara macca ngkabuaq doke?,1,C1,Siapakah yang membuat jendela itu?,0.7989284145222467,0.3451587044239443,5,mbr_selected
+lora_locked,C33_T10_B5,33,10,Buda tau macca ngkabuaq doke nteq mai.,2,C2,Banyak orang yang bisa membuat doke dari kayu.,0.6357782837871974,0.6300124409921877,5,mbr_selected
+lora_locked,C33_T11_A6,33,11,Matumbara joq tedong malillin?,3,C3,Bagaimana dengan kerbau yang dijilat?,0.5874884537321459,0.5683234120349436,5,mbr_selected
+lora_locked,C33_T12_B6,33,12,Susi to beke apa malotong ngasan bulunna pada bang to bai.,3,C3,Saya membeli kambing karena sudah besar dan berat badannya.,0.48925934165691165,0.7700979566174542,5,mbr_selected
+lora_locked,C33_T13_A7,33,13,Susiraka to tanduk tedong to tandukkuna?,3,C3,Bagaimana bentuk tanduk kerbau yang baik?,0.7880880290568035,0.3374352352357747,5,mbr_selected
+lora_locked,C33_T14_B7,33,14,"Teqda. Ia to tanduk tedong malillin tuo lako bokoqna na gaja taran, apa ia to tanduk tedong tuo lako saqdena na teqda namataran gaja.",3,C3,"Tidak. Tanduk kerbau yang sudah besar akan keluar dari lobang dan banyak berkebun, sedangkan tanduk kerbau yang masih kecil akan keluar dari lobang dan tidak berkebun banyak.",0.6175765613034806,0.5876679195382325,5,mbr_selected
+lora_locked,C33_T15_A8,33,15,Ciapari namataran tandukkuna to tedong malillin?,1,C1,Mengapa tanduk kerbau dijepit kalau disembelih?,0.8261605116758186,0.22569556812509023,5,mbr_selected
+lora_locked,C33_T16_B8,33,16,"Ia adeqna namataran to tanduk tedong malillin, sanga tuli nasangehhi jio batang kaju.",3,C3,"Kalau sudah selesai dikeruk serat tanduk pisang, kita tekan dengan tangan, supaya keluar seratnya, kemudian kita giling dengan batang kayu.",0.4398278569087434,0.9225132937018072,5,mbr_selected

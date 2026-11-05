@@ -1,0 +1,65 @@
+{
+  "created_at_utc": "2026-08-13T21:54:41.670584+00:00",
+  "cases": 159,
+  "agents": 3,
+  "consensus_method": "attribute-wise majority; 2/3 or 3/3",
+  "no_majority_token": "__no_majority__",
+  "unresolved_rule": "no majority or logically inconsistent consensus -> needs_manual_review=True",
+  "all3_agreement": {
+    "error_type_all3_agree": 0.4591194968553459,
+    "severity_all3_agree": 0.31446540880503143,
+    "verdict_all3_agree": 0.8050314465408805,
+    "manual_review_rate": 0.1069182389937107
+  },
+  "scenario_summary": [
+    {
+      "scenario_slug": "fsp_locked",
+      "scenario_label": "Fragment-Shot Prompting",
+      "cases": 53,
+      "error_type_all3_agreement": 0.41509433962264153,
+      "severity_all3_agreement": 0.3584905660377358,
+      "verdict_all3_agreement": 0.7735849056603774,
+      "logical_consensus_rate": 0.8679245283018868,
+      "manual_review_rate": 0.1320754716981132,
+      "correct_rate": 0.11320754716981132,
+      "layak_rate": 0.1320754716981132,
+      "major_critical_rate": 0.8113207547169812
+    },
+    {
+      "scenario_slug": "lora_locked",
+      "scenario_label": "Fine-Tuning LoRA",
+      "cases": 53,
+      "error_type_all3_agreement": 0.2830188679245283,
+      "severity_all3_agreement": 0.2830188679245283,
+      "verdict_all3_agreement": 0.7169811320754716,
+      "logical_consensus_rate": 0.8679245283018868,
+      "manual_review_rate": 0.1320754716981132,
+      "correct_rate": 0.1320754716981132,
+      "layak_rate": 0.1320754716981132,
+      "major_critical_rate": 0.7735849056603774
+    },
+    {
+      "scenario_slug": "zero_shot",
+      "scenario_label": "Zero-Shot",
+      "cases": 53,
+      "error_type_all3_agreement": 0.6792452830188679,
+      "severity_all3_agreement": 0.3018867924528302,
+      "verdict_all3_agreement": 0.9245283018867925,
+      "logical_consensus_rate": 0.9433962264150944,
+      "manual_review_rate": 0.05660377358490566,
+      "correct_rate": 0.018867924528301886,
+      "layak_rate": 0.018867924528301886,
+      "major_critical_rate": 0.9433962264150944
+    }
+  ],
+  "source_judgments": "/workspace/10122233_CikitaMeydilvira_Skripsi/Hasil/llm_evaluator_main/panel_runs/run_f23f6109bec1a27d/main_evaluator_final_477.csv",
+  "outputs": {
+    "case_level": "/workspace/10122233_CikitaMeydilvira_Skripsi/Hasil/llm_evaluator_main/consensus/llm_evaluator_consensus_159.csv",
+    "error_profile": "/workspace/10122233_CikitaMeydilvira_Skripsi/Hasil/llm_evaluator_main/consensus/error_type_profile_by_scenario.csv",
+    "severity_profile": "/workspace/10122233_CikitaMeydilvira_Skripsi/Hasil/llm_evaluator_main/consensus/severity_profile_by_scenario.csv",
+    "verdict_profile": "/workspace/10122233_CikitaMeydilvira_Skripsi/Hasil/llm_evaluator_main/consensus/verdict_profile_by_scenario.csv",
+    "agreement": "/workspace/10122233_CikitaMeydilvira_Skripsi/Hasil/llm_evaluator_main/consensus/pairwise_evaluator_agreement.csv",
+    "scenario_summary": "/workspace/10122233_CikitaMeydilvira_Skripsi/Hasil/llm_evaluator_main/consensus/scenario_evaluator_summary.csv",
+    "combined_summary": "/workspace/10122233_CikitaMeydilvira_Skripsi/Hasil/llm_evaluator_main/consensus/final_metrics_plus_llm_evaluator_summary.csv"
+  }
+}
